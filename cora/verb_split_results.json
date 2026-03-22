@@ -1,0 +1,28 @@
+{
+  "split": "verb-held-out (stratified by factivity label)",
+  "train_verbs": 247,
+  "test_verbs": 62,
+  "test_n": 513,
+  "label_dist": {
+    "factive": 82,
+    "non_factive": 431
+  },
+  "majority": {
+    "acc": 0.84,
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0.0
+  },
+  "verb_lookup": {
+    "acc": 0.84,
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0.0
+  },
+  "morphology": {
+    "acc": 0.881,
+    "p": 0.657,
+    "r": 0.537,
+    "f1": 0.591
+  }
+}

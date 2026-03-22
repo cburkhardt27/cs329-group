@@ -1,0 +1,22 @@
+{
+  "dataset": "Polish Factivity (Kobyli\u0144ski et al., 2023)",
+  "test_n": 487,
+  "label_dist": {
+    "factive": 103,
+    "non_factive": 384
+  },
+  "majority_class": {
+    "label": "False",
+    "acc": 0.789,
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0.0
+  },
+  "verb_lookup": {
+    "acc": 0.986,
+    "p": 0.99,
+    "r": 0.942,
+    "f1": 0.965,
+    "unseen_verbs": 29
+  }
+}
