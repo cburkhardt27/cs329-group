@@ -63,13 +63,13 @@ for prefix, filename in [("args", "eng.args")]:
     print(f"Processing {filename} ...")
     rows = read_tsv(os.path.join(DATA_DIR, filename))
 
-    input_rows  = [["sample_id", "id", "inflected_form", "tag"]]
+    input_rows  = [["sample_id", "id", "inflected_form"]]
     answer_rows = [["sample_id", "id", "lemma"]]
 
     for sample_num, seed in enumerate(SEEDS, start=1):
         for row_id, row in enumerate(stratified_sample(rows, SAMPLE_SIZE, tag_col=2, seed=seed), start=1):
-            lemma, word, tag = row[0], row[1], row[2]
-            input_rows.append([sample_num, row_id, word, tag])
+            lemma, word = row[0], row[1]
+            input_rows.append([sample_num, row_id, word])
             answer_rows.append([sample_num, row_id, lemma])
 
     write_csv(input_rows,  os.path.join(OUT_DIR, f"{prefix}_input.csv"))

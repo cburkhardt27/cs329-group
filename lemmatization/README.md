@@ -48,7 +48,7 @@ Same underlying rows as `eng` — **splits are shared**.
 
 | File                | Task          | Input                  | Target         |
 | ------------------- | ------------- | ---------------------- | -------------- |
-| `eng.args`          | Lemmatization | `inflected_form + tag` | `lemma`        |
+| `eng.args`          | Lemmatization | `inflected_form` only  | `lemma`        |
 | `eng.segmentations` | Segmentation  | `inflected_form + tag` | `segmentation` |
 
 `eng` overlaps with `eng.args` and is not used for evaluation.
@@ -107,9 +107,9 @@ Send **2 separate messages** — one per task. Paste the CSV contents directly a
 ### Message 1 — Lemmatization (`args_input.csv`)
 
 ```
-For each row, predict the base lemma of the inflected word. Return ONLY a CSV saved as args_predictions_[model].csv with columns: sample_id,id,predicted_lemma. No explanation. Do not skip rows.
+For each row, predict the base lemma (dictionary headword) of the inflected word. Return ONLY a CSV saved as args_predictions_[model].csv with columns: sample_id,id,predicted_lemma. No explanation. Do not skip rows.
 
-Tag reference: V;PST=past tense, V;V.PTCP;PRS=present participle, N;PL=plural noun, V;NFIN=base form.
+Examples: eating→eat, went→go, mice→mouse, runs→run
 
 Data:
 [paste CSV contents here]
