@@ -1,0 +1,746 @@
+item_num,sentence,option1,option2
+1,"Lapho esePoland, uDennis walujabulela kakhulu uhambo kunoJason ngoba _ wayengaluqondi kahle ulimi lwesi Pholishi.",Dennis ,Jason 
+2,UEmily wasebenzisa imali eningi kwefoni ehlakaniphile yakhe kodwa uRachel wathenga eshibhile ngoba _ wayenesitayela kakhulu.,Emily,Rachel
+3,UEric kwakulula ukumhlekisa kuno Justin ngoba _ wayenamahlaya.,u-Eric,uJustin
+4,U Benjamin wayenemahlaya entsha kuno Donald ngakho _ wayezonda umqamelo wama whoopie.,uBenjamin,uDonald
+5,UJustin wayekwazi ukudlala umculo esigincini ngokungafani noCraig ngoba _ wayethanda imidlalo yaphandle.,uJustin,uCraig
+6,"Incwadi uJoel ayibhalile ifundwa ngu-Adam, ngakho-ke _ ungumhloli wayo.",uJoel,u-Adam
+7,UCraig uyakuthanda ukuhlale uhlanza kodwa uDerrick akakuthandi ngoba _ ungumuntu othanda izinto zihlezi ziqoqekile.,UCraig,uDerrick
+8,"U-Elena wayenokukhwehlela okwesabekayo ngenxa yempova, ngokungafani noTanya, ngoba _ wayengenalwazi lwama-aleji.",U-Elena,uTanya
+9,UMatthew ucele ukusiza ekubhaleleni u Christopher uhlelo lokuzilolonga ngoba u _ wayengekho esimweni.,Matthew,Christopher
+10,"UHunter uthanda ama tulips kanti uRyan akawafuni, ngakho _ wenqaba ukuwathenga esitolo.",UHunter,uRyna
+11,"URebecca walanda u-Amy edamini lemoto ukuze asebenze nsuku zonke, ngakho ke _ wanikela ngemali yegesi.",uRebecca,u-Amy
+12,"URachel ufake uTanya kuvidiyo yakhe ye YouTube, kodwa  _ wayethukuthele ngoba ehlulekile ukuthola imvume.",URachel,uTanya
+13,"UAmy wayelizonda iphunga le bleach, kodwa nokho uKayla wayelisebenzisa ngaso sonke isikhathi ukuze ahlanze ngakho _ uhlale ephuma endlini.",Amy,uKayla
+14,"UIan wacelwa uKevin ukuba asize ngezintela zabo ngoba _ wayengumcwaningimabhuku ophumelelayo, oqeqeshiwe.",lan,Kevin
+15,"UAmy wayelizonda iphunga le bleach, kodwa nokho uKayla wayelisebenzisa ngaso sonke isikhathi ukuze ahlanze ngakho _ wazama ukulisebenzisa kancane.",Amy,Kayla
+16,"u Rebecca walanda u Amy edamini lemoto ukuze asebenze nsuku zonke, ngakho _ wacela imali yegesi.",Rebecca,Amy
+17,UCarrie kwakudingeka aqaphe ngempilo yakhe yamathambo uNatalie akhathazeke ngakho njengoba _ ekhathazekile.,Carrie,Natalie
+18,UEric kwakulula ukuhlekisa kunoJustin ngoba _ wayenamancoko.,u-Eric,uJustin
+19,Isitolo sikaCarrie sinamakhasimende athembekile kunesitolo sika Patricia ngoba isitolo sika _ sisha.,uCarrie,uPatricia
+20,URandy ungcono ekudlaleni nokuzenzisa nezingane kunoKenneth ngoba u _ ungumuntu ozimisele kakhulu.,uRandy,uKenneth
+21,"UIan akazange alibone imila emlenzeni kaBrett, ngoba _ wayethola ukuhlolwa kwamehlo kuphela.",u-lan,uBrett
+22,UCraig uthanda ngempela ukuhlanza ngaso sonke isikhathi kodwa uDerrick akathandi ngoba _ akahlanzekile kakhulu.,uCraig,uDerrick
+23,"Ngesikhathi bedlala igalofu, u Dennis wawela odakeni, kodwa uChristopher wagcina eqinile ngoba _ wayefake izicathulo ezinezipikili.",uDennis,uChristopher
+24,"Izinkokhelo zenziwe uJason kuDennis, njengoba _ wayebolekise ngemali engaka esikhathini esidlule.",uJason,uDennis
+25,UPatricia wakhetha inhlabathi eqinile ukuze ikhule ngokungafani noTanya ngoba _ wayenenhlabathi enamatshe kakhulu.,uPatricia,uTanya
+26,"UIan wenzela uNeil iphathi yokubhukuda futhi udinga ukukhuphula i pH echibini, ngakho _ uthenga amalungiselelo okukhulisa i pH.",u-lan,uNeil
+27,USamantha weza nekhadi lokuphola esibhedlela kodwa u Emily wakhohlwa ngoba _ wayecabanga.,uSamantha,u-Emily
+28,Ujustin wayebhala isigaba emhlabeni wakhe nsuku zonke ngokungafani noMathewu ngoba _ wayehlelekile.,uJustin,uMatthew
+29,U Ian wavolontiya ukudla imenyu kaDennis ngemuva kokuba nesitsha ngoba _ ejabulela ukudla amathumbu.,lan,Dennis
+30,U Jason usinqabile isicelo sepasi lika Ian ngoba _ akazange anikezwe amaphepha afanele kusenesikhathi.,uJason,ulan
+31,"UKenneth wabuza uDennis ukuthi umdanso wawudlalwa ngasiphi isikhathi, ngoba _ wayesekhohliwe.",Kenneth,Dennis
+32,"UEric wayefundisa uNeil zonke izindlela ezifanele, ngoba _ wayezisebenzisa ukuze akhokhelwe.",Eric,Neil
+33,UNeil wabuza uMichael ukuthi kwakunjani ukuya empini ngoba _ wayekade eyisosha.,Neil,Michael
+34,UJessica wayezacile kunoRebecca ngoba _ wayedla ushokoledi cishe nsuku zonke njengokudla okulula.,Jessica,Rebecca
+35,UJessica wayekhuluphele kunoRebecca ngoba _ wayedla ushokoledi cishe nsuku zonke njengokudla okulula.,Jessica,Rebecca
+36,"UJoseph wanquma ukulungisa inja yabo egumbini lokulinda ngokungafani noLeslie, ngakho _ waba nenja engcolile.",Joseph,Leslie
+37,Ngemva kokuba u Logan engenwe yinqubulunjwana evela kuJoseph ngakho _ wachitha usuku ethumela imibhalo emnandi ngakho.,Logan,Joseph
+38,UNick wayenenja enkulu kuno Craig ngoba _ wanika inja yabo ukudla okwengeziwe.,Nick,Craig
+39,UNick wayenenja encane kuno Craig ngoba _ wanika inja yabo ukudla okwengeziwe.,Nick,Craig
+40,UEric ucele uMichael ngosuku lokuya kumamuvi ngoLwesihlanu ebusuku ngoba _ wayezethemba kakhulu.,Eric,Michael
+41,UEric ucele uMichael ngosuku lokuya kumamuvi ngoLwesihlanu ebusuku ngoba _ wayekhanga kakhulu.,Eric,Michael
+42,Inkampani yomshwalense isole uLeslie esikhundleni sika Logan ngengozi kwazise _ ubenelambu eliluhlaza.,Leslie,Logan
+43,"ULawrence uhlele ukweba umdwebo obalulekile kuMichael, ngoba _ wayefuna ukuba nento enhle.",Lawrence,Michael
+44,UJennifer wayengcono ekudlaleni ezemidlalo kunoLaura nakuba _ wayengumsubatha kakhulu.,Jennifer,Laura
+45,"UEric wayefundisa uNeil zonke izindlela ezifanele, ngoba _ wayezisebenzisa ukuze abe sesimweni esihle.",Eric,Neil
+46,"Lapho esefikile ePoland, uDennis walujabulela kakhulu uhambo kunoJason ngoba _ wayeluqonda ngokujulile ulimi lwesiPolish.",Dennis,Jason
+47,UAmy wayefuna isixubho esithambile kodwa uMary wayefuna esiqinile ngoba _ wayekhathazeke ngokuba buhlungu.,Amy,Mary
+48,"UNatalie wasiza uMonica ukuba angene ohlelweni lokwelapha, ngemva _ ezwe ngokuba umlutha wezidakamizwa.",Natalie,Monica
+49,UEmily wayenobunzima bokuthomba kodwa hhayi uChristine ngoba _ wayenezinduna ezibangela amahomoni abuthakathaka kakhulu.,Emily,Christine
+50,"UNatalie wasiza uMonica ukuba angene ohlelweni lokwelapha, ngemva kokuba _ ekhulume ngokuluthwa kwakhe izidakamizwa.",Natalie,Monica
+51,"ULawrence washova indlela yabo yokungena ngemva kwesiphepho seqhwa ngenkathi u Aaron egwema ukwenza kanjalo, ngakho _ wayenomgwaqo owawungenalo iqhwa.",Lawrence,Aaron
+52,UElena wayethatha i inventory yabo ngemuva kwesitolo ukuze uMegan adayise isikhathi ngasinye ngoba _ wayengusomabhizinisi.,Elena,Megan
+53,"Lapho uthenga umuzi, uPatricia akanayo imali eningi angayichitha njengoTanya, ngakho _ uthenga indlu enamakamelo amahlanu.",Patricia,Tanya
+54,UMonica wayekujabulela ukubuka amafilimu aseNtshonalanga kuyilapho uNatalie ejabulela amafilimu othando kakhulu ngoba _ wakhulela epulazini.,Monica,Natalie
+55,UAdamu kwadingeka ahlele ukuvakashela udokotela wesikhumba kodwa uJosefa akazange akwenze lokho ngoba _ wayenesikhumba esibi.,Adam,Joseph
+56,UAdamu kwadingeka ahlele ukuvakashela udokotela wesikhumba kodwa uJosefa akazange akwenze lokho ngoba _ wayenesikhumba esihle.,Adam,Joseph
+57,UCarrie wabhekana nefeni kude no Angela ngoba _ wayefudumala kakhulu ekhishini.,Carrie,Angela
+58,UCarrie wabhekana nefeni ebhekise ku Angela ngoba _ wayefudumala kakhulu ekhishini.,Carrie,Angela
+59,UElena wayethatha impahla yabo ngemuva kwesitolo ukuze uMegan adayise isikhathi ngasinye ngoba _ wayeyikhasimende elithembekile.,Elena,Megan
+60,Ngemva kokuba u Logan angenwe yinqubulunjwana evela kuJoseph ngakho _ wachitha usuku ethumela imibhalo eqondile ngakho.,Logan,Joseph
+61,"UVictoria wanquma ukukhetha ukuthutha okusheshayo kuyilapho u Katrina engazange, ngakho u _ wathola ukuthenga kwakhe kuqala.",Victoria,Katrina
+62,Isipiliyoni abahlangene nakho wayengeke akukhohlwe nakancane kuBetty kodwa hhayi uSamantha ngoba _ wayesekulindele izinyanga. ,Betty,Samantha
+63,"Lapho bekhuluma ngabathandiweyo babo, uKenneth wabubula uJeffrey ngoba _ ukhohlwe ukuthi ubani owayemthanda.",Kenneth,Jeffrey
+64,"Lapho bekhuluma ngabathandiweyo babo, uKenneth wahleka uJeffrey ngoba _ wayekhumbula ukuthi ubani owayemthanda.",Kenneth,Jeffrey
+65,"UDonald wayengathandi ukuhlala ehlanzekile ngendlela uMatthew enza ngayo, ngakho _ wayevame ukunuka kamnandi.",Donald,Matthew
+66,"UBrian wayeneqoqo elikhulu lezinhlamvu zemali uKevin ayelithanda ngempela, ngakho ke u-_ wamnikeza izimpinda.",Brian,Kevin
+67,"Ubusika benza izandla zikaJason zome, kodwa hhayi ezikaLeslie, njengoba _ wayekhohlwa njalo ukuzithambisa ebusuku.",Jason,Leslie
+68,"UJason waya kuSteven ukuze alethe incwadi yokubizela enkantolo kanye namasamanisi asenkantolo, ngoba _ wayemangalelwa.",Jason,Steven
+69,Isipiliyoni okuhlangenwe nakho wayengeke akukhohlwe nakancane kuBetty kodwa hhayi uSamantha ngoba _ kwase kuphele izinyanga esaba.,Betty,Samantha
+70,Ukuphatha izimo eziphuthumayo akukaze kube nzima kakhulu kuKevin kodwa beku Nelson ngoba _ wayekwazi ukuhlala ezolile ngaphansi kwengcindezi.,Kevin,Nelson
+71,"UMary uthumela iphakethe elibalulekile kuSarah, ngakho _ ulilanda eposini.",Mary,Sarah
+72,"U Emily waphakamisa amehlo wabona uPatricia ejahile phezulu, njengoba _ eserempini .",Emily,Patricia
+73,"UJeffrey wayekholelwa ukuthi uRobert wayemhlola ngesikhathi somcimbi wangasese, ngoba _ wayenobuqili.",Jeffrey,Robert
+74,"U Katrina ufundiswa indlela yokukhuluma isiKorea nguFelicia, ngakho _ kungenzeka ukuthi wazalelwa e US.",Katrina,Felicia
+75,"UWilliam wayefuna iqanda lesidlo sasekuseni, kodwa uKevin wadla elokugcina, ngakho _ kwadingeka adle okusanhlamvu.",William,Kevin
+76,"U Emily waphakamisa amehlo wabona uPatricia egijima phezulu, njengoba _ engaphansi kwerempu .",u-Emily,uPatricia
+77,"Lapho uthenga umuzi, uPatricia engenayo imali eningi angayichitha njengoTanya, ngakho _ uthenga indlu enekamelo elilodwa.",uPatricia,uTanya
+78,"UKyle wayekhululeke kakhudlwana ukukhuluma phambi kwamaqembu amakhulu kuno Nick, ngoba _ wayethathe izifundo zokukhuluma esidlangalaleni ekolishi.",uKyle,uNick
+79,"UJoseph kwakudingeka abe nezinzipho ezilungiswe kahle emsebenzini, kodwa hhayi uKevin, ngoba _ wayesebenza epulazini.",uJoseph,uKevin
+80,USamantha weza nekhadi lokuphola esibhedlela kodwa u Emily wakhohlwa ngoba _ wayematasatasa.,uSamantha,u-Emily
+81,UJessica wakhumula amagilavu ​​wawanika uKatrina ngoba izandla zika _ zazibanda.,Jessica,Katrina
+82,"U Laura wayehlala enokukhuthazeka okwengeziwe ekuphileni nokufeza imigomo kunoKatrina, njengoba u _ wayevilapha.",Laura,Katrina
+83,"UWilliam wakhohlwa ngazo zonke izikhathi lapho u Ian ebasindisa, ngoba _ ngokuvamile wayezibandakanya.",uWilliam,u-lan 
+84,"UKyle wacabanga ukuthi izinga lokushisa lalishisa kakhulu kuyilapho uWilliam ecabanga ukuthi kubanda kakhulu, ngakho _ wakhuphula ukushisa.",uKyle,uWilliam
+85,UJustin wayebhala isigaba ohlelweni lwakhe nsuku zonke ngokungafani noMathewu ngoba _ wayengahlelekile.,uJustin,uMatthew
+86,"UNeil wavuma ukusiza ukugeza inja enkulu ka Adam, futhi _ wabonga kakhulu ngosizo.",uNeil,u-Adam
+87,Kwacaca ukuthi uJessica wayeqonda futhi ujatshuliswe isihloko esivela kuMonica ngoba _ wayengumfundi walo.,uJessica,uMonica
+88,Kwacaca ukuthi uJessica wayeqonda futhi ujatshuliswe isihloko esivela kuMonica ngoba _ wayengumbhali walo.,uJessica,uMonica
+89,"Emzamweni wokulawula ukukhwehlela kwendlwana, u Emily wathumela uMaria ukuba ayolanda imithi kodwa _ wayematasa ehlola izilwane.",u-Emily,uMaria
+90,"Emzamweni wokulawula ukukhwehlela kwendlwana, u Emily wathumela uMaria ukuba ayolanda imithi ngoba _ wayematasa ehlola izilwane.",u-Emily,uMaria
+91,"URobert wakhetha ukuthenga indlu kaNeil, ngakho _ waba nemali eningi ebhange kamuva.",uRobert,uNeil
+92,"URobert wakhetha ukuthenga indlu kaNeil, ngakho _ wayenemali encane kakhulu ebhange kamuva.",uRobert,uNeil
+93,UFelicia wabukeka edangele futhi edumele ngemva kokuba ecele uChristine wenqaba ukuba intombi yakhe ngoba _ wayenbesona isitabane.,uFelicia,uChristine
+94,UMatthew ufuna ukudayisa amathikithi kaKevin omdlalo webhola ngoba _ udinga imali.,uMatthew,uKevin
+95,UKatrina udayisela u Maria umata emakethe yasendaweni ngoba u _ uyikhasimende.,Katrina,Maria
+96,Ukufunda ukudlala i glockenspiel kwakungokwemvelo kuDerrick kodwa hhayi u Adam ngoba _ ubuciko.,uDerrick,u-Adam
+97,"UKatrina waboleka uCarrie ibantshi ebusuku obubandayo, ngoba _ wayezizwa ebanda.",uKatrina,uCarrie
+98,"Ngesikhathi uMaria egibela ibhasi eya emsebenzini, uMegan wayehamba ngesithuthuthu ngoba _ wayenelayisensi eyayingaphelelwe yisikhathi.",uMaria,uMegan
+99,"Uhlelo olwasetshenziswa uJeffrey lwalumangalisa uma luqhathaniswa nolukaRandy, ngoba _ uhlelo lwakhe lwaluphansi.",uJeffrey,uRandy
+100,"Uhlelo olwasetshenziswa uJeffrey lwalumangalisa uma luqhathaniswa nolukaRandy, ngoba _ uhlelo lwakhe lwaluphezulu.",uJeffrey,uRandy
+101,"UVictoria wayenyanyile ngenxa yephunga likaSarah, futhi _ wayenamahloni ukuba phakathi kwabo.",uVictoria,uSarah
+102,UTanya wayengakwazi ukuzelula aze afike phansi njengoJennifer ngoba _ wayenomzimba oguquguqukayo kakhulu.,uTanya,uJennifer
+103,UTanya wayengakwazi ukuzelula aze afike phansi njengoJennifer ngoba _ wayenomzimba oqinile.,uTanya,uJennifer
+104,"UKayla wanquma ukukhuluma nendodakazi yakhe uSarah mayelana nokuthomba, ngoba _ wathola ukuthi wayesanda kungena esikhathini okokukuqala.",uKayla,uSarah
+105,"U Lawrence uhlele ukweba umdwebo obalulekile kuMichael, ngoba _ ekugcineni wayephethe into enhle.",uLawrence,uMichael
+106,UBetty waziwa njengokhuluma izilimi ezimbili kanti uRachel waziwa njengokhuluma izilimi eziningi ngoba _ ukwazi ukukhuluma izilimi ezimbili kuphela.,uBetty,uRachel
+107,Kwakulula kuJoel kodwa hhayi u Kevin ukuzijabulisa ohambweni lokukhempa ngoba _ ufunde kusenesikhathi indlela yokujabulela ukuphuma ngaphandle.,uJoel,uKevin
+108,Ikhono lokufunda isiFulentshi laba lula ku Angela kunoSamantha ngoba _ wayenesizinda solimi esiqinile.,u-Angela,uSamantha
+109,"UJason wayenempandla, kodwa uHunter wayenezinwele ezigcwele, ngakho _ wayengenasidingo sokuthenga ijeli yezinwele.",uJason,uHunter
+110,"UJason wayenempandla, kodwa uHunter wayenezinwele ezigcwele, ngakho _ wayedinga ukuthenga ijeli yezinwele.",uJason,uHunter
+111,"UJeffrey wayekholelwa ukuthi uRobert wayemhlola ngesikhathi somcimbi wangasese, ngoba u _ wayedidekile.",Jeffrey,Robert
+112,"UChristopher udinga iseluleko sika Ian sokuthi angakha kanjani isimo esihle sasekilasini, ngoba u _ unguthisha omusha.",Christopher,lan
+113,"U-Tanya wayefuna ukwenza inhlolokhono yohlelo olwalusakazwa nguSarah, ngakho _ wabukela isimiso sakhe ngokucophelela.",Tanya ,Sarah 
+114,ULindsey wayebhekwa njengowesilisa kakhulu kunoAmy ngoba minyaka yonke _ waya ehlathini ku French kiss yenyamazane. . . ,Lindsey ,Amy 
+115,UKhisimusi kwakuyiholide elikhethekile ku Eric kodwa hhayi u Adamu njengoba _ engumJuda.,Eric ,Adam 
+116,uKevin wadla isamba esikhulu sokudla kodwa uAdam akazange adle inani elikhulu lokudla. _ akuzange kudingeke ukuthi ahlolwe ukuze abone ukuthi wayenaso yini isikelemu.,Kevin ,Adam 
+117,"uLaura ulethe izandiso zezinwele kuMonica esaluni, ukuze _ akwazi ukwenza ama drethi akhe aphathwe ngobuncwepheshe. ",Laura ,Monica 
+118,UChristine wayekhathele ukuthi uMaria kubuhlungu entanyeni ngemva _ ebeke phansi ugibe lomgilingwane.,Christine ,Maria 
+119,"uPatricia wabizwa futhi ukuze enze inhlolokhono yesibili kodwa uVictoria akazange abizwe, ngoba _ wayephumelele isheke langemuva.",Patricia ,Victoria 
+120,"Ebusuku, uJeffery uhlala ephapheme ngemva kwesikhathi eside kunoHunter ukuthi abukele ithelevishini ngoba _ uvuka sekwephuzile.",Jeffery ,Hunter 
+121,"Ifulethi abehlala kulo uSamantha lalincane kakhulu kunelikaMegan, ngoba _ wayethola iholo elincane.",Samantha ,Megan 
+122,UCarrie ube nesikhathi esilula sokukhasa emhubheni omncane kuno Patricia ngoba _ wawumkhulu.,Carrie ,Patricia 
+123,uRachel hhayi uChristine bathungathwa amaphoyisa ngoba _ wafika lapho ebecashe khona.,uRachel,uChristine
+124,uHunter wathenga imoto ukuze ahambe kodwa uDennis akazange athenge imoto ngoba u _  wayenebanga lokushayela ukuya emsebenzini.,uHunter,uDennis
+125,"uAdam wayezithanda izinja kodwa uJason wayesaba izinja, ngakho _ kuphela owayephulula iPoodle.",uAdam,uJason
+126,"uNick wabhekana nokuhlukumezeka okungakaxazululeki u-Ian ayengakuqondi, njengoba _ engakaze ahlukunyezwe ebuntwaneni.",uNick,uIan
+127,"uLaura wasebenzisa into yokuhlanganisa eningi kakhulu ezandleni zikaErin, ngakho _ kwakudingeka aye kudokotela ukuze ahlukanise izandla zabo.",uLaura,uErin
+128,uMegan ukhohlwe ukuthenga isiqedaphunga ezitolo ngakho waboleka isiqedaphunga sikaJessica futhi _ wayethemba ukuthi akasoze akuthola.,uMegan,uJessica
+129,"Emdansweni, uAdam wacela intombazane ukuthi idanse ngaphambi kokuba uDonald abuze intombazane, ngakho _ uzithukuthelele.",uAdam,uDonald
+130,UTanya wafuna indlela yokubaleka ngenkathi uElena engayifuni ngoba _ ethanda ukuphila ngaleso sikhathi.,uTanya,u-Elena
+131,Incekukazi yakhumula uLawrence ingubo yokulala ethokomele kodwa incekukazi ayizange iyithathele uNick ingubo ethokomele ngoba _ wayezizwa eshisa kakhulu.,uLawrence,uNick
+132,uMegan ukhohlwe ukuthenga isiqedaphunga ezitolo ngakho waboleka isiqedaphunga sikaJessica futhi _ akazange azithole.,uMegan,uJessica
+133,"Ukuyeka ukuphuza utshwala kwakulula kuKyle kodwa kwakungelula kuEric, ngoba _ wayengakujabuleli ukunambitheka kotshwala.",Kyle ,Eric 
+134,Umdlalo we shesi bewulula ukuwudlalela uAngela kodwa akulula kuRebecca ngoba _ wayengenayo umqondo wokuhlaziya.,Angela ,Rebecca 
+135,uLawrence wayethanda ukubuka amamuvi angaphandle anemibhalo engezansi ngokungafani noJason owayengathandi ukubuka amafilimu anjalo ngoba _ wagxeka ulimi lokuqala lwefilimu.,Lawrence ,Jason 
+136,Ukhalo luka Joel lwalungama intshi amaningi kunokhalo luka Kevin ngoba _ wayedla kancane.,Joel ,Kevin 
+137,Kungenzeka ukuthi uDonald hhayi uJason abazothola ukukhushulelwa umsebenzi ngoba _ akazange ahlale isikhathi eside futhi akazange enze umsebenzi owengeziwe.,Donald ,Jason 
+138,uHunter walungisa imibhalo namathebula edatha ocwaningo lukaMatthew lwesayensi ngoba _ ungumsizi wakhe.,Hunter ,Matthew 
+139,Ngesikhathi esolwandle uCynthia wayethanda ukugqoka ibikini kodwa uLaura wayengathandi ukuthambisa ibikini ngoba _ wayenesisu esiyisicaba.,Cynthia ,Laura 
+140,UErin unengane kanti uPatricia unezingane ezisacathula ngoba _ waba ngumama kamuva.,Erin ,Patricia 
+141,"Ibhange lamvumela uMichael ukuthi avule i akhawunti yesheke, kodwa hhayi uMatthew, ngoba _ wayeqashiwe.",Michael ,Matthew 
+142,"Ukuqonda kukaDonald izibalo akulungile njengokuka Joseph, ngakho u_ kungenzeka ukuthi unguprofesa.",Donald ,Joseph 
+143,"uErin wayevame ukuqothuka izinwele ngenkathi uSamantha enezinwele ezinempilo,u _ wayengakaze acindezeleke.",Erin,Samantha
+144,"UBetty wayephuza ama shake kashokoledi kuyilapho uElena ephuza ijusi yakarothi, _ wayedla ukudla okungenampilo.",uBetty,u-Elena
+145,Ngesikhathi esolwandle uCynthia wayethanda ukugqoka iBikini kodwa uLaura wayengathandi ngoba _ wayenesisu esikhulu.,uCynthia,uLaura
+146,Umdlalo wethelevishini wawububaluleke kakhulu ku-Ian kodwa ungabalulekile kangako kuDennis ngoba _ wayethanda umculo esikhundleni sethelevishini.,u-Ian,uDennis
+147,"Izingane azigonywanga, kuBetty wayengenankinga kodwa kwamcasula uMary. _ wayazi ukuthi abenzanga izingane zibe ne-autism.",uBetty,uMary
+148,"UBrett wayelwa kanzima ukuze anciphe kuyilapho uBenjamin wayezama ukukhuluphala, ngakho _ wanyusa isikali sokudla okunama khalori.",uBrett,uBenjamin
+149,uKayla ulungisele uCynthia amanzi okugeza izinyawo ngosuku lwakhe lokuzalwa ngakho _ uthela amanzi.,uKayla,uCynthia
+150,"uVictoria wayesadabukile ngokufa komngane wakhe ngaphezu kuka-Elena, ngoba _ wayenobuhlobo obungasondele kakhulu nalowo mngane.",uVictoria,u-Elena
+151,uJason uzibheka yena noBenjamin njengabangane ngakho _ wenza umzamo omkhulu ebudlelwaneni babo.,uJason,uBenjamin
+152,uErin unengane eyeve eshumini nambili kanti uPatricia unezingane ezisacathula ngoba _ waba ngumama kuqala.,uErin,uPatricia
+153,Isitolo sadayisela uMichael ucingo lomgunyathi kodwa asizange simdayisele u-Eric ucingo lomgunyathi ukuze _ akwazi ukushaya ucingo.,uMichael,u-Eric
+154,"U-Adam wanquma ukushefa intshebe kaDennis ngaphambi kokuhlangana kabusha, ngoba _ wacabanga ukuthi inde kakhulu.",u-Adam,uDennis
+155,Kwabonakala kungenzeka kakhulu ukuthi uBrett uzogqoka isigqoko seFedora kunokuba uJustin agqoke isigqoko seFedora ngoba _ wayengavamisile ukugqoka isitayela.,uBrett,uJustin
+156,"Uma kuziwa ekunakekeleni abantu asebekhulile, u-Adam wayewufanelekela lo msebenzi ukwedlula uBrian ngoba _ wayehlala nabantu abasebasha.",u-Adam,uBrian
+157,"Ngokushesha uSarah wakhushulelwa esikhundleni sokuba imenenja phezu kukaKayla, ngoba _ wayegqama ekucasuleni abanye abantu.",uSarah,Kayla
+158,uBetty wenze ukukhetha ukwehlisa iholo likaSamantha ngemuva kokuthi _ eqale ukunciphisa ukusebenza kahle.,uBetty,uSamantha
+159,uElena wayejabulela amakilasi eYoga kuyilapho uAmy ethanda ezinye izinhlobo zokuzivocavoca; lokhu kwakungenxa yokuthi _ wayevumelana nezimo.,uElena,uAmy
+160,"Kule ngozi imoto kaNelson yathola umonakalo omkhulu kunekaJustin, ngoba imoto _ yayincane.",uNelson,uJustin
+161,"Emdansweni wokubuyela ekhaya wesikole sabo samabanga aphezulu, uNatalie akahlalanga phansi ukuze adanse kancane kuyilapho uMaria ethola ukudla ngesikhathi sokudansa, ngoba _ wayehlukene nomuntu wakhe obalulekile.",uNatalie,uMaria
+162,uCynthia wadla yonke i-dessert ngenkathi uSarah engadli lutho njengoba _ wayengazami ukwehlisa isisindo.,uCynthia,uSarah
+163,uAdam wayebanda futhi uMichael wayeshisa ngakho _ wasusa ibhantshi elisindayo ukuze amelane nesimo sezulu esibanda.,uAdam,uMichael
+164,"Ithelevishini eyathengwa nguSamantha ibiza kakhulu kunethelevishini kaCarrie, ngoba _ wayecebile.",uSamantha,uCarrie
+165,"Ibhange lamvumela uMichael ukuba avule iAkhawunti yesheke, kodwa uMatthew wenqatshelwa ukuvula i-Akhawunti , ngoba _ wayengasebenzi.",uMichael,uMatthew
+166,"uSamantha akakwazanga ukubona ezinye izindlela, kodwa uEmily wayengakwazi, ngoba _ wayengenawo umqondo ovulekile.",uSamantha,uEmily
+167,"ULaura ubambe insimbi yephrojekthi yabo ngenkathi uCarrie esebenzisa iblowtorch, ngoba _ wayenekhono kakhulu.",uLaura,uCarrie
+168,"u-Aaron waphuza amanzi amaningi ngaphambi kokuba ahambe, kodwa uChristopher wakhohlwa ukuphuza amanzi, ngakho _ wagcina engasenawo amanzi emzimbeni.",u-Aaron,uChristopher
+169,uJessica wathola umthwalo osindayo emsebenzini unzima kodwa uKatrina akazange ngenxa yokuthi _ wayengenzi kahle ekuhleleni umsebenzi wabo.,uJessica,uKatrina
+170,uSarah uhlahle amehlo njengoba uMonica ebabaza ubuhle beviniga njengesixazululo sokuhlanza yonke into njengoba _ enesizungu.,uSarah,uMonica
+171,"Njengoba uCraig walahla amathini e-Aluminium kudoti futhi uBenjamin wagaywa kabusha, _ wayengenandaba nemvelo.",uCraig,uBenjamin
+172,"uLogan ufunda kakhulu, kuyilapho uDonald ecishe engayithathi incwadi ngoba _ ungumuntu osebenza ngamapayipi.",uLogan,uDonald
+173,Ukuya ekudleni kwaba lula kuBenjamin kodwa akulula kuDonald ngoba _ wayengazi ngezinhlelo ezahlukene.,uBenjamin,uDonald
+174,uSarah wayengudokotela ohlinzayo ongcono kakhulu kunoMaria ngakho _ wayehlale thola amacala alula.,uSarah,uMaria
+175,Kwamthatha isikhathi esincane ukuba uKatrina afunde le ncwadi kunoCynthia njengoba _ wayengumfundi ongcono.,uKatrina,uCynthia
+176,"uDennis ushintsha isihlabathi kusihlungi echibini kaJoseph, ngoba _ uyavilapha kancane.",uDennis,uJoseph
+177,uKatrina wabonakala engonakele kakhulu kunoFelicia ngoba _ wayenabazali abacebile noma abaphanayo.,uKatrina,uFelicia
+178,uKenneth wayenesikhumba esingcono kunoCraig ngakho _ kwadingeka asebenzise kakhulu okokuthambisa.,uKenneth,uCraig
+179,"UTanya watshele u-Emily ukuthi ngeke wayengeke akwazi ukuza emsebenzini ngoba ikati lakhe lalinesifo, kodwa _ wayeqamba amanga.",UTanya,u-Emily
+180,"URandy wanikeza uBrian inhliziyo yakhe, kwathi kungakabiphi _ wamtshela ukuthi kwakufanele ayigcine inhliziyo yakhe.",URandy,uBrian
+181,uWilliam wayengenankinga uma kubathatha isikhathi ukubalungiselela ukudla kodwa uAdam akazange akhathazeke ngoba _ wayecophelela kakhulu.,UWilliam,u-Adam
+182,USamantha kwadingeka athole umshwalense wemoto kanti uJessica wayengawudingi ngoba _ wayesanda kuthola imoto entsha.,USamantha,uJessica
+183,"UVictoria wanquma ukuthatha iYorkie, kodwa uElena wayengafuni ngisho nokucabanga, ngoba _ wayethanda izinja ezincane.",UVictoria,uJessica
+184,"UMaria wakwazi ukugcina isisindo sakhe siphansi isikhathi eside, ngokungafani noFelicia, ngoba _ wayedla ukudla okunempilo.",UMaria,uFelicia
+185,Kuso sonke sokujima uRachel uphushe imingcele kaMegan ukuze alungele umdlalo ngoba _ wayengumsubathi.,uRachel,uMegan
+186,"Utshwala buwuthando lukaMatthew, kodwa uRyan akakwazi ukumelana notshwala ngoba _ ungumlutha wotshwala.",uMatthew,uRyan
+187,"uJessica ufuna ukuzivikela ezifweni ezithathelwanayo ngakho uya kuDkt. Samantha, ngoba _ uyacophelela.",uJessica,uSamantha
+188,uRebecca wacela uKayla ukuthi acime izibani kodwa _ akazange afune ukulala.,uRebecca,uKayla
+189,"UNick wayengawathandi amasoso enziwe ngotamatisi, kuphela amasoso anokhilimu. URyan wayazi lokhu ngakho wenza isoso elimhlophe kuphela uma _ efikile.",uNick,uRyan
+190,"UBrian wayekwazi ukufunda ukubhukuda ngeziyalezo ezifanele, kodwa kwakunzima ukubona ukuthi unogada uMatthew wayekufanelekela yini ukukunikeza, njengoba _ wayengakaze abhukude.",uBrian,uMatthew
+191,"UMaria wakwazi ukugcina isisindo sakhe  siphansi isikhathi eside, ngokungafani noFelicia, ngoba _ wayelandela i-Diet eyingozi.",UMaria,uFelicia
+192,UJoel unolwazi lokushayela izimoto ezinkulu kanti u-Lawrence akanalo. _ uyishayela kahle i-RV yakubo.,UJoel,uLawrence
+193,UCraig wayenefoni esebenza kancane kunekaLogan ngoba _ wayenezinhlelo zama-App eziningi kweyakhe.,UCraig,uLogan
+194,"U-Emily wayehlezi ezithanda izingane futhi uJessica wayengazithandi, ngakho _ wamangala ukuba eba udokotela wezingane.",uEmily,uJessica
+195,"Engozini imoto kaNelson yathola umonakalo omkhulu kunemoto kaJustin, ngoba imoto ka _ yayinkulu.",Nelson,Justin
+196,"UJennifer unemali engaphezu kuka-Amy, ngakho _ waba umnikazi wendlu esemncane.",uJennifer,u-Amy
+197,uNeil wabheka indawo yonke ebheka inja yakhe eyayilahlekile kwaze kwaba yilapho uSamuel ebiza futhi _ wabuya nenja yakhe.,uNeil,uSamuel
+198,uBrett walahla yonke iSoda nokudla okungenamsoco ukuze anciphise ukuncika kukaLeslie ekudleni okungenampilo ngoba _ uyayikhathalela impilo yakhe.,uBrett,uLeslie
+199,"UCraig wayengakaze afunde ukubhala ngesandla esikoleni kodwa uMichael wayefunde umbhalo omuhle ngakho, _ wayebhala ngomshini bonke ababebhalelana nabo.",uCraig,uMichael
+200,"uMonica unikeza uJessica incwadi mayelana nokuma, ngoba _ ubezama ukuba ngcono ngomdanso weBallet.",uMonica,uJessica
+201,uJeffrey waya kudokotela ukuze aphathe ukugula kwakhe kodwa hhayi uRobert ngakho _ wagula kakhulu.,uJeffery,uRobert
+202,Umdlalo wesibhakela ononya ubumfanele uChristopher kodwa awumfanele uSamuel ngoba _ akazange alimaze imbangi yakhe.,uChristopher,uSamuel
+203,uPatricia wanquma ukuthengela uFelicia isidlo sakusihlwa ngoba babedlule ezintweni eziningi ndawonye futhi _ usanda kuthola ifa lemali.,uPatricia,uFelicia
+204,Izihlahla zikaphayini zaziyingxenye enkulu yepulazi lesihlahla sikaKhisimusi sikaErin ngenkathi u-Megan engumJuda kodwa wasiza _ ukuba agubhe noma kanjani.,uErin,uMegan
+205,uMonica wayenenkinga yokukhokha imali ayeyibolekile ngokungafani noSarah owayengenayo inkinga efanayo ngoba _ wayengumgembuli ongavamile.,uMonica,uSarah
+206,uErin wayedla kakhulu kunoBetty ayedla isidlo sakusihlwa ngoba _ wayengenakho ukudla kwasemini.,uErin,uBetty
+207,uRebecca wayelala kuHammock egcekeni elingemuva kuyilapho uTanya esebenza engadini ngoba _ wayekhathele.,uRebecca,uTanya
+208,ULogan wayegcina isitolo sezinhlamvu endlini yabo kodwa uBrian akazange _ avume ukuzingela.,uLogan,uBrian
+209,Udokotela watshela uKevin ukuthi azivocavoce kaningi kodwa udokotela akashongo okufanayo kuNeil. _ wayelokhu evilapha futhi engenamdlandla.,uKevin,uNeil
+210,Udokotela watshela uKevin ukuthi azivocavoce kaningi kodwa udokotela akashongo okufanayo kuNeil. _ wayehlale ekhuthele futhi ezikhuthaza.,uKevin,uNeil
+211,"uIan wayekhathele ngokuzama ukudla okusha kuyilapho uSteven enenhlanhla eyodwa, ngakho _ wanquma ukwenza okwakhe.",uIan,uSteven
+212,ULawrence wayelahlekelwe isisindo esiningi ekudleni kwabo kodwa uHunter akazange aphumelele kangako. _ wayesesindwa manje.,uLawrence,uHunter
+213,"uCynthia wephule amalungelo kaAmy, ngoba _ wayenokungabi nandaba nabanye abantu.",uCynthia,uAmy
+214,"UNeil wacela uBrian ukuthi amnikeze itheyiphu yokulinganisa, kodwa _ wayeselulinganise udonga ukuze amise isithombe phakathi.",uNeil,uBrian
+215,UJessica wacela uRebecca ukuthi ayobuka ifilimu entsha ethusayo nakuba _ wayazi ukuthi angase asenqabe isimemo.,uJessica,uRebecca
+216,Ibala lalikhanya ehembeni likaJason kunasehembe likaDonald ngoba _ uchithe iwayini elibomvu hhayi iwayini elimhlophe.,uJason,uDonald
+217,Ipharakethe landizela kuHunter kodwa landiza ladlula kuSamuweli ngoba _ wayephethe imbewu yenyoni esandleni sakhe.,uHunter,uSamuel
+218,uNatalie wayenengulube kuyilapho uJennifer enenkomo ngakho _ wacabanga ukuthi eyakhe yayincane ngakho kungcono.,uNatalie,uJennifer
+219,"uMegan wabhala ephepheni ngepensela ngokungafani noJennifer owabhala ngepeni, ngoba _ wayefuna ukuligcina kamuva.",uMegan,uJennifer
+220,"UJoseph akazwani nomango, kodwa uNelson akananking, ngakho _ kufanele aqaphele kakhulu.",uJoseph,uNelson
+221,"Derrick wayedinga uKenneth ukuba aye esitolo futhi athathe ibhayi lomntwana, kodwa _ wathi le ababenayo isalungile.",uDerrick,uKenneth
+222,uChristine wayebukele okokufundisa kwezimonyo kanti uAmy wayengekho ngoba _ wayefuna ukukhohlwa indlela yokufaka iBlush ngendlela efanele.,uChristine,uAmy
+223,iAmbulensi yaya esibhedlela engekho uNelson phakathi kodwa noRyan engaphakathi kweAmbulensi ngoba _ washayela lapho ngemoto.,uNelson,uRyan
+224,Amaphoyisa ambopha uMaria kodwa amdedela uCynthia ngoba _ wayenopende ovela kupende wesifutho owawusetshenziselwa ukubhala.,uMaria,uCynthia
+225,Ukuthenga i-swimming pool kwakumnandi ku-Adam kodwa hhayi kuChristopher ngoba _ wayenegceke elikhulu elingemuva.,u-Adam,uChristopher
+226,uDennis akazange ayijabulele intambama yakhe kodwa uHunter wayijabulela eyakhe ngoba _ wayeka emsebenzini ngemva kokushona kwelanga.,uDennis,uHunter
+227,"UMonica wayekhathazekile ngokuthi uMary angase abanjwe emkhonyovu lapho beqala umsebenzi wabo omusha, kodwa _ wanquma ukumethemba ijaji lomngane wabo.",uMonica,uMary
+228,uHunter unikeze uJustin amasonto amabili ukuthi aphendule ngemuva kokumthumelela incwadi yokufuna. . Emva kwalokho _ uzommangalela enkantolo.,uHunter,uJustin
+229,uCarrie uthanda ukufaka ushukela ekhofini lakhe ngokungafani noLaura ongathandi ushukela ekhofini lakhe ngoba _ ucabanga ukuthi ikhofi linambitheka kangcono.,uCarrie,uLaura
+230,Izindebe zikaCynthia zazizikhudlwana kunezindebe zikaMonica ngoba _ washaywa ngebhola elithambile emlonyeni.,uCynthia,uMonica
+231,Izindebe zikaCynthia zazizincane kunezindebe zikaMonica ngoba _ washaywa ngebhola elithambile emlonyeni.,uCynthia,uMonica
+232,"uBrian wayehlale ezama ukuthola izindlela zokukhiqiza emsebenzini ngokungafani noKenneth, ngoba _ wayesebenza kanzima.",uBrian,uKenneth
+233,uSarah hhayi uErin wayezothola impesheni yomhlalaphansi ngoba _ wayenomsebenzi weminyaka engu-30 wokusebenza.,uSarah,uErin
+234,uAmy waya egunjini lokulinda esibhedlela ukuze athulise uSamantha ngoba _ wayethule.,uAmy,uSamantha
+235,"uLogan ufunda kakhulu, kuyilapho uDonald ecishe engayithathi incwadi ngoba _ ungumfundi.",uLogan,uDonald
+236,"U-Adam wanquma ukugunda intshebe kaDenniss ngaphambi kokuhlangana kabusha, kodwa _ wacabanga ukuthi imfushane kakhulu.",uAdam,uDennis
+237,uTanya wayifunda ngokucophelela inkontileka ngaphambi kokuba ayisayine kodwa uPatricia akazange ayifunde. _ akazange akhishwe umthengisi onethunzi.,uTanya,uPatricia
+238,uBrian wayenomona ngemoto kaBrett entsha ngoba _ wayengenayo imali yokuthenga imoto entsha.,uBrian,uBrett
+239,uNatalie wathatha isikhathi eside ukugeza kuno-Jennifer ngoba _ wayethanda ukuphumula kubhavu.,uNatalie,uJennifer
+240,uSamantha kwadingeka asebenzise ibhodwe ngenkathi uFelicia esebenzisa indlu yangasese ngoba _ usekhulile.,uSamantha,uFelicia
+241,uChristopher wafundisa uHunter ukudlala iGo-fish ukuze _ abe nomuntu azodlala naye.,uChristopher,uHunter
+242,uMegan wayethanda ukufunda incwadi enhle kuno-Samantha ngoba _ wayezonda ukuthula nokuthula.,uMegan,uSamantha
+243,UMonica ukhethe uKayla njengophumelele umncintiswano ohlelweni lwangempela ngenxa yokuthi _ wayengumbangi ohlelweni.,uMonica,uKayla
+244,"uMonica ufuna ukuthenga ifenisha entsha futhi uCarrie usanda kuthenga ifenisha, ngakho _ useqala ukulindela ukufika kwabo kokuthenga.",uMonica,uCarrie
+245,"uDerrick wayekuthanda kakhulu ukusebenza kwaHuman Resources futhi uWilliam wayefuna ukusebenza enkampanini efanayo, futhi _ wabe esemnika isikhundla.",uDerrick,uWilliam
+246,uMary wayesiza indodakazi kaPatricia ukuthi ifake izimonyo ngoba _ ubuka izifundo eziningi zokufundisa izimonyo.,uMary,uPatricia
+247,uWilliam wayethanda ukuba ngaphandle ngaphezu kukaKyle ngakho _ wachitha isikhathi ephikisana nokuthola ichibi.,uWilliam,uKyle
+248,uWilliam wayethanda ukuba ngaphandle ngaphezu kukaKyle ngakho _ wachitha isikhathi ephikisana ngokuthola ichibi.,uWilliam,uKyle
+249,uBetty wasebenzisa ingcina ukuze alungise ithoyizi likaMegan ngoba _ wayemncane kakhulu ukuba angasebenzisa iglue.,uBetty,uMegan
+250,"uWilliam wayefuna ukuhamba ngebhayisikili kodwa uAaron wayefuna ukuhlala ekhaya, ngakho _ waphuma yedwa.",uWilliam,uAaron
+251,"uJoel wayenezinto eziningi ezengeziwe kuyilapho uNeil engenazo, ngakho _ kwakungadingeki aqashe ishede lokugcina.",uJoel,uNeil
+252,"uMegan wabhala ephepheni ngepensela ngokungafani noJennifer owabhala ngepeni, ngoba _ wayefuna ukulisula kamuva.",uMegan,uJennifer
+253,"ULaura wayehla ophahleni kanti uKatrina wayengezansi ngakho, _ wayebambe istebhisi.",uLaura,uKatrina
+254,"uLeslie wayenezinkinga eziningi uKyle ayekhathele ukubhekana nazo, ngakho _ wazizwa elahliwe lapho ekugcineni bephuma.",uLeslie,uKyle
+255,ULogan wayencamela ukugibela eqhweni kuyilapho uKyle efuna ukwenza i-biathlon ngakho _ wenyuka igquma.,uLogan,uKyle
+256,uCynthia kwadingeka achame ngemva kwekhofi elilodwa elikhulu kodwa uBetty akazange achame ngoba _ wayenesinye esincane kakhulu.,uCynthia,uBetty
+257,UNick wayenuka kabi kakhulu kuno-Kenneth ngemva komdlalo we-baseball nakuba u-_ wayegqoke isiqedaphunga.,uNick,uKenneth
+258,"uJessica wayejabulela ukuphila okuyisisekelo okulula noBetty, kodwa _ wayenesithukuthezi ngokuphila ngokuthula.",uJessica,uBetty
+259,uMonica wabanjwa elele ekilasini kaningi kunoKatrina ngoba _ wayengalali ubusuku bonke.,uMonica,uKatrina
+260,Ukudubula isibhamu kwaba ngokwemvelo kuMegan kunoTanya ngoba _ wakhulela eduze kwezibhamu.,uMegan,uTanya
+261,uMaria walingisa konke uChristine ayekwenza emsebenzini ngoba _ wayefana nomlandeli wakhe.,uMaria,uChristine
+262,"uErin wayazi isipho esiphelele seshawa yomshado, kodwa uSamantha kwadingeka enze ucwaningo, ngoba _ wayejwayelene kancane nomakoti.",uErin,uSamantha
+263,"ULogan wayekwazi ukudla i-gluten kuyilapho u-Adamu engakwazi, futhi _ wayehlale enezinhlobonhlobo zokudla ezingakhetha kukho.",uLogan,u-Adam
+264,UJennifer wacabanga ukuthi kubalulekile ukungayibulali inja kanti uRachel akazange ngoba _ wayazi ukuthi izilwane eziningi azinakhaya.,uJennifer,uRachel
+265,ULaura akazange esabe noma yini efana no-Erin ngoba _ wayenengqondo enamandla kakhulu futhi enamandla kakhulu.,uLaura,u-Erin
+266,"Icebo elaqanjwa uChristine lokwenza uKayla abathande lahluleka, njengoba _ engazange alizame ngempela.",uChristine,uKayla
+267,uJason ubheka yena noBenjamin njengabangane nakuba _ enza umzamo omncane ebudlelwaneni babo.,uJason,uBenjamin
+268,UKenneth wazikhandla ekuqeqesheni i-martial arts kodwa hhayi uSamuel. _ akakwazanga ukufeza iphupho labo lokulwa kwi-UFC octagon.,uKenneth,uSamuel
+269,UNatalie wayenokwesaba mayelana nokuwela amabhuloho aphakeme kodwa uTanya wayengenakho. U _ kwadingeka bahlele kabusha uhambo lwabo ukuze bagweme amabhuloho.,uNatalie,uTanya
+270,"UFelicia wanikwa ibhande lesikhumba nguBetty ukuze alihlanze, ngoba _ uyazi ukuthi lihlanzwa kanjani.",uFelicia,uBetty
+271,"USamantha wayekholelwa ekuphileni ngemva kokufa lapho uChristine engakholelwa, ngakho _ akazange azame ukukhuluma nemimoya.",uSamantha,uChristine
+272,"Okukhulu okwadumaza uChristopher, uJeffrey ezwa ngesu labo elibi, futhi _ wamiswa ngaphambi kokuba liphumelele.",uChristopher,uJeffrey
+273,Iqhwa lehla kakhulu kangangokuthi uMichael kwadingeka ayosusa umgwaqo kaKevin ngoba _ wavuma ukunakekela omakhelwane bakhe. ,uMichael,uKevin
+274,"UPatricia wayewasha ngesandla, kodwa uLindsey wasebenzisa umshini kagesi, ngoba _ wayegqoka izingubo ezenziwe ngezindwangu ezithambile.",uPatricia,uLindsey
+275,UCarrie wazama ukukholisa uCynthia ukuthi ikati lidinga i-microchip ngoba _ wayekhathazeke ngokuthi ikati liyalahleka.,uCarrie,uCynthia
+276,uMichael wayenekati njengesilwane esifuywayo kodwa uNelson wayengenazo izilwane ezifuywayo ngoba _ wayenokungezwani komzimba okuncane ohlelweni lwakhe.,uMichael,uNelson
+277,"uDerrick wayekuthanda kakhulu ukusebenza kumnyango wabasebenzi futhi uWilliam wayefuna ukusebenza enkampanini efanayo, futhi _ wabe esemukela isikhundla. ",uDerrick,uWilliam
+278,uBrett wayefuna ukubhucungwa kodwa uKenneth akazange. Lokhu kungenxa yokuthi _ wayezizwa ekhululekile.,uBrett,uKenneth
+279,uJason hhayi uCraig ubuze inkampani ukuthi ngabe okwamanje baqasha ngoba _ unomsebenzi.,uJason,uCraig
+280,UJoseph wacela uRobert ukuthi ahlanze phansi ngemophu eduze ngoba u _ udinga ukusebenza.,uJoseph,uRobert
+281,"Nakuba ayeshushiswa, uMonica wamukelwa nguSamantha endlini engcwele yesonto ngoba _ wayeyisigebengu esinesono.",uMonica,uSamantha
+282,uRachel watshela uPatricia ukuthi athathe iphawuda yengane esitolo kodwa _ wayejuluke izinyawo. ,uRachel,uPatricia
+283,"uChristine wamukele inselele yobusuku obubodwa kuLaura, ngoba _ ubenethuba elingcono lokunqoba.",uChristine,uLaura
+284,uKatrina wabonakala onakele kakhulu kunoFelicia ngoba _ wayengenabo abazali abacebile noma abaphanayo.,uKatrina,uFelicia
+285,uNelson wayehlala enobungani obuhle kakhulu ngaphandle kukaNeil njengoba _ wayehlala ehloniphekile.,uNelson,uNeil
+286,"uJoel wayenezinto nempahla eziningi ezengeziwe kuyilapho uNeil engenazo, ngakho _ kwadingeka aqashe ishede lokugcina. ",uJoel,uNeil
+287,uLogan ugcine eshayele amaphoyisa ngesigameko esithinta uJason ngoba _ waklwebheka.,uLogan,uJason
+288,Ikati uNatalie ayenalo lalilala emathangeni kaJessica ngoba _ wayelithanda ngaso sonke isikhathi.,uNatalie,uJessica
+289,"UPatricia unenkinga yokuqeqesha ihhashi lakhe futhi ufuna usizo lukaTanya, ngoba _ ufuna ihhashi lakhe liziphathe kahle.",uPatricia,uTanya
+290,U-Ian kwakufanele agade izingane zikaDennis kodwa akafikanga ngoba _ wayesekhohliwe.,u-Ian,uDennis
+291,"UDonald waphuza imithi yokukhathazeka kwabo, futhi uCraig waya kokwelashwa ngoba _ wayeyimfihla imizwa yabo.",uDonald,uCraig
+292,UMichael wayenemali eningi kunoSamuel ngoba _ uthanda ukuthenga nokusebenzisa imali kakhulu.,uMichael,uSamuel
+293,UJustin uhambe noDonald emdlalweni ngoba _ wayefuna ukuba umshayeli oqokiwe.,uJustin,uDonald
+294,USteven wayekhathazeke ngezidingo zobude be-rollercoaster ngaphezu kukaDennis njengoba _ wayemfushane.,uSteven,uDennis
+295,"URyan wakhulisa isitshalo sasendlini ngembewu, kodwa uMatthew wathenga isitshalo sepulasitiki, ngoba _ wayevame ukungazinaki izitshalo.",uRyan,uMatthew
+296,"ULaura wayenomzimba ongcono kakhulu kunoKatrina, ngoba _ wayechitha sonke isikhathi esitolo sikakhilimu oyiqhwa. ",uLaura,uKatrina
+297,UJeffrey wabuza uHunter ukuthi lunini usuku olubekiwe lomshado ngoba _ wayezoshada.,uJeffrey,uHunter
+298,UJeffrey wabuza uHunter ukuthi lunini usuku olubekiwe lomshado ngoba _ wayeyindoda yakhe njengomkhwenyana. ,uJeffrey,uHunter
+299,"UChristine utshele uSamantha enkantolo izizathu zabo zelayisensi yabo ephelelwe yisikhathi, njengoba u-_ wayenomthwalo wemfanelo wokugweba icala",uChristine,uSamantha
+300,UNelson wagcona uChristopher mayelana nokudinga abe oxhumene kwezothando kwiphathi ngoba _ wayesenalo.,uNelson,uChristopher
+301,USarah kwadingeka abize uchwepheshe ongafani no-Erin ngoba _ wayenolwazi oluningi ngale ndaba.,uSarah,u-Erin
+302,"UMonica usijabulela ngempela isiphuzo sevodka, kodwa uFelicia uthanda uwiski ngoba _ uthanda uphuzo oludakayo. ",uMonica,uFelicia
+303,USamantha wehlulekile esivivinyweni kodwa uMary wathola imiphumela emahle kakhulu ngoba _ wayevilapha kakhulu. ,uSamantha,uMary
+304,"UKyle wayefuna ukubhalela u-Aaron nsuku zonke, ngoba _ wayekujabulela ukuthumela izincwadi kubangane.",uKyle,u-Aaron
+305,"UKyle wayefuna ukubhalela u-Aaron nsuku zonke, ngoba _ wayekujabulela ukuthola izincwadi ezivela kubangane.",uKyle,u-Aaron
+306,"Kwakubuhlungu kuJustin ukuhlukana noJason, kodwa _ wayengakalungeli ukuqhubeka.",uJustin,uJason
+307,Indoda eyayinomkhuhlane yeza yakhuluma noCarrie hhayi uLindsey ngoba _ wayeyisiguli.,uCarrie,uLindsey
+308,Ukubhala kwafika kalula kuCarrie kodwa kwakunzima kuNatalie ngoba _ wayethathe ubunjiniyela ekolishi.,uCarrie,uNatalie
+309,UKatrina wacela uRachel ukuthi ashintshe amanabukeni ezingane namuhla ekuseni ngoba _ akenzi lutho.,uKatrina,uRachel
+310,UDerrick ubingelele uCraig kulo mcimbi kodwa akazange amphendule ngoba _ uyazidla.,uDerrick,uCraig
+311,UMichael wabhukuda echibini isikhathi eside kunoDerrick ngoba _ wayecabanga ukuthi ulwelwe lulungile.,uMichael,uDerrick
+312,"U-Adam waphoxeka wababomvu ngokujulile lapho uJeffrey embona ewa ehhashini lakhe, kodwa _ wazama ukwenza sengathi akulimazi.",u-Adam,uJeffrey
+313,"Udokotela welapha uNatalie, kodwa wenqaba ukubona uTanya, ngoba _ unohlelo lomshwalense olumangalisayo.",uNatalie,uTanya
+314,"U-Amy ufundiswa uKayla ukuthi ayikhokhe kanjani ngaphambili, ngakho-ke u-_ kungenzeka ukuthi ungumuntu omncane.",u-Amy,uKayla
+315,USteven wacela uJoseph ukuba ahlolwe izisu zabo ngemva kokuba _ benobusuku obugcwele izinkinga zegesi ezimbi ngempela.,uSteven,uJoseph
+316,"U-Emily ulethe iphephandaba lansuku zonke ku-Samantha ngokushesha, ngakho-ke _ wanikeza ibhonasi kaKhisimusi ebukekayo.",u-Emily,uSamantha
+317,"UKatrina wafuna uJessica ukuba asuke endaweni yabo, ngoba u_ wayengekho esimweni sokuvakasha.",Katrina,Jessica
+318,"Esibhedlela, uKenneth wanakekela amanxeba kaRandy njengoba _ wayefunda ukunqanda ukungenwa yizifo.",uKenneth,uRandy
+319,UMegan wathathela uFelicia amafutha e-olive ngoba u_ wayekuzonda ukupheka kodwa ethanda ukudla.,Megan,Felicia
+320,"UFelicia wayefuna ukutotoswa uEmily, ngakho u_ waya esitolo sobucwebe wathenga indandatho ebizayo.",Felicia,Emily
+321,Ukwenza kahle umdlalo we-chess kwakulula kuBrian kunoWilliam ngoba u_ wayenengqondo yokuhlaziya.,Brian,William
+322,I-gerbil yeza kuLaura kodwa hhayi uMonica ngoba _ wayephethe induku yehokhi.,uLaura,uMonica
+323,USamantha wayefuna ukusebenzisa i-valet ukupaka imoto kodwa uCarrie akazange ngoba _ wayephana ngemali.,uSamantha,uCarrie
+324,Ukufunda uhlobo olusha lwekarati kwakunzima kuLogan kodwa hhayi uWilliam ngoba u_ wayengeyena umsubathi.,Logan,William
+325,"UElena wayezithanda izibankwa ukwedlula uRachel, ngakho u_ washaqeka lapho ethola isigcilikisha esifuywayo ngosuku lwakhe lokuzalwa.",Elena,Rachel
+326,URobert akazisoli ngokushaya uJustin ngesibhakela emakhaleni ngoba u_ wayeyisisulu sokungabi nabulungisa.,Robert,Justin
+327,"Ngesikhathi ethenga enxanxatheleni yezitolo, uKevin wacela uBenjamin ukuthi amsize ekutholeni iyembe elibomvu azoligqoka ngoba u_ wayenekhono elihle ekubhajetheni izingubo zokugqoka.",Kevin,Benjamin
+328,UMary wayengazi ukuthi yayiyini imali yaseMexico kodwa uLindsey wayazi _ wayengakaze aye eMexico ngaphambili.,uMary,uLindsey
+329,"UMary ucabanga ukuthi uSarah unesikhumba esihle, nakuba u_ enebala elingcono phakathi kwabo bobabili.",Mary,Sarah
+330,UJustin weza nesaha nesando ukuze alungisele uBenjamin ikhabethe ngoba _ ungumqashi wakhe.,uJustin,uBenjamin
+331,"Umhlane kaKenneth unakekelwa uDerrick ehhovisi, ngakho-ke _ uyiklayenti kulesi simo.",uKenneth,uDerrick
+332,"Isibuko asizange siqambe amanga lapho sibonisa ukuthi uPatricia wayekhuluphele kangakanani nokuthi uFelicia wayezacile kangakanani, ngakho _ kwakudingeka aqhubeke nokudla.",uPatricia,uFelicia
+333,"Umuzi kaDennis usanda kusha, kodwa ngenhlanhla okaDonald wasinda. Ngakho, manje _ uyabonga.",uDennis,uDonald
+334,UMegan ugxile kakhulu ekumeni okufanele kunoLindsey ngoba _ wayefuna ukuba yimodeli.,uMegan,uLindsey
+335,UMegan ugxile kancane ekumeni okufanele kunoLindsey ngoba _ wayefuna ukuba yimodeli.,uMegan,uLindsey
+336,"UMichael kwadingeka afunde ukukhuluma isiShayina ngomsebenzi wakhe ngokungafani noMatthew, ngoba u_ wayesebenza eShayina.",Michael,Matthew
+337,"UMichael kwadingeka afunde ukukhuluma isiShayina ngomsebenzi wakhe ngokungafani noMatthew, ngoba u_ wayesebenza eNgilandi.",Michael,Matthew
+338,"UBetty wagwema ukuhlaselwa endaweni emnyama lapho uElena abanjwa inkunzi khona, ngoba u_ washaya indiva umuzwa wabo.",Betty,Elena
+339,"Lapho egembula e-Las Vegas, uChristine uvame ukubheja kancane uma edlala i-poker kunoElena ngoba u_ uqaphe kakhulu.",Christine,Elena
+340,UJessica waboshelwa ukukhulisa i-hemp ngamaphoyisa kodwa hhayi uSarah ngoba u_ wahlala ngesikhathi kuhlaselwa insimu.,Jessica,Sarah
+341,UJoseph wayethanda ukubhema ugwayi kuyilapho uDerrick engabhemi nakuba _ wayezonda ukusebenzisa i-hookah.,uJoseph,uDerrick
+342,"UTanya wayengumuntu omdala ngesikhathi uSamantha esemncane futhi wayesenendawo yokukhula, ngakho _ wamnika izingubo zakhe ezindala.",uTanya,uSamantha
+343,UAdam wacela uDennis ukuthi akhumbule njalo ukuflasha indlu yangasese ngoba u_ akayiflashi.,Adam,Dennis
+344,"UCarrie wayefika njalo emsebenzini ngemva kukaCynthia, njengoba _ wayenohambo olufushane lokushayela ekuseni.",uCarrie,uCynthia
+345,"UAmy washiya egcobile yonke indawo ngemva kokuhlanza usinki kaKayla, ngoba u_ akagadanga kakhulu.",Amy,Kayla
+346,UPatricia kwadingeka akhokhe intela encane kunoCynthia ngoba _ wenza imali encane ngonyaka.,uPatricia,uCynthia
+347,Intombazane yaphula inhliziyo kaLeslie kodwa hhayi ekaKenneth ngoba _ wayekade ethandana naye.,uLeslie,uKenneth
+348,"UMonica wasola ukuthi uRebecca usephenduke umlutha wotshwala, kodwa _ wabikezela ukungenelela ukuze kulungiswe le nkinga.",uMonica,uRebecca
+349,UWilliam wayeyisishoshovu esikhulu samalungelo ezilwane kodwa uRandy wayengenandaba kangako _ wayethanda isikhumba.,uWilliam,uRandy
+350,URandy wayengabuthandi ubuchwepheshe ngokungafani noDennis ngakho _ uhlala enolwazi ngokufunda amaphephandaba aku inthanethi.,Randy ,Dennis 
+351,"Inkolo yama Bhuda ayimukhangi uChristine, lapho uTanya ufuna ukwazi ngayo nakuba _ engowomoya kakhulu.",Christine ,Tanya 
+352,UDerrick wayengazi ukuthi angasilungiselela kanjani isiphepho ngokungafani noNeil ngoba _ wayehlala eduze nendawo yasogwini.,Derrick ,Neil 
+353,UNeil wayenethezeke kakhulu kuno Lawrence ngoba _ wayenezikelemu ezizalela emzimbeni wakhe.,Neil ,Lawrence 
+354,UJustin ukhathazeke kakhulu ngesivuno ngenkathi  uIan engekho ngoba u_ ungumuntu ohlala emadolobheni. ,Justin ,lan 
+355,"UWilliam uzodlala i bowling noJustin namuhla selokhu amumemile, nakuba _ engakaze a bowle ngaphambilini.",William ,Justin
+356,"Ingane kaLogan ihlale ixakile, kodwa ekaKenneth ayixakeki _ iyaphusha.",Logan ,Kenneth 
+357,URandy wayenesineke esingaphezu kuka Josefa ephathini nakuba _ wayenezingane ezimbalwa ezabo.,Randy,Joseph 
+358,"UVictoria akakuthandi ukuzivocavoca futhi uPatricia uyakuthokozela, ngakho _ ukhuluphele ngokuhamba konyaka.",Victoria ,Patricia 
+359,"UKenneth waphuza umuthi uWilliam ayewusebenzisa ekwelapheni isifuba sakhe somoya, ngakho_isifuba somoya sisakhululeka.",Kenneth ,William 
+360,UJennifer wathola amarandi ambalwa ku Carrie ngemva _ enikezwe umsebenzi wokugunda utshani nokuthulula amagatha.,Jennifer ,Carrie 
+361,UKenneth wahwebelana ngekati lakhe elisha ukuze athole ingulube noRandy ngoba _ wayefuna ingulube.,Kenneth ,Randy 
+362,UKevin wakhokha imali encane ngogesi wakhe kunaleyo ayikhokhile uRandy njengoba _ wayenendlu enkulu.,Kevin ,Randy 
+363,UMegan wayenenkinga yokulawula isisindo sakhe kuno Christine ngoba _ wayengawadli kakhulu ama dizethi. ,Megan ,Christine 
+364,UNeil ufunda ukusika izimbali ngendlela efanele kuSteven njengoba _ efuna ukunakekela izimbali ngendlela efanele.,Neil ,Steven 
+365,Ngokuvamile uJustin wayengumpheki omubi uma eqhathaniswa no Kyle kodwa namhlanje ebusuku _ wenze isinkwa senyama esingcono kakhulu.,Justin ,Kyle 
+366,"Amahlaya kaFelicia ehlise umoya ku Jennifer , njengoba u _ wayesesimweni senjabulo.",Felicia ,Jennifer 
+367,"I Turtle yayiyinyama uRobert ayithanda kakhulu kodwa uJustin akakwazanga ukuma, ngakho _ wayala inyama yenkomo yokudla kwabo.",Robert ,Justin 
+368,UKenneth wathengisa ingane yakhe entsha ngengulube noRandy ngoba _ wayefuna ingane.,Kenneth,Randy
+369,"URandy wayengaphezu kwempohlo efanelekayo kunoNelson, ngakho _ waqala ukukhathazeka ngokungathola umfazi.",Randy ,Nelson 
+370,URandy wayenesineke esikhulu kunoJoseph eqenjini ngoba _ wayenezingane zabo eziningana.,Randy,Joseph
+371,"UMatthew wayene igo enkulu ngenkathi uDennis ethobekile kakhulu, ngakho _ akuvamile ukuzigabisa ngezinto abazifezile kwabanye.",Matthew ,Dennis 
+372,"Esitolo sokudla, uElena wathengela uLaura i Frappe yesiGreek ngoba _ wayempofu kakhulu.",Elena ,Laura 
+373,URandy uyi tipper engcono kunoNick ngoba _ wayesebenze embonini yezinsizakalo isikhathi eside.,Randy ,Nick 
+374,Udokotela wamnika oxhumana naye uWilliam kodwa hhayi u Adamu ngoba _ unombono omkhulu.,William ,Adam 
+375,URyan wayenama gerbils amaningi njengezilwane ezifuywayo kodwa hhayi uLawrence ngoba _ wajabulela ukuba nezilwane ezifuywayo ezinobukhulu obuncane.,Ryan ,Lawrence 
+376,UEric waphefumulelwa nguJoel ukuba abe isishoshovu ngoba _ wayebangele ushintsho olukhulu esikhathini esedlule. ,Eric ,Joel 
+377,"USamantha wayenokwakhiwa okuningi kwe movu ezindlebeni zabo kuno Monica, ngakho _ wacabanga ukukwenza into yokuhlanza indlebe eyenziwe ekhaya.",Samantha ,Monica 
+378,"UPatricia kwakudingeka anciphise isisindo esithile kodwa uCarrie akazange, ngakho _ wadla iyogathi esikhundleni se ayisikhilimu.",Patricia ,Carrie 
+379,"Phakathi ekuseni ngenkathi uBrett ezoshefa, uDonald wabuka ngokufuna ukwazi ngoba _ wayengubaba.",Brett,Donald
+380,"Ukushefa kwakudingeka kaningi kuJeffrey ngaphezu kukaMichael because _ wayenezinwele ezinde, eziningi.",Jeffery,Michael
+381,UBenjamin wayefuna ukudlala ichibi noMathewu ngoba _ wayengakhiphi muntu esikhathini esithile.,Benjamin,Matthew
+382,"ULaura wanquma ukusondela esilwaneni esilimele, kodwa uTanya wabamba, ngoba _ wayengenalwazi ngezinja.",Laura,Tanya
+383,UKayla wasusa isitho sangasese sekati lakhe elisha lokutholwa kodwa hhayi uElena ngoba _ wayenomuzwa wokuthi linonya.,Kayla,Elena
+384,Isitolo asebenza kuso uJason sinezinambitheka eziningi kunesitolo sikaDennis ngoba _ kuhlala kumatasa.,Jason,Dennis
+385,I-movie entsha kakhulu yenza umqondo omningi kuDennis kodwa akekho kuKevin njengoba _ njalo funda amahlaya we-manga lapho esemncane.,Dennis,Kevin
+386,ULogan wabhaka ikhekhe likaSteven ngoba _ wayekhungathekile ngokuphahlazeka kwemakethe yamasheya.,Logan,Steven
+387,"UTanya wahlela uhambo ayezoluthatha noMegan , okwakumangalisa kusukela _ ngokuvamile kwakuhlelekile kakhulu.",Tanya,Megan
+388,"UBetty waya enkulumweni ka-Erin, kodwa kwakuyisikhathi eside kakhulu _ ukubeka abafundi ukuba balale isigamu.",Betty,Erin
+389,"U-Erin ukholelwa ekubekeni izinto ngethemba lokuthi uzobuye uzidinge kakhulu kunoRachel, ngakho-ke kwathatha _ isikhathi esiningi kakhulu sokuhlanza indawo yabo yezingubo yabo.",Erin,Rachel
+390,U-Eric waphefumula ngokujulile lapho etholakala ukuthi unesifo sobuntu emngceleni. UJosefa wezwa konke nokho _ akazange aqonde okuningi.,Eric,Joseph
+391,USara ucabanga ukuthi u-Elena uyahlanya ngokungayithandi ikhekhe le-vanilla sponge kusukela _ ucabanga ukuthi kuyinto esabekayo.,Sarah,Elena
+392,USamuel wabizwa ngokuthi isilwane sikathisha nguRobert yize _ njalo wathola amaphuzu amahle kakhulu okuhlola ekilasini.,Samuel,Robert
+393,"Amy ugibele skethibhodi njalo, kodwa Christine ukhetha ukuba islinyana ngoba _ kuyinto bendabuko ngaphezulu.",Amy,Christine
+394,Inyama yengulube yaphekwa kangcono nguTanya kunoLindsey ngoba _ yasebenzisa izinongo ezincane kakhulu ngaphambili.,Tanya,Lindsey
+395,"Isitshalo seqanda ukuthi u-Ian wapheka isidlo sakusihlwa noBrett sinzima kakhulu, kodwa _ sisebenza sengathi kulungile.",Lan,Brett
+396,"Minyaka yonke, uKatrina uzila ukudla kweRamadan ngenkathi u-Erin ezila ukudla kweLent ngoba _ ungumMuslimi",Katrina,Erin
+397,"UNatalie waqaphela ukuthi angafaki noma yikuphi ukukhishwa kwe-walnut kwiresiphi ayeyenza ku-Emily, kodwa-ke _ wathi empeleni babengezwani nama-walnuts",Natalie,Emily
+398,U-Adamu unethuba elincane ekuphileni lokuphumelela kunoJustin ngoba _ ungumuntu ogcwele umdlandla nemibono ephusile.,Adam,Justin
+399,"UJeffrey wakhuluma izilimi eziningana, kodwa uJustin wakhuluma isiNgisi kuphela, ngakho-ke _ akakwazanga ukuqonda imbukiso yamafilimu angaphandle kalula",Jeffrey,Justine
+400,"USamantha wayenokwakhiwa okuningi kwezigonogono ezindlebeni zabo kunoMonica, ngakho-ke _ akazange acabange ukudala into yokugeza amadlebe eyenziwe ekhaya",Samantha,Monica
+401,"UCraig wayekhuluphele ngokweqile ngakho-ke lapho ikilasi lithatha izilinganiso zabo zeyunifomu, uKenneth wamqinisekisa kusukela _ enokuzicabangela.",Craig,Kenneth
+402,"Phakathi ekuseni ngenkathi uBrett ezoshefa, uDonald wabuka ngokufuna ukwazi ngoba _ wayeyindodana.",Brett,Donald
+403,U-Elena wathumela uVictoria i-khiledi yezipho ngoba _ wayenemali encane yokuphana.,Elena,Victoria
+404,Ukuqhuba ibhizinisi kufanelekile kabi uRebecca kunoCynthia ngoba _ njalo wagijima ngemiphumela yesinqumo.,Rebecca,Cynthia
+405,"Inkampani kaRobert igxile ekufakweni kwedatha, kodwa uJeffrey wenza umthetho, ngatho-ke inkimpani ye-_ ingcono ngamakhompyutha.",Robert,Jeffrey
+406,U-Amy wayeshiye itafula futhi uSamantha wahamba egijima ukubuyisela isikhwama ngaphambili _ waqaphela iphutha lakhe.,Amy,Samantha
+407,"URobert wasiza uLogan ngemuva kokuhlaselwa kwabo kokukhathazeka, kusukela _ wayaziwa ukuthi unobukhona obuhlakazekile.",Robert,Logan
+408,"Imidlwane eyatholwa uMaria ayiziphathi kahle, kanti ekaLindsey iziphethe kahle. Lokhu kungenxa yokuthi _ unothando kubo.",Maria ,Lindsey 
+409,"Eqenjini, uBrian wadla isiteki esiningi ngenkathi uHunter edla isaladi kuphela ngoba _ wayencamela imifino. ",Brian ,Hunter 
+410,"UKyle wafonela osebenza ngogesi ukuba eze endlini, kodwa uNick wayikhansela i aphoyintimenti ngoba _ wenze iphutha.",Kyle ,Nick 
+411,UNatalie kwadingeka acele usizo ku Amy ngoba _ uhlale esebenzisa ukufulela okugoqiwe ngaphambili esikhundleni sokufaka amathayela ophahleni.,Natalie ,Amy 
+412,"UMonica wanikeza ukubukeka okukhathazekile njengoba uMaria ehlola futhi elinganisa ingulube ye guinea, njengoba _ ungumnikazi wesilwane.",Monica ,Maria 
+413,"UKenneth kwadingeka angene ku R-Rated emovini, ngokungafani noRyan, ngoba _ wayeneminyaka engaphezu kweshumi nesishiyaga lombili. ",Kenneth ,Ryan 
+414,"UNeil wanikeza i khithi yabo entsha ku Aaron, nakuba _ wayengafuni ukuba nekati.",Neil ,Aaron 
+415,"Ukungapheleli ezingubeni kulula ukubona uCarrie kodwa hhayi uJennifer, ngoba _ unamehlo amahle kakhulu.",Carrie,Jennifer
+416,UFelicia wathengisa amanye amadayimane ayigugu ku Erin ngoba _ wayeyilimaza ngempela imali ethile.,Felicia ,Erin 
+417,"Ngisho noma besanda kuhlangana, uBrett wayesenza ngokunamathela kakhulu kumngani wakhe omusha uSteven owathukuthela, ngakho _ wambuza ukuthi yini engalungile.",Brett,Steven 
+418,"UNick wasuka emsebenzini waya emsebenzini kodwa u Aaron wahlala nebhizinisi elifanayo, ngakho _ akazange afaneleke ukuthola izinzuzo ezinhle.",Nick ,Aaron 
+419,"UJustin wabamba indiza yabo ngenkathi uNick ephuthelwa eyabo, ngakho_ wachitha ihora elilandelayo efonini ehlelela kabusha.",Justin ,Nick 
+420,UChristopher wanikeza uSamuel ithawula lephepha ngoba _ wayenomunye owengeziwe wokugcina.,Christopher ,Samuel 
+421,UAmy waboleka i vacuum yakhe kuChristine ukuze ayihlanze ngoba _ wayephethe amathuluzi amaningi okuhlanza.,Amy ,Christine 
+422,UAmy waboleka i vacuum yakhe kuChristine ukuze ayihlanze ngoba _ wayenamathuluzi okuhlanza ambalwa.,Amy ,Christine 
+423,"UElena wayephila kahle ngemva komdlalo, kodwa uJennifer wayequlekile, ngoba _ waphuthelwa inkundla eyaphonswa kuye.",Elena ,Jennifer 
+424,"Naphezu kwemizamo yakhe emihle kakhulu, uCraig akakwazanga ukufinyelelwa nguDonald ngoba _ wayelenga phezulu kakhulu ngenhla.",Craig,Donald
+425,UKevin ukuthola kunzima ukukhulisa izinzipho zakhe kunoMichael ngoba u_ unomkhuba wokudla izinzipho zakhe.,Kevin,Michael
+426,Ukugqoka ama-pajamas kusihlwa kwafanela uMary kodwa hhayi uKatrina ngoba u_ wayelala ebusuku.,Mary,Katrina
+427,Inja encane enhle iyona uCraig ayinika uDonald ngemva kokuba u_ ethole ukuthi umzimba wakhe awuzwani nezinja.,Craig,Donald
+428,"Abangani bakaMegan ngezinye izikhathi babembiza ngokuthi ingulube kodwa hhayi abangani bakaCynthia, ngoba _  wayeyidlabha.",uMegan,uCynthia
+429,UKyle wafundisa uLeslie indlela yokudlala i-ping pong ngoba _ wayefuna umuntu ayengadlala naye.,uKyle,uLeslie
+430,UJoel wabeka ifoloko epuletini ekhombisa uJustini ukuthi sebeqedile ukudla ngoba _ angathanda kuqoqwe izitsha.,uJoel,uJustin
+431,"UCarrie wahamba ngomkhumbi olwandle eholidini ngenkathi uSamantha eya ehotela eliseduze nezindawo zezivakashi, ngakho-ke _ wachitha isikhathi esiningi eholideni lakhe endaweni engewona amanzi.",uCarrie,uSamantha
+432,"UDerrick akakwazanga ukuvimbela uJoel ukuba angabaphangi, ngakho _ wagcina engenamali.",uDerrick,uJoel
+433,Inja encane enhle iyona uCraig ayinika uDonald ngemva kokuba u_ ethole ukuthi umzimba wakhe awunankinga nezinja.,uCraig,uDonald
+434,Ukuvuvukala kwakulokhu kukhathaza uKatrina kodwa hhayi uChristine ngoba _ wayesekupheleni kwamashumi amane eminyaka.,uKatrina,uChristine
+435,UFelicia wathenga amanye amadayimane ayigugu ku-Erin ngoba _ wayelimaza ngempela imali ethile.,Felicia,Erin
+436,"U-Aroni wazifihla emfudlaneni wemvula, kodwa uSamuweli wayengakhathazeki, ngoba _ wayekhohliwe ukuletha isambulela.",Aaron,Samuel
+437,UJennifer wafaneleka ukuthola izinzuzo zomhlalaphansi ngenkathi u-Amy engazange ngoba _ wayemdala engaphezu kuka-65.,Jennifer,u-Amy
+438,UJessica wasebenzisa ukugoqa kwepulasitiki ngemuva kokudla kwakusihlwa ngenkathi uLaura engazange ngoba _ wayenokudla okuningi okusele.,Jessica,Laura
+439,UNatalie wakhuthazwa ukuba aye ekudleni ngenkathi uLindsey ekhuthazwa ukuba adle kakhulu ngoba _ ungaphansi kwesisindo.,uNatalie,uLindsey
+440,UDerrick kodwa hhayi uJustin kwadingeka afunde kanzima ukuhlolwa ngoba _ wayebheka umsebenzi wezifundo njengodidayo.,Derrick,Justine
+441,"UNkulunkulu watshela uFelicia ukuthi athathe i-Folic Acid lapho ekhulelwa, kodwa uMegan wayengakholwa futhi akazange awuthole umyalezo ngakho-ke _ wayenengane engajwayelekile.",uFelicia,uMegan
+442,"Isitolo kwakungesikaCynthia nje, koodwa uNatalie wayengajabule lapho, ngoba _ njalo wayengaqedi.",uCynthia,uNatalie
+443,Umsebenzi omkhulu uBenjamin abenawo nomuhla kwakuwukusonga izingubo lapho _ wanquma ukungakwenzi.,uBenjamin,uRyan
+444,"UBenjamin kwadingeka agweme ukudla iyogathi uRandy ayejabulela ukudla kwasekuseni, ngoba _ wayengakwazi ukugaya ubisi.",Benjamin,Randy
+445,"USteven wayesaba kakhulu ama-carnival ngenxa yama-clowns, kodwa uDennis wayezithanda izindlovu, ngakho-ke _ wabancenga ukuba beze.",uSteven,uDennis
+446,"U-Elena wafaka ukhaphethi omusha wekhaya likaSamantha, futhi _ wayekhathele kakhulu kuwo wonke umsebenzi onzima.",u-Elena,uSamantha
+447,I-Stealth yayinto efanele uRebecca ngaphezu kuka-Elena ngoba _ akazange akhonze empini.,uRebecca,u-Elena
+448,"UKatrina wayengenayo isithupha esiluhlaza sezitshalo ezikhulayo ngokungafani noLindsey, ngakho-ke _ waqhoqhobala lapho isitshalo sabo sifa.",uKatrina,uLindsey
+449,"Amaphekula ahlukumeza uNeil esikhundleni sikaMathewu, ngoba _ ayenokubekezelelana okuphezulu kobuhlungu.",uNeil,uMatthew
+450,"UJennifer wafundisa uCarrie indlela yoku krosha ingubo, ngoba _ wayehambela ikilasi lokunitha.",uJennifer,uCarrie
+451,Ukusebenzisa i-glue kule phrojekthi kwakubalulekile ku-Elena kodwa hhayi uKatrina ngoba _ wacabanga ukuthi kuzonamathela kabi.,u-Elena,uKatrina
+452,"Esikhumulweni sezindiza, uCarrie uthola imoto yokuqasha, kanti u-Angela akakwenzi, ngoba _ uzonda ukuhamba.",uCarrie,u-Angela
+453,USara washaya indiva uFelicia owayesanda kuyeka umsebenzi wakhe futhi wathuthela kwesinye isimo ukuze abe naye ngoba _ unothando.,uSarah,uFelicia
+454,"UJennifer wayefuna ukuphakela uLindsey i-mousse kashokoledi, kodwa _ wayengakaqedi ukudla ukudla okuyinhloko.",uJennifer,uLindsey
+455,U-Angela waya ukuyobona uNatalie mayelana Nokwenza i-tattoo ngoba _ wahamba wayoqeda umkhono wngalweni yabo yangakwesobunxelo,u-Angela,uNatalie
+456,"UJoel wajabulela ukuya ebhange ukuze asebenze ngama-akhawunti abo kodwa uNick wakugwema, kusukela _ wayenezimali ezingalawuleki.",uJoel,uNick
+457,UTanya waqasha uErin ukuba abe usonkontileka wekhaya labo kodwa _ akazange avumelane ngentengo ephansi ababeyifuna.,uTanya,u-Erin
+458,"Utanya ubengakhoni ukuthenga umshini wokuwasha izitsha njengo Erin, ngakho _ uzigeze ngomshini izintsha.",uTanya,u-Erin
+459,"USamuel wayenelukuluku lobuchwepheshe nezakhiwo ngokungafani noLawrence, ngakho-ke _ wanaka kakhulu igrama yesiNgisi.",uSamuel,uLawrance
+460,UKyle wacela usizo ku-Aaron ngempahla yokuwasha ngoba _ wayematasa kakhulu ngalelo langa ekuseni.,uKyle,u-Aaron
+461,"URandy wacabanga ukuthi kuzoba lula ukukhohlisa uJeffrey, kodwa _ wayengenakho ubuhlakani ngendlela ababecabanga ngayo.",uRandy,uJeffrey
+462,UBrett wahlala ngaphakathi ngenkathi uDonald edlala iqhwa ngaphandle ngoba _ wayengafuni ukuthola isifo.,uBrett,uDonald
+463,"Ibhethri emotweni kaCynthia lafa ngesikhathi behambisa uSamantha kudokotela, futhi _ wayengekho ngesikhathi.",uCynthia,uSamantha
+464,"UDerrick waya ejimini ngenkathi uNeil eye kwi-spa, futhi ngenxa yalokhu, _ lawo mahora amabili amshiya ekhathele kakhulu.",UDerrick,uNeil
+465,"U-Amy ugibele i-skateboard njalo, kodwa uChristine ukhetha ukuhamba nge-goofy ngoba _ uhluke kakhulu.",U-Amy,uChristine
+466,"Ama-pores kaBetty avalekile, futhi akaLindsey mahle futhi ahlanzekile. _ usebenzisa intsipho yokugeza ubuso eshibhile.",uBetty,uLindsey
+467,"NgoMsombuluko ntambama, uSamuel wacela uRandy ukuba agibele aye ebhange kodwa _ wayenokunye okubalulekile kunalokhu.",uSamuel,uRandy
+468,UNelson uqinisekisa ukuhlanza amazinyo akhe nsuku zonke ngokungafani noBrian ngoba _ uhlanzekile kakhulu.,Nelson,Brian
+469,URandy akazange athande ubuchwepheshe ngokungafani noDennis ngakho _ wahlala enolwazi ngokufunda amaphephandaba.,URandy,uDennis
+470,"USteven wayesaba kakhulu ama-carnival ngenxa yama-clowns, kodwa uDennis wayezithanda izindlovu, ngakho _ wabancenga ukuba bahlale ekhaya.",USteven,uDennis
+471,UPatricia wakwazi ukunikela ngezinso eVictoria ngemuva kokudlula emhlabeni ngoba _ wayenezinso ezonakalisiwe.,UPatricia,uVictoria
+472,UNatalie wayefuna ukuba nobuhlobo no-Angela kodwa _ wayengazi ukuthi angakuyeka kanjani.,Natalie,Angela
+473,UDennis wayemubi kakhulu ekuphonseni ijika kunoBenjamin ngoba _ wadlala i-baseball yasekolishi.,UDennis,uBenjamin
+474,"ULawrence akakwazanga ukukhetha, ngakho uEric wabakhethela, ngoba _ uphelelwa isineke kakhulu.",uLawrence,u-Eric
+475,"UTanya wayengenele ukhetho futhi uElena wayengumvoti, ngakho _ wabacela ukuba babavotele.",UTanya,u-Elena
+476,"USteven usanda kuthenga inja futhi udinga usizo ku-Ian ukuze akhethe umbhede, ngoba _ unenja.",USteven,uLan
+477,Ukuya emngcwabeni kwakunomzwelo kakhulu kuRandy kunoJoel ngoba kwakuyi lungu lomndeni lika  _.,uRandy,uJoel
+478,Ukuya emngcwabeni kwakunomzwelo kakhulu kuRandy kunoJoel ngoba kwakuyi lungu lomndeni lika  _.,uRandy,uJoel
+479,Imoto kaLawrence indala kunale eshayelwa uMichael. Lokho kungenxa yokuthi _ wakhokha imali encane ngayo.,uLawrence,uMichael
+480,"Umphimbo obuhlungu wasiphatha sonke emsebenzini, ngakho u Donald waya kudokotela wathola ama-antibiotics kuyilapho uJeffrey engazange ngakho ku _ washeshe waphela.",uDonald,uJeffrey
+481,"UNelson unovulandi ongaphandle ovulekile, kanti uSamuel wayenovulandi omncane kuphela, ngoba _ wayehlala endlini.",uNelson,uSamuel
+482,"Ngesonto eledlule, uJeffrey wahlafuna uRandy ngokudubula  izingwejeje ngesibhamu sakhe se-BB, ngoba _ wayenomuzwa wokuthi zinhle.",uJeffrey,uRandy
+483,"U-Amy wamemeza uRebecca ukuba ayeke ukumphatha njengengane njengakuqala, nakuba u- _ engunina.",U-Amy,uRebecca
+484,"UJoel wajabulela ukuya ebhange ukuze asebenze ngama-akhawunti abo kodwa uNick wakugwema, kusukela izimali za- _zazilawulwa.",Joel,Nick
+485,"USamantha wayehlala edolobheni ngenkathi uPatricia ehlala ehlane, ngakho u-_wacabanga ukuthi akujwayelekile ukubona i-cactus egcekeni labo.",Samantha,Patricia
+486,Ingane yakhala lapho uCraig eyibamba kodwa yamamatheka lapho u-Eric eyibamba ngoba u _ akavamile ukuchitha isikhathi nengane.,Craig,Eric
+487,UNeil wacela ukusiza uLogan ukuthi akhethe izifundo ezifanele zasekolishi ngoba _ wayengumfundi.,Neil,Logan
+488,"UMegan unikeze uEmily iwayini njengesipho sokufudumala kwendlu, futhi _ ukujabulele ukumenywa ephathini.",Megan,Emily
+489,U-Ian wethuswa isicabha sensimbi lapho u-Robert engazange enze kanjalo ngoba _ wayehlikihle izinyawo zabo kukhaphethi ebangela indawo emile.,u-Ian,uRobert
+490,Uthisha wesiNgisi walungisa indlela yokubiza uRobert kodwa wancoma uSamuel ngoba _ wayenenkinga yokubiza ongwaqa abathile.,uRobert,uSamuel
+491,U-Emily wayecabanga ukuthi ukugqoka ingubo efanayo yombala kuzokwenza uLaura athukuthele kodwa _ wamtshela ukuthi ayigqoke.,Emily,Laura
+492,"I-California iyikhaya lika-Elena, kodwa uKayla ubiza i-Illinois ekhaya, ngakho-ke _ ibusika obubandayo.",Elena,Kayla
+493,"I-California iyikhaya lika-Elena, kodwa uKayla ubiza i-Illinois ekhaya, ngakho-ke _ ibusika obufudumele.",Elena,Kayla
+494,"UKatrina wayengenayo isithupha esiluhlaza sezitshalo ezikhulayo ngokungafani noLindsey, ngakho-ke _ wakhala lapho isitshalo sabo sifa.",Katrina,Lindsey
+495,"UNick watshela u-Aaron ukuthi kuzodingeka balandele ikhodi yokugqoka, ngoba _ wayevakashela kuphela isiko laseDubai.",Nick,Aaron
+496,Uma ebuka amafilimu adabukisayo uRandy uthinteka kakhulu kodwa uMatthew akakwenzi lokho ngoba _ kulula ukumjabulisa.,Randy,Matthew
+497,UJustin wayejabule lapho uBenjamin eqala ukuhamba ngesivinini ngakho _ akazange anciphise imoto.,Justin,Justin
+498,Ungakwazi ukulandelela uMichael kodwa hhayi uWilliam ngoba _ wenza ukunyakaza ngezicathulo ezinodaka.,Michael,William
+499,"UJustin wayenesikhumba esikhanyayo kunoKenneth, ngakho -ke _ kwakulula ukubona ekamelweni elimnyama.",Justin,Kenneth
+500,U-Eric wayenesisu esincane kunoJason ngoba u_ wayezi vocavoca nsuku zonke.,Eric,Jason
+501,UKayla uyamzonda uMegan ngoba u-_ ukhuluma ngesinye isikhathi futhi akadingi ukunakwa okwengeziwe.,uKayla,uMegan
+502,Umsebenzi omkhulu uBenjamin abenawo nomuhla kwakuwukusonga izingubo lapho _ ebatshela ukuthi baphumule.,Benjamin,Ryan
+503,U-Aaron wathola ukushisa kwelanga okubi kakhulu kunoChristopher ngoba _ wahlala ngaphandle elangeni isikhathi eside.,u-Aaron,uChristopher
+504,UFelicia wacela uTanya ukuba abasize ubisi lwenkomo yabo ngoba _ wayebacele ukuthi bangakwenzi bodwa.,uFelicia,uTanya
+505,ULeslie wayenesikhumba esimhlophe kuyilapho uJustin enesikhumba esimnyama ngakho _ washiswa yilanga kancane kakhulu.,uLeslie,uJustin
+506,ULeslie wayenesikhumba esimhlophe kuyilapho uJustin enesikhumba esimnyama ngakho _ washiswa yilanga ngokushesha okukhulu.,uLeslie,uJustin
+507,ULeslie wanika u Craig umsebenzi wokuba umthengisi ozimele ngoba _ wayemukweleta umusa.,uDennis,uCraig
+508,"UMatthew ulethele uBrett amanzi, _ akazange acabange ukuthi lena indlela engcono kakhulu yokwelapha ukuhixa kwabo.",uMatthew,uBrett
+509,"Ngemva kokusebenza isikhathi eside, u-Aaron wathatha isihlwathi kuyilapho uJeffrey engazange _ wayekhathele kakhulu.",u-Aaron,uJeffrey
+510,UFelicia wabeka iphepha lodonga ekhaya labo kodwa hhayi uChristine ngoba _ wayesanda kuthenga indlu yabo.,uFelicia,uChristine
+511,Ukukhuluma esidlangalaleni kufanelekile uChristopher kodwa hhayi uLeslie ngoba _ wayekhululekile ngokwemvelo futhi ezolile isikhathi esiningi.,uChristopher,uLeslie
+512,UBrett uzame ukwenza uDerrick asuke kuiOS aye kuAndroid ngoba _ wayengumfana othanda i-Apple.,uBrett,uDerrick
+513,"UDennis wamema uCraig ukuba eze futhi asize ngemisebenzi yokusingatha, ngoba _ wayevame ukwenza amaphathi.",uDennis,uCraig
+514,UCarrie uthole iseshini yokukhipha i-foliating ibuhlungu kodwa hhayi uElena ngoba _ wayenesikhumba esiqinile.,uCarrie,u-Elena
+515,"Udokotela watshela uSarah ukuthi adle i-turmeric eyengeziwe, kodwa hhayi uRachel. _ kwakungukudla okungenampilo.",uSarah,uRachel
+516,"Ngenkathi uNatalie ehlaselwa ukukhathazeka, uAngela wathatha ingubo ukuze asize ngoba _ wayesendaweni embi ngaphambili.",uNatalie,u-Angela
+517,"Ukayla wayethanda ukugijima kuyilapho uCynthia ekhetha ukwenza ama-crunches lapho ezivocavoca, _ wayenesisu esichaziwe.",uKayla,uCynthia
+518,"Kwakuwumkhuba omubi, kodwa uMichael wayethanda ukugembula ngezimpelasonto. ULogan wayecabanga ukuthi ukuchitha imali kodwa _ akazange anakekele umbono wakhe.",uMichael,uLogan
+519,"Lapho uLawrence eya endlini yowesifazane bahlola ukuqinisekisa ukuthi amakhethini ahambisana nama-drapes kodwa uNelson akazange, ngoba _ wayengumklami.",uLawrence,uNelson
+520,UTanya waqasha uErin ukuba abe usonkontileka womuzi wabo kodwa _ akazange avumelane nenani eliphezulu ababelifuna.,uTanya,u-Erin
+521,ULogan wayenentshisekelo yokuba umdwebi we-tattoo futhi uNick akazange afune ngoba _ wayenelungu lomndeni elikwenzile.,uLogan,uNick
+522,Phakathi nezinyanga zasebusika u-Eric wacela uJoel ukuba aqoqe izinkuni zomlilo kusukela _ wayengumqashi.,u-Eric,uJoel
+523,"U Craig wayefuna isiqukathi semikhumbi futhi u Derrick wavele waba naso, ngakho _ wambiza futhi wenza isithembiso.",uCraig,uDerrick
+524,UDennis wayenza ispaghetti namabhola enyama ukuze adle futhi wacela uRyan ukuba eze nesaladi ngoba _ wayengumpheki omubi.,uDennis,uRyna
+525,Ukuqunjelwa kuvame ukubangela izinkinga kuVictoria ngenxa yokuntuleka kwe-fiber kodwa hhayi uJessica; _ wayenokudla okungenampilo.,Victoria,Jessica
+526,"Cosplay nesithakazelo ngempela uMathewu, kodwa uDonald wayengazi okuningi ngakho, ngakho _ wazama ukufunda ngakho.",uMatthew,uDonald
+527,"UJessica wazama ukungahleki ngesitayela sezinwele zikaRebecca njengoba behamba phansi ephasishi esikoleni, kodwa _ wezwa ukuhleka.",uJessica,uRebecca
+528,Kwakulula kuJeffrey kodwa hhayi uJoel ukuthola izinwele ngoba _ wanquma ukuthi izinwele zabo zinde kakhulu.,uJeffrey,uJoel
+529,"ULindsey wenza konke ayengakwenza ukuze anelise izimfuno zikaRachel, kodwa _ akazange akwazi ukunikeza okwanele.",uLindsey,uRachel
+530,"UAmy utshela uRebecca ngenjabulo ukuthi ukhulelwe, ngoba _ uhlale ejabulela izindaba ezivela kumngani wakhe.",u-Amy,uRebecca
+531,Utshani babudinga ukuchelela ngakho uJason watshela uSamuel ukuthi bazokwenza ngoba _ wayekhathele.,uJason,uSamuel
+532,UFelicia wayethumela ibhilidi kuJessica ngakho _ kwadingeka avule imvilophu futhi akhiphe isitembu.,uFelicia,uJessica
+533,"Ukwenza abangane abasha kwakulula kuLindsey kodwa hhayi uRachel, njengoba _ wafunda ukuthuthukisa amakhono omphakathi njengengane.",uLindsey,uRachiel
+534,UJustin wayenza ama taco futhi wacela u Eric ukuthi alethe ulethisi ngoba u _ uphumile.,uJustin,u-Eric
+535,UMonica akazange aqashe uJennifer ukuba aqashe izingane zakhe ngoba _ uzobe engekho isikhashana.,uMonica,uJennifer
+536,UMegan wayedinga umuntu azohlala naye ngakho babuza Ucarrie ukuthi bayafuna yini ukuthuthela futhi _ wabadlulisela isimemo.,uMegan,uCarrie
+537,UNick wayenemali eningi kunoMathewu ngakho _ wathenga indandatho yedayimane esitolo.,Nick,Matthew
+538,"UChristopher wayehlupha abantu ngemibuzo engapheli, uEric wayengekho ngoba _ wayezwela.",Christopher,Eric
+539,"UCarrie akazange amnake uTanya, ngoba _ wayengemuhle ekugqameni ezindaweni zomphakathi.",Carrie,Tanya
+540,UJustin kwakulula ukwenza umkhonyovu kunoWilliam ngoba _ wayenolwazi oluningi ngamanga.,Justin,William
+541,U-Emily wafunda ukukhilosha kugogo wabo kodwa uCynthia akakwazanga. _ walukela inja yabo ijezi.,Emily,Cynthia
+542,U-Emily wafunda ukukhilosha kugogo wabo kodwa uCynthia akakwazanga. _ wathengela inja yabo ijezi.,Emily,Cynthia
+543,U-Adam ungcono ekudobeni i-basketball kunoMichael okwamanje _ uvivinya ikhono lakhe nsuku zonke.,Adam,Michael
+544,Udokotela wayelindele ukuthi uDennis akhule ngokushesha kunoDerrick ngoba _ wathola ukudla okunomsoco ezweni labo.,Dennis,Derrick
+545,UKenneth ushibhile ngesipho esiyigugu sikaMichael futhi _ wayeqonda ngokuba i-cheapskate.,uKenneth,uMichael
+546,"U-Maria wabizwa nge-nerd ngu-Amy, ngakho-ke _ unquma ukhubhala incwadidi yokuziphindiselela komunye.",Maria,Amy
+547,"U-Maria wabizwa nge-nerd ngu-Amy, ngakho-ke _ unquma ukhubhala incwadidi yokuxolisa komunye.",Maria,Amy
+548,"U-Kevin wayegqoke unucwebebobuningi uKenneth ayemthengele bona, ngakho _ wayenemali encane.",Kevin,Kenneth
+549,UJoseph kodwa hhayi uCraig wayefuna ukuvula amafasitela namuhla ngoba _ kwakubandangempela.,Joseph,Craig
+550,UNick wayenemali eningi kunoMathewu ngakho _ wayishaya indiva indandatho yedayimane esitolo.,Nick,Matthew
+551,UJustin walalela uNelson ngoba _ wayengumfundi owayezazi izimpendulo zokuhlolwa kwezibalo okuzayo.,Justin,Nelson
+552,"UTanya wathengisela uRachel imali eningi, ngoba _ wayeyidinga ngempela enye imali.",Tanya,Rachel
+553,UErin wayenakeke kakhulu ngebanga labo esivivinyweni kunoLindsey ngoba _ wayefeyila ikilasi.,Erin,Lindsey
+554,"ULawrence waqasha igumbi kuDennis, futhi _ wabanika ikhadi lesikweletu ngesikhathi sokuthenga.",Lawrence,Dennis
+555,UKenneth wayethanda ulwandle ukwedlula uDerrick ngoba _ wayecasulwe ukudlala ngemikhumbi yamathoyizi.,Kenneth,Derrick
+556,UAmy wayefuna ukuba unjiniyela kodwa uCynthia akazange njengoba _ edala kakhulu.,Amy,Cynthia
+557,"UNatalie wanquma ukuthi uzokwakha imoto zisuka nje kodwa uMaria akakwazanga ukusiza, ngoba _ wayengumshayeli onekhono kodwa engakwazi ukusebenza kahle emishinini.",Natalie,Maria
+558,U-Aaron wacela uRandy ukuba anakekele inja yabo nekati ngoba _ wayehlala ekhaya ngesikhathi seholide lasentwasahlobo.,Aaron,Randy
+559,Isisebenzi sesitolo sokuthuthukisa amakhaya sasiza u-Angela futhi sashaya indiva uKatrina ngoba _ wayengekho emnyangweni wezinkuni.,Angela,Katrina
+560,Isimo sezulu sibanda kakhulu lapho u-Angela ehlala khona kodwa hhayi uLindsey ngoba _ uhlala eVermont.,Angela,Lindsey
+561,"UNick wenqaba ukunikeza uKyle noma iyiphi imali, ngoba _ wayesecebe ngendlela emangalisayo.",uNick,uKyle
+562,U-Eric udla ikhekhe eliningi kodwa uMichael akakwazi ngoba _ unoshukela wegazi ophakeme.,Eric,Michael
+563,"UMaria wayekhathele kakhulu kunoMonica, ngoba _ wayegijima enza imisebenzi ethile usuku lonke.",Maria,Monica
+564,UKenneth wazama ukuhlanza isikhunta endlini kaRyan ngoba _ wayengafuni ukuthi bagule kakhulu.,Kenneth,Ryan
+565,UElena wayesesimweni esibi kakhulu kuno-Amy ngoba _ wayesanda kuqala ukuya esikhathini.,Elena,Amy
+566,"ULeslie umcasule ngempela uJeffrey ngokudweba ngamakhrayoni kusithombe sangemuva, ngakho _ uzizwa kabi.",Leslie,Jeffrey
+567,"UCynthia uneparakeet esifuywayo esithanda ukuhlanganyela noMonica, ngakho-ke u _ uzizwa ekhethekile.",Cynthia,Monica
+568,UElena ulandele iresiphi ngokunembe kakhulu kunoTanya ngoba _ akakwazanga ukwenza ngcono ngokudla.,Elena,Tanya
+569,"Iphunga uElena alikhiphayo lammangaza uFelicia, ngakho-ke _ wayeseyogeza ngalolo suku ekuseni.",Elena,Felicia
+570,"Igundane ladlula kuJustin kodwa lahamba laya kuEric, ngoba _ laliphethe ipuleti likashizi.",Justin,Eric
+571,"Ngesikhathi begijima ekuseni, uHunter wayeka ukugijima noJustin epaki ngoba _ wayekhathele kakhulu.",Hunter,Justin
+572,UMegan ukulangazelela kakhulu ukudla kuno-Emily ngoba u _ ungumuntu onemizwa kakhulu.,Megan,Emily
+573,"UNeil wayethanda upiyano lwakudala egumbini lokuphumula lika-Nick, ngakho _ wacela ukulithenga.",Neil,Nick
+574,ULindsey wayefundisa uMaria i-yoga ngoba _ wayecabanga ukuthi ibasize ngesikhathi esinzima.,Lindsey,Maria
+575,UNatalie wanambitha ukudla kwezinhlanga ezimbalwa kakhulu kunoMary ngoba _ wayengumdli okhetha kakhulu.,Natalie,Mary
+576,UKenneth wayefuna uEric amdlalele irekhoda kabi kakhulu kodwa wenqaba futhi _ wanganaki.,Kenneth,Eric
+577,"UKayla usebenzisa amafutha amaningi uma epheka kunoMonica, ngakho-ke _ unezitsha ezimnandi ngokwesilinganiso.",uKayla,uMonica
+578,UPatricia wacela u-Amy ukuthi agade izingane namuhla ntambama ngoba _ uyamkweleta umusa.,uPatricia,u-Amy
+579,"U-Amy wamemeza uRebecca ukuba ayeke ukumphatha njengengane njengakuqala, ngoba _ ungumuntu omdala manje.",Amy,Rebecca
+580,UJessica akazange asebenze imisipha yabo ye-lat ejimini njengoPatricia ngakho _ waba nomhlane obanzi.,Jessica,Patricia
+581,"Ngenkathi esendaweni yokudlela, uEmily waqaphela ukuthi uPatricia wayeminyanisa, kodwa _ wasusa ukuvinjwa yedwa.",Emily,Patricia
+582,USteven wayengenandaba nephunga likaviniga kodwa akazange akhathazeke uAaron ngoba _ wayenomuzwa ongaqondakali wokuhogela.,Steven,Aaron
+583,USteven wayengenandaba nephunga likaviniga kodwa akazange akhathazeke uAaron ngoba _ wayenomuzwa ozwelayo wokuhogela.,Steven,Aaron
+584,UElena wayefake izinwele zakhe ephonini kodwa uSamantha akazange ngoba _ wayenezinwele ezimfishane kakhulu.,Elena,Samantha
+585,UElena wayefake izinwele zakhe ephonini kodwa uSamantha akazange ngoba _ wayenezinwele ezinde kakhulu.,Elena,Samantha
+586,Ukuthenga amasondo engxubevange kwamfanela uBrett kodwa hhayi uAdam ngoba _ wayenemoto ayehamba ngayo.,Brett,Adam
+587,UMaria wajola kancane kunoLindsey ngoba _ wayenamahloni futhi ethule lapho ekhona abanye abantu.,Maria,Lindsey
+588,"Ukayla wayengeyena umsubathi omningi njengo-Carrie, kodwa  _ usekwazile ukuhlulwa emijahweni yabo.",uKayla,uCarrie
+589,UJustin wabuza uJoel ukuthi iyiphi impushana enomsoco eyayilungele ukuzilolonga ngoba _ wayengumpetha ekuzilolongeni.,Justin,Joel
+590,URandy wahlukana noNeil ngemva kokuba beqale ukuthandana ngoba _ wayengamuthandi,Randy,Neil
+591,"UKayla usebenzisa amafutha amaningi uma epheka kunoMonica, ngakho-ke _ unezitsha ze-blander ngokwesilinganiso.",uKayla,uMonica
+592,"UAngela uthenga imoto kuSarah futhi ufuna ukwehlisa inani, ngakho-ke _ ufuna ukwehlisa inani.",Angela,Sarah
+593,UIan kwadingeka afunde ulimi olusha kulo nyaka ngokungafani noDerrick ngoba _ wayesebenza kwelinye izwe.,Ian,Derrick
+594,"ULeslie wayevale umlomo wakhe emhlanganweni wabasebenzi, ngokungafani noDerrick ngoba _ wayefuna ukuyeka umsebenzi wakhe.",Leslie,Derrick
+595,UEmily uphatha induku ekhanyayo lapho ephuma ebusuku kuyilapho uKayla engayi ngoba _ esaba ubumnyama.,Emily,Kayla
+596,Ukuhlafuna i-bubble gum kwakuyindaba ka-Aaron kodwa hhayi uAdam ngoba _ wayenamazinyo okufakelwa.,Aaron,Adam
+597,"UFelicia akakaze aye eCanada, kodwa uEmily uya ngaso sonke isikhathi, ngakho _ ungumuntu wasekhaya.",Felicia,Emily
+598,"UPatricia ubheje elinye iqembu njengo Katrina futhi wahlulwa, ngakho-ke u-_ wayethukuthele ngokukhetha kwabo.",uPatricia,uKatrina
+599,URyan wayefuna ukutshala izihlahla egcekeni lakhe langaphambili ngokungafani no-Adamu ngoba _ uthanda ukuhlala endaweni evulekile.,Ryan,Adam
+600,U-Kayla wayenobuqili kuno-Rebecca futhi okumangazayo _ wawina umncintiswano we-wreath kakhisimusi ehamba phambili.,kayla,Rebecca
+601,"UDennis uvolontiya endaweni yokukhosela izilwane kuyilapho uEric evolontiya esibhedlela, futhi _ uvame ukunakekela amakati lapho.",Dennis,Eric
+602,UAmy kodwa uFelicia wayefuna ukuba nepulazi futhi afuye izingulube ngoba _ wayehlala efuna ukuba nezingulube.,Amy,Felicia
+603,UJennifer wacela uElena ukuba eze endaweni yokugcina igazi azonikela ngegazi ngoba _ wayenikela ngegazi kaningi.,Jennifer,Elena
+604,"Njengoba umshini wokuwasha uphukile, uHunter wathatha izingubo zikaBenjamin waya elondolo, njengoba _ wayenosuku lokuphumula ngalolo suku.",uHunter,uBenjamin
+605,UKatrina wanquma ukuhlela nohambo oluya e-spa no-Erin ngoba _ wayefuna ukuthatha isikhathi ndawonye ukuze aphumule.,Katrina,Erin
+606,kungaba nzima kuEmily kodwa hhayi uJennifer ukuba unjiniyela ngoba _ akazange abhalisele noma yimaphi amakilasi esayensi.,Emily,Jennifer
+607,"UAngela wabona isilonda semfiva simila emlonyeni kaRebecca, ngakho _ ngokushesha wabatholela iqhwa ukuze balibeke phezu kwalo.",Angela,Rebecca
+608,"UEric wa-oda isaladi nesifuba senkukhu kuyilapho uWilliam ethola isemishi elinetofu, ngoba _ wayelandela ukudla kwemifino.",Eric,William
+609,"UCythia wayethanda ukuba umthumeli wephephandaba, kodwa hhayi uSamantha ngoba _ wayethanda ukuhamba.",Cynthia,Samantha
+610,UNelson wavumela uRobert ukuba ashise udoti njengoba bezoshintsha futhi _ muva nje,Nelson,Robert
+611,UJessica wayenesoka kodwa engenaye UChristine ngoba _ wayekhangwe futhi efuna ukuqomisana nabesifazane.,Jessica,Christine
+612,Ukuphatha isisindo sakhe kwakunzima kuRachel kuno-Amy ngoba _ kwakungekho izinyo elinoshukela.,Rachel,Amy
+613,URebecca wayenezinambuzane eziningi endlini uma kuqhathaniswa no-Emily ngoba _ wayehlala edolobheni.,Rebecca,Emily
+614,URebecca wayenezinambuzane eziningi endlini uma kuqhathaniswa no-Emily ngoba _ wayehlala ezweni.,Rebecca,Emily
+615,"Imali mboleko ithathwa nguMary kuRachel, ngakho-ke _ nguye osesimeni esihle sezimali.",Mary,Rachel
+616,"Lapho uJoseph enokuvuvukala okuningi eqakaleni labo, uLawrence wathola iqhwa ngoba _ wayenganyakazi.",Joseph,Lawrence
+617,"UNick wayehlale egcizelela ukuthi i-glue yayingcono kune-theyiphu ngokungafani no-Hunter, ngoba _ wayenomuzwa wokuthi wayenephutha. ",Nick,Hunter
+618,Ingubo KuKatrina yayiyinde kakhulu kunekaMegan ngoba _ abazali bamvumela ukuba agqoke ingubo emfushane.,Katrina,Megan
+619,Isisekelo sathola umnikelo omkhulu kuKevin kodwa hhayi u-Adam ngoba _ sasishibhile kakhulu.,Kavin,Adam
+620,Indoda ekholwayo yahamba yakhuluma noNick hhayi uCraig ngoba _ wayengumKristu futhi esenoNkulunkulu kakade.,Nick,Craig
+621,"UErin washelela wawa ngoba uTanya wayeshiye iimabula phansi, ngakho u _ wamthethisa kakhulu. ",Erin,Tanya
+622,"Naphezu kwemizamo yakhe emihle kakhulu, uCraig akakwazanga ukufinyelela kuDonald ngoba _ wayelenga phezulu kakhulu ngenhla.",Craig,Donald
+623,"Ikhompyutha yaphuka. UChristopher wayithatha kuDerrick ngoba manje idinga ukulungiswa futhi _ kwakuyichepetsha yekhompyutha. 
+",Christopher,Derrick
+624,"UNick wehlise ukusetshenziswa kwabo kwamandla ngaphezu kuka-Leslie ngokuthenga izibani ze-LED, ngoba _ uphikile ukuthi ukuguquka kwesimo sezulu kwakungokoqobo.",Nick,Leslie
+625,"UElena wayefuna ukubhala indaba emfushane, kodwa akathandi ukufunda futhi uMary uyakuzonda ukubhala, kodwa uthanda ukufunda, ngakho _ waqala ukubhala incwadi.",Elena,Mary
+626,"UJason waya olwandle ngenkathi uBrian eya kumamuvi, futhi u _ wajabulela ukungena ethiyetha engenalutho.",Jason,Brian
+627,"URandy wayewasaba kakhulu amagciwane impilo yakhe yonke ngokungafani no Ian, ngoba _ wayengumuntu ohlanzekile.",Rany,lan
+628,"UCraig akazange abone ukuthi ukufakwa kwedatha kuyisicefe kangakanani kwaze kwaba yilapho u Randy equleka edeskini, kodwa _ akazange alale izolo ebusuku.",Craig,Randy
+629,"UMonica wayekholelwa ukuthi uSarah wayengumngane wakhe omkhulu futhi ethembekile kakhulu, ngakho _ watshelwa imfihlo ebalulekile.",Monica,Sarah
+630,"U Ian wenza amaphutha amaningi kuno Nick ngenkathi ependa umdwebo odongeni, nakuba _ enganakile kancane.",lan,Nick
+631,U Craig uhlala ethanda ukuyobuka izinyoni endaweni yokugcina izinyoni noJoseph ngoba _ ungumthandi wezinyoni onolwazi.,Craig,Joseph
+632,Ukuthola umyalelo wokuvimbela omunye wakhe obalulekile kwakudingeka ku-Emily kodwa hhayi u-Maria ngoba u-_ wayesebedudlelwaneni obunempilo.,Emily,Maria
+633,U-Donald washiya isishisi sesitofu sivuliwe ngenkathi u-Logan engena ngokuthula futhi _ waquleka ngenxa yokuhogela intuthu. ,Donald,Logan
+634,UKatrina ugeza kaningi kunoJennifer ngoba _ ungumuntu ongcolile kakhulu.,Katrina,Jennifer
+635,"Umfana wacela uSteven, esikhundleni sikaNick, imvume yokudubula isibhamu ngoba _ wayeqinile kakhulu.",Steven,Nick
+636,"Ngemuva komdlalo webhola, uBrett unemihuzuko embalwa kunoWilliam nakuba _ wawa kakhulu.",Brett,William
+637,"UCarrie wacabanga ukuthi indlu enezigebenga yayesabeka kakhulu kuno-Elena, ngakho _ wazamula kakhulu phakathi nayo.",Carrie,Elena
+638,Kwakukhona izimbobo eziningi egcekeni likaAmy kunoCarrie ngoba u_ wayenezinja ezincane ekhaya labo.,Amy,Carrie
+639,UMary wadlula endlini kaSamantha ngesikhathi sasekuseni ngakho _ wamnika i-waffle nejusi yewolintshi.,uMary,uSamantha
+640,UMary wadlula endlini kaSamantha ngesikhathi sasekuseni ngakho _ wanikezwa i-waffle nejusi yewolintshi.,uMary,uSamantha
+641,"USteven wayethanda ukuluka izinwele zabo ngokungafani noBenjamin, ngakho-ke _ ubelokhu egcina izinwele zabo zimfushane.",uSteven,uBenjamin
+642,Ukugijima ijimu kumfanele kangcono uEric kunoCraig ngakho u_ ukwazile ukusungula kancane kancane uhlelo olusha lwe-yoga.,Eric,Craig
+643,"UMegan wawasha isigqoko sikaJessica nezingubo, ngakho u_ wazizwa enecala lokuthi isigqoko sonakele..",Megan,Jessica
+644,UJeffrey wayethanda ukudla ushukela omningi kodwa uEric akazange ngakho u_ wayenamazinyo amahle.,Jeffrey,Eric
+645,"Ukubekezelela ubuhlungu kukaSamantha kwakuphezulu kakhulu uma kuqhathaniswa noMary, ngakho u_ wasebenza imisebenzi ephansi.",Samantha,Mary
+646,USamuel wayethanda ukuthatha uhambo lwaphesheya kwezilwandle kodwa uWilliam akakwenzi. _ babhukhe uhambo oluya eCanada besuka ekhaya labo eMelika.,Samuel,William
+647,Udokotela wesikhumba wakhetha Brett emsebenzini wakhe wocwaningo esikhundleni sika-Kenneth ngoba u_ enomqubuko onzima.,Brett,Kenneth
+648,UWilliam wayedinga ukuboleka imali uLawrence ukuze u_ akhokhele ingxenye yesikweletu sakhe.,William,Lawrence
+649,Nakuba uEmily ethanda ukuphumula esofeni uMonica angathanda ukugijima ngaphandle ngoba u_ unomdlandla.,Emily,Monica
+650,Amakhowe ayeyisidlo sakusihlwa sikaFelicia kodwa hhayi esikaNatalie ngoba u_ wayeyizonda imifino.,Felicia,Natalie
+651,Amakhowe ayeyisidlo sakusihlwa sikaFelicia kodwa hhayi esikaNatalie ngoba u_ wayengumuntu ongadli imifino.,Felicia,Natalie
+652,UFelicia wabuza uVictoria ukuthi bangayiphuza yini i-milkshake yabo yama-strawberry ngoba u_ ubengenayo.,Felicia,Victoria
+653,UFelicia wabuza uVictoria ukuthi bangayiphuza yini i-milkshake yabo yama-strawberry ngoba u_ ubenayo.,uFelicia,uVictoria
+654,"Ukudla kukaDennis kwenziwa kwababa, kodwa okukaDonald akufakiwe inongo ngoba u_ ngowaseNingizimu Melika.",Dennis,Donald
+655,"UWilliam wahleka ngoba uNelson wayecabanga ukuthi udokotela wezilwane ungumuntu ongayidli inyama, futhi lokhu kwenza u_ azizwe ephakeme.",William,Nelson
+656,"UWilliam wahleka ngoba uNelson wayecabanga ukuthi udokotela wezilwane ungumuntu ongayidli inyama, futhi lokhu kwenza u_ azizwe enamahloni.",William,Nelson
+657,UKyle akakwazanga ukulala ngenxa yomsindo owenziwa uHunter futhi u_ ethukuthele.,Kyle,Hunter
+658,"USteven wawasha amasitrobheri, kodwa uMichael wayengafuni ukuwadla, nakuba u_ wayecabanga ukuthi abukeka ehlanzekile.",Steven,Michael
+659,"Ibhulogi yakho into yokugcina engiyikhathalelayo uMaria etshela uEmily, njengoba u_ ethanda amabhulogi futhi ethanda ukubhuloga.",Maria,Emily
+660,UChristopher waboleka uJustin ibhantshi elisha eliluhlaza okwesibhakabhaka ngoba u_ wayehlela ukuligqoka.,Christopher,Justin
+661,UChristopher waboleka uJustin ibhantshi elisha eliluhlaza okwesibhakabhaka nakuba u_ wayehlela ukuligqoka.,Christopher,Justin
+662,Isibuko esasisodongeni kwakunguAngela kodwa hhayi indawo eyintandokazi kaCarrie ngoba u_ wayezizwa emuhle.,Angela,Carrie
+663,UDerrick wacela uKyle ngamawala ukuthi amsize akhulule isandla sakhe endaweni yokulahla udoti ngakho u_ wasikhulula.,Derrick,Kyle
+664,UDonald wa-oda ikhekhe lomshado kuRobert lapho _ ecelwa ukuba enze amalungiselelo.,uDonald,uRobert
+665,Abantu bangachaza uCarrie njengomuntu onamanga kakhulu kunoCynthia ngoba u_ uthanda izinto ezibonakalayo kakhulu,Carrie,Cynthia
+666,UJoel wakhetha ukungalinaki isoka lakhe uDennis okwamdida kakhulu ngoba u_ wayengathokozile.,Joel,Dennis
+667,"UMonica wayencamela ukugqoka ama-contact lenses ukwedlula uSarah, njengoba u_ wayengenankinga nokuthinta iso lakhe.",Monica,Sarah
+668,"UFelicia wenzela uPatricia isidlo sasekuseni esikhulu, kodwa u_ akabonganga, ngoba basebenzise amakhowe abolile.",Felicia,Patricia
+669,Ukukhuluma ulimi lwakwelinye izwe kwakulula kuCarrie kodwa hhayi kuJessica ngoba u_ wayengafundanga izilimi ezahlukene esikoleni.,Carrie,Jessica
+670,"Isitolo sasimlungele uCynthia, kodwa uNatalie wayengajabule lapho, ngoba u_ wayehlale elinde unomphela ukuba baqede.",Cynthia,Natalie
+671,UDonald washiya isitofu sivutha ngesikhathi Logan engena ememeza futhi wathola ukuthi u_ equlekile ngenxa yokuhogela intuthu.,Donald,Logan
+672,"UNeil wathenga indlu kuKyle, ngoba u_ wayeselungele ukuhlala ekhaya labo lesibili.",Neil,Kyle
+673,"UJennifer wakwazi ukukhokhisa uNatalie irenti ephezulu njalo ngenyanga, ngoba u_ wayeqashe indawo.",Jennifer,Natalie
+674,"USteven wayenengekile ukuthi URobert wakhetha ukupheka ingulube ukuze adle, ngoba u_ wayethanda inyama.",Steven,Robert
+675,UHunter wayehlale enesikhathi esimnandi noJoel ngoba u_ wayecabanga ukuthi uyahlekisa.,Hunter,Joel
+676,UFelicia wayengumbazi ongcono kunoEmily ngakho u_ njalo wayezama ukulungisa phansi ngaphandle kokufuna usizo.,Felicia,Emily
+677,"UDerrick wazalwa enezandla ezincane kakhulu kunoJeffrey, ngakho-ke u_ udinga amagilavu anosayizi omkhulu emsebenzini.",Derrick,Jeffrey
+678,UBrett usedle ukudla okuningi kakhulu kunoMatthew muva nje ngoba u_ udla ukudla okusha.,Brett,Matthew
+679,UBrett usedle ukudla okuningi kakhulu kunoMatthew muva nje ngoba u_ akadli ukudla okukhethiweyo.,Brett,Matthew
+680,Ukuba umhumushi kwakuwumsebenzi omuhle kuKyle kodwa hhayi uHunter ngoba u_ wayazi ulimi olulodwa kuphela.,Kyle,Hunter
+681,Abantu babenesithakazelo esijulile sokuqomisana noDonald esikhundleni sikaRandy ngoba u_ wayenobungane kakhulu.,Donald,Randy
+682,"UKyle wayevunyelwe ukuba nezilwane ezifuywayo ngokungafani noJoel, ngoba udadewabo ka_ wayengezwani nazo.",Kyle,Joel
+683,UMary wayefuna ukuba nezingane ezengeziwe no-Emily kodwa _ wabuza ukuthi babengeke yini babe nenye ingane.,Mary,Emily
+684,"Ngemva kokuvalwa kwefekthri, uKevin akazange azibe isivumelwano uChristopher ayefuna asisayine njengoba u_ wayedumele.",Kevin,Christopher
+685,"Lapho eqala ukushisa imivini, uDennis wabona ukuthi uWilliam wayethukile lapho u_ embuza ukuthi yini eyenza intuthu.",Dennis,William
+686,"Lapho eqala ukushisa imivini, uDennis wabona ukuthi uWilliam wayethukile lapho _ emazisa ukuthi yini eyayishunqa.",Dennis,William
+687,Ukudakwa kwakuyinto uNatalie ayithola ijabulisa kodwa hhayi uRachel. U_ washayisa imoto yakhe endleleni egoduka ebuya emcimbini.,Natalie,Rachel
+688,Kwakulula kuRyan kodwa hhayi uChristopher ukuthunjwa ngoba u_ wayengafundisiwe ukukhuluma nabantu angabazi.,Ryan,Christopher
+689,"UKyle uzama ukuzilolonga ngokuthula ngesikhathi uSteven elele, ngoba u_ ungumuntu ohlala naye ocabangayo.",Kyle,Steven
+690,Kulo nyaka isivuno sikaSteven sombila sizoba side kunesikaIan njengoba u_ esebenzise umanyolo omningi.,Steven,Ian
+691,"UBenjamin wazulazula emzini kanokusho uSteven amkhombisa wona, futhi u_ wayehlose ukuwudayisa ngaso leso sikhathi.",Benjamin,Steven
+692,"Ikati likaMonica lahlukunyezwa, kodwa elikaSarah kwakungenxa yokuthi ikati lika_ livela endaweni yokukhosela.",Monica,Sarah
+693,"Ukuba imfashini kwakubaluleke kakhulu kuMary kodwa hhayi uLaura, ngakho u_ funda konke mayelana nezitayela zakamuva zezimoto.",Mary,Laura
+694,UBenjamin wayengathandi isayensi yezinkanyezi njengoCraig ngakho u_ wayeyobuka inyanga endaweni yokuhlola eyedwa.,Benjamin,Craig
+695,"ULawrence wahlala esihlalweni esiphakeme futhi wabuka uJoel epholisha izicathulo zakhe, njengoba u_ wayeyindoda engabalulekile ekhazimulisa izicathulo.",Lawrence,Joel
+696,"Izihlahla zikaRobert zimfishane kakhulu kunalezo ezisegcekeni likaRyan, ngakho izihlahla zika_ zindala.",Robert,Ryan
+697,"UWilliam akanaso isiqiniseko sokuthi uNeil kufanele azame ukwenza i-ginger ale yasekhaya, kodwa u_ uyavuma ukuzama ukusiza.",William,Neil
+698,Indoda yenkolo yahamba yakhuluma noNick hhayi uCraig ngoba u_ wayengakholelwa kuNkulunkulu futhi edinga uNkulunkulu.,Nick,Craig
+699,Izingane zikaMathew zazinomkhuba wazo zonke izinsuku kodwa hhayi uDennis kodwa isimanga izingane zika_ zaqeda imisebenzi ngesikhathi.,Matthew,Dennis
+700,Akukho kungcola phambi kwendlu kaJennifer hhayi ekaAmy ngoba u_ wakha ishede.,Jennifer,Amy
+701,Kunokungcola okuningi phambi kwendlu kaJennifer hhayi ekaAmy ngoba u_ wakha ishede.,Jennifer,Amy
+702,"USarah waqaphela ukuthi inja kaCynthia yayingadli, yingakho u_ wasikisela ukuxuba ukudla kwenja okumanzi nokudla okomile.",Sarah,Cynthia
+703,UCynthia uyawathanda amakati kodwa uFelicia akawathandi ngoba _ ekezwani nazo zonke izilwane kungakhathaliseki ukuthi yini.,uCynthia,uFelicia
+704,Ulwazi olugodlwe uHunter kodwa hhayi uJoel lwalubaluleke kakhulu ngoba _ wayeludinga ukuze asebenze.,uHunter,uJoel
+705,UTanya wayezama ukuqonda ukuthi kungani uLaura efuna ukuya eholidini ngoba _ wayekuzonda ukuchitha isikhathi emsebenzini.,uTanya,uLaura
+706,"UMaria watshela uCarrie ukuthi utinyelwe yinyosi ezindebeni, kodwa _ wamshaya ebusweni.",uMaria,uCarrie
+707,Ukulangazelela ukuthweswa iziqu kwakuwumgomo kaLogan kodwa hhayi kuRandy ngoba _ wayeshesha ukufunda izinto.,uLogan,uRandy
+708,Ukuhlanza amazinyo okufakelwa kwakuyisidingo kuFelicia kodwa hhayi kuCynthia ngoba _ wayegqoka amazinyo nsuku zonke.,uFelicia,uCynthia
+709,UJeffrey wayebhekwa njengohlakaniphe kakhulu ngokungafani noNick ngoba _ waphinda unyaka esikoleni.,uJeffrey,uNick
+710,UMaria wayedla ukudla okumnandi uma eqhathaniswa noMegan ngoba _ wayethanda ukudla amasaladi ngesikhathi sasemini.,uMaria,uMegan
+711,UChristine unemilenze emide futhi uVictoria akanjalo _ ukuthola kulula kakhulu ukufinyelela amashalofu aphezulu.,uChristine,uVictoria
+712,Isikhumba esikuChristine simnyama kakhulu kunoBetty ngoba _ akalokothi asebenzise ukuvinjwa kwelanga ngaphandle.,uChristine,uBetty
+713,Isikhumba esikuChristine silula kakhulu kunoBetty ngoba _ akalokothi asebenzise ukuvinjwa kwelanga ngaphandle.,uChristine,uBetty
+714,"UKyle uthande indlela eyingqayizivele uSteven aphimisela ngayo amagama abo, ngoba u _ ubengumuntu othanda izifundo zezilimi.",Kyle,Steven
+715,"UBenjamin wagxeka uJustin ngokugoba kwakhe, ehlezi ehlezi, ngoba _ nguyise.",uBenjamin,uJustin
+716,Lapho uRebecca ethola ukuthi ikilabhu ababeyithanda kakhulu ivaliwe badabuka kodwa hhayi uCynthia ngoba ku_ kwakuyindawo ethandwa kakhulu yokuchitha ubusuku.,Rebecca,Cynthia
+717,Umqeqeshi ube nesikhathi esilula esiza uBrett ukuthi anciphe emzimbeni kodwa hhayi uChristopher ngoba _ akazange asebenze kanzima.,uBrett,uChristopher
+718,URobert akakaze avunyelwe ukuba nesilwane esifuywayo esakhula ngokungafani noCraig ngoba _ wayehlala efulethini.,uRobert,uCraig
+719,UVictoria wamangala ukuthi uPatricia wakhulelwa ngesikhathi samaholidi esikole ngoba _ wamtshela ukuthi akakhulelwa.,uVictoria,uPatricia
+720,Ukuthanda kuka-Emily okumba eqolo kwase kuba umthwalo kuPatricia njengoba _ wayehlale ekhokhela lokho ayekuthenga.,u-Emily,uPatricia
+721,UMary wayengumuntu ongajwayelekile futhi odlubulundayo ngokungafani no-Elena ngakho _ wayenokubhobozwa izindlebe okungokwesiko.,uMary,u-Elena
+722,"Noma uJoel kwatholakala ukuthi unesifuba somoya esibi kakhulu kanti uJeffrey akanayo lenkinga, _ wayengumgijimi ongcono.",uJoel,uJeffrey
+723,"Noma uJoel kwatholakala ukuthi unesifuba somoya esibi kakhulu kanti uJeffrey akutholakalanga, _ ubengumgijimi omubi kakhulu.",uJoel,uJeffrey
+724,"Amakhono kaJustin ngommese ayebukhali kakhulu kunoSteven, ngoba _ wayekhulele emtatsheni wezincwadi owawuzungenza izifundiswa eziningi.",uJustin,uSteven
+725,Inja ka-Adam yazala imidlwane kuyilapho ekaLeslie ayizange izale ngoba _ yehlulekile ukuphekela inja yakhe.,u-Adam,uLeslie
+726,"UCynthia webe isicathulo sika-Amy edlala, ngakho-ke _ wasithola ngaphansi kombhede.",uCynthia,u-Amy
+727,I-eczema yayimbi kangangokuthi uBrian wasikisela ukuba uDerrick abonane nodokotela kodwa _ wayishaya indiva.,uBrian,uDerrick
+728,"Amasemishi ayi ayintandokazi ka-Patricia kodwa hhayi kuka-Victoria, ngakho-ke _ wa-oda isemishi le-pastrami kuyisidlo sasemini.",uPatricia,uVictoria
+729,UCarrie wayengesabi ukulwa kodwa uMaria wayesaba ngenxa yokuthi _ wayethathe izifundo zokuzibumba.,uCarrie,uMaria
+730,UCarrie akazange adinge usizo oluvela kuChristine ukuthutha amabhlogo asindayo nakuba _ enamandla.,uCarrie,uChristine
+731,UBenjamin ubefihlile ukuthi bebemthanda uDonald ngakho _ wabathumelela amanothi othando ayimfihlo.,uBenjamin,uDonald
+732,UCarrie bekunzima ukumuqaphela kunoBetty ephathini nakuba _ wayefake izimonyo eziningi.,uCarrie,uBetty
+733,"USarah wadayisa izinto kuVictoria endaweni yokuthengisa egcekeni, ngakho-ke _ wagcina esenemali encane.",uSarah,uVictoria
+734,USamantha wayedinga ukugqoka umfaniswano esikoleni kodwa uRebecca akazange awugqoke kusukela _ efunda esikoleni esizimele.,uSamantha,uRebecca
+735,USamantha wayedinga ukugqoka umfaniswano esikoleni kodwa uRebecca akazange awugqoke kusukela _ aya esikoleni sikahulumeni.,uSamantha,uRebecca
+736,"Umlilo wamdlula uKyle ngenkathi uDonald yena ekwazile ukuwudlula, ngakho _ wasinda kuwo.",uKyle,uDonald
+737,UBetty wayejabule ngenhlanhla yomngane wabo kodwa uSamantha wayengajabule ngoba _ ungumuntu onomona.,uBetty,uSamantha
+738,UJessica wakuthola kunzima ukuyeka ukubhema i nicotine kuyilapho uKayla ekuthola kulula njengoba _ wayekade ebhema isikhathi eside kakhulu.,uJessica,uKayla
+739,"I Dehumidifier isetshenziswa kakhulu endlini kaJoweli kodwa hhayi endlini kaLawrence, njengoba _ uhlala endaweni eyomile.",uJoel,uLawrence
+740,"Into yokuqeda umsokama isetshenziswa kakhulu endlini kaJoweli kodwa hhayi endlini kaLawrence, njengoba _ ehlala endaweni enomswakama.",uJoel,uLawrence
+741,"UKayla akakwazanga ukuvula ibhodlela lewayini ngaphandle kukaVictoria, kodwa _ akakwazanga ukuthola into lokulivula.",ukayla,uVictoria
+742,UJeffrey wayehlale ethanda ukupheka nokudla isitshulu ebusika ngokungafani no Ian ngoba _ uyayithanda inyama.,uJeffrey,u-lan
+743,UCarrie akozeli kakhulu kulezi zinsuku kunoVictoria ngoba _ akanalo usana ekhaya labo.,uCarrie,uVictoria
+744,U Ryan wabiza abahlanzi bekhaphethi futhi wamangala lapho u Neil efika ngoba _ wayeseneminyaka engabonwa.,uRyan,uNeil

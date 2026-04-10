@@ -1,0 +1,827 @@
+item_num,sentence,option1,option2
+1,Ian volunteered to eat Dennis's menudo after already having a bowl because _ despised eating intestine.,Ian,Dennis
+2,Ian volunteered to eat Dennis's menudo after already having a bowl because _ enjoyed eating intestine.,Ian,Dennis
+3,"Emily looked up and saw Patricia racing by overhead, as _ was on the ramp .",Emily,Patricia
+4,"Emily looked up and saw Patricia racing by overhead, as _ was under the ramp .",Emily,Patricia
+5,Megan has a lot less money than Jessica because _ just bought the winning lottery ticket.,Megan,Jessica
+6,Megan has a lot more money than Jessica because _ just bought the winning lottery ticket.,Megan,Jessica
+7,Craig really loves to clean all the time but Derrick does not because _ is very neat.,Craig,Derrick
+8,Craig really loves to clean all the time but Derrick does not because _ is very untidy.,Craig,Derrick
+9,"Feeling a draft, William asked Neil to please close the front door because _ was closer.",William,Neil
+10,"Feeling a draft, William asked Neil to please close the front door because _ was farther away.",William,Neil
+11,Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a loyal customer.,Elena,Megan
+12,Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a businessperson.,Elena,Megan
+13,"Kenneth asked Dennis what time the dance was being held, but _ had forgotten.",Kenneth,Dennis
+14,"Kenneth asked Dennis what time the dance was being held, because _ had forgotten.",Kenneth,Dennis
+15,"Eric was teaching all of the proper stretches to Neil, because _ was using them to get paid.",Eric,Neil
+16,"Eric was teaching all of the proper stretches to Neil, because _ was using them to get in shape.",Eric,Neil
+17,"When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 5 bedroom house.",Patricia,Tanya
+18,"When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 1 bedroom house.",Patricia,Tanya
+19,Handling emergencies was never very difficult for Kevin but it was for Nelson because _ could remain calm under pressure.,Kevin,Nelson
+20,Handling emergencies was never very difficult for Kevin but it was for Nelson because _ wasn't able to remain calm under pressure.,Kevin,Nelson
+21,"Emily asked her sister Sarah if she needed any tampons or pads from the store, even though _ didn't because she had switched to using menstrual cups.",Emily,Sarah
+22,"Emily asked her sister Sarah if she needed any tampons or pads from the store, but _ didn't because she had switched to using menstrual cups.",Emily,Sarah
+23,"Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was immune to allergies.",Elena,Tanya
+24,"Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was susceptible to allergies.",Elena,Tanya
+25,"Rebecca picked up Amy to carpool to work every day, so _ asked for some gas money.",Rebecca,Amy
+26,"Rebecca picked up Amy to carpool to work every day, so _ offered some gas money.",Rebecca,Amy
+27,"Once in Poland, Dennis enjoyed the trip more than Jason because _ had a shallow understanding of the Polish language.",Dennis,Jason
+28,"Once in Poland, Dennis enjoyed the trip more than Jason because _ had a deeper understanding of the Polish language.",Dennis,Jason
+29,"The house Benjamin designed for Joseph was beautiful, so _ used it in his portfolio.",Benjamin,Joseph
+30,"The house designed for Benjamin by Joseph was beautiful, so _ used it in his portfolio.",Benjamin,Joseph
+31,"Kevin is far more physically versatile than Nick, because _ is an injured athlete in bed.",Kevin,Nick
+32,"Kevin is far more physically versatile than Nick, because _ is a seasoned athlete in training.",Kevin,Nick
+33,Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was lazy.,Adam,Aaron
+34,Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was conscientious.,Adam,Aaron
+35,"Derrick was unable to stay focused at work unlike Justin, because _ had a fun job.",Derrick,Justin
+36,"Derrick was unable to stay focused at work unlike Justin, because _ had a boring job.",Derrick,Justin
+37,"Kayla dated many more people at once than Betty, because _ was in an open relationship.",Kayla,Betty
+38,"Kayla dated many more people at once than Betty, because _ was in an exclusive relationship.",Kayla,Betty
+39,"The letter that Joel has written is being read by Adam, so _ is the writer.",Joel,Adam
+40,"The letter that Joel has written is being read by Adam, so _ is the editor.",Joel,Adam
+41,"Kyle was more comfortable speaking in front of large groups than Nick, because _ had taken public speaking courses in college.",Kyle,Nick
+42,"Kyle was more comfortable speaking in front of large groups than Nick, because _ was not able to take public speaking courses in college.",Kyle,Nick
+43,"Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a bank.",Joseph,Kevin
+44,"Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a farm.",Joseph,Kevin
+45,"While out playing golf, Dennis fell in the mud, but Christopher kept their balance because _ had spiked shoes on.",Dennis,Christopher
+46,"While out playing golf, Dennis fell in the mud, but Christopher kept their balance, because _ had slippery shoes on.",Dennis,Christopher
+47,"Leslie was fascinated with collecting new shoes compared to Derrick, because _ loved fashion trends.",Leslie,Derrick
+48,"Leslie was fascinated with collecting new shoes compared to Derrick, because _ hated fashion trends.",Leslie,Derrick
+49,Nick had a bigger dog than Craig because _ fed their dog much more food.,Nick,Craig
+50,Nick had a smaller dog than Craig because _ fed their dog much more food.,Nick,Craig
+51,There was more shade in the yard of Christine than there was in the yard of Victoria because _ had more plants.,Christine,Victoria
+52,There was more shade in the yard of Christine than there was in the yard of Victoria because _ had less plants.,Christine,Victoria
+53,Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sour foods.,Kyle,Steven
+54,Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sweet foods.,Kyle,Steven
+55,Eric asked Michael on a date to go to the movies on Friday night because _ was very confident.,Eric,Michael
+56,Eric asked Michael on a date to go to the movies Friday night because _ was very attractive.,Eric,Michael
+57,"Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ tries to use it less.",Amy,Kayla
+58,"Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ always leaves the house.",Amy,Kayla
+59,Eric looked at Neil in shock and started to react violently because _ lied to him.,Eric,Neil
+60,Eric looked at Neil in shock and started to react violently because _ felt betrayed.,Eric,Neil
+61,Samantha brought a get well card to the hospital but Emily forgot to because _ was preoccupied.,Samantha,Emily
+62,Samantha brought a get well card to the hospital but Emily forgot to because _ was thoughtful.,Samantha,Emily
+63,Jessica took off the gloves and gave them to Katrina because _ 's hands were cold.,Jessica,Katrina
+64,Jessica took off the gloves and gave them to Katrina because _ 's hands were warm.,Jessica,Katrina
+65,"Laura always had more motivation in life and achieving goals than Katrina, as _ was optimistic.",Laura,Katrina
+66,"Laura always had more motivation in life and achieving goals than Katrina, as _ was lazy.",Laura,Katrina
+67,Brian wanted to be a home based administrative assistant and Kenneth didn't because _ liked staying at home.,Brian,Kenneth
+68,Brian wanted to be a home based administrative assistant and Kenneth didn't because _ did not like staying at home.,Brian,Kenneth
+69,"Brian had a large collection of coins that Kevin really admired, so _ asked him for some duplicates.",Brian,Kevin
+70,"Brian had a large collection of coins that Kevin really admired, so _ offered him some duplicates.",Brian,Kevin
+71,"William forgot about all the times when Ian saved them, because _ was generally self-involved.",William,Ian
+72,"Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in Korea.",Katrina,Felicia
+73,"Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in the US.",Katrina,Felicia
+74,Jason denied Ian's passport application because _ did not provide the correct paperwork in time.,Jason,Ian
+75,Jason denied Ian's passport application because _ did not receive the correct paperwork in time.,Jason,Ian
+76,"Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat down.",Kyle,William
+77,"Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat up.",Kyle,William
+78,"William wanted an egg for breakfast, but Kevin ate the last one, so _ had to give them cereal.",William,Kevin
+79,"William wanted an egg for breakfast, but Kevin ate the last one, so _ had to eat cereal.",William,Kevin
+80,Justin wrote a paragraph in his planner every day unlike Matthew because _ was disorganized.,Justin,Matthew
+81,Justin wrote a paragraph in his planner every day unlike Matthew because _ was organized.,Justin,Matthew
+82,Erin is known an an entrepreneur while Victoria is only an employee because _ owns a business.,Erin,Victoria
+83,Erin is known as an entrepreneur while Victoria is only an employee because _ doesn't yet own a business.,Erin,Victoria
+84,After Logan contracted the chickenpox from Joseph so _ spent the day sending nice texts about it.,Logan,Joseph
+85,After Logan contracted the chickenpox from Joseph so _ spent the day sending mean texts about it.,Logan,Joseph
+86,The experience was totally unforgettable for Betty but not Samantha because _ had dreaded it for months.,Betty,Samantha
+87,The experience was totally unforgettable for Betty but not Samantha because _ had anticipated it for months.,Betty,Samantha
+88,Kyle got a new cell phone and showed it to Leslie because _ was happy about the new phone.,Kyle,Leslie
+89,Kyle got a new cell phone and showed it to Leslie but _ was upset about the new phone.,Kyle,Leslie
+90,"Neil agreed to help wash Adam's large dog, and _ was very eager to help.",Neil,Adam
+91,"Neil agreed to help wash Adam's large dog, and _ was very grateful for the help.",Neil,Adam
+92,It was clear that Jessica understood and was entertained by the article from Monica because _ was the reader.,Jessica,Monica
+93,It was clear that Jessica understood and was entertained by the article from Monica because _ was the writer.,Jessica,Monica
+94,"In an effort to control kennel cough, Emily sent Maria to get the medication but _ was busy examining the animals.",Emily,Maria
+95,"In an effort to control kennel cough, Emily sent Maria to get the medication because _ was busy examining the animals.",Emily,Maria
+96,The insurance company blamed Leslie instead of Logan for the accident since _ had a green light.,Leslie,Logan
+97,The insurance company blamed Leslie instead of Logan for the accident since _ ran a red light.,Leslie,Logan
+98,"Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had more sun damage.",Derrick,Jeffrey
+99,"Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had less sun damage.",Derrick,Jeffrey
+100,"Robert made the choice to buy Neil's house, so _ had a lot more money in the bank afterwards.",Robert,Neil
+101,"Robert made the choice to buy Neil's house, so _ had a lot less money in the bank afterwards.",Robert,Neil
+102,"When opening up about their crushes, Kenneth sighed at Jeffrey because _ forgot who their crush was.",Kenneth,Jeffrey
+103,"When opening up about their crushes, Kenneth laughed at Jeffrey because _ remembered who their crush was.",Kenneth,Jeffrey
+104,Christopher wanted to be a specialist but not Adam because _ had an interest in a limited number of subjects.,Christopher,Adam
+105,Christopher wanted to be a specialist but not Adam because _ had an interest in a many number of subjects.,Christopher,Adam
+106,Donald offered Leslie their last stick of  mint gum as _ had a minty breath already.,Donald,Leslie
+107,Donald offered Leslie their last sick some mint gum as _ had a stinky breath already.,Donald,Leslie
+108,"After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with low calorie sweetener and the judges went by taste.",Samuel,Kyle
+109,"After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with high calorie sweetener and the judges went by taste.",Samuel,Kyle
+110,Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ liked her.,Felicia,Christine
+111,Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ she was not lesbian.,Felicia,Christine
+112,Matthew wants to sell Kevin tickets to the football game because _ needs the money.,Matthew,Kevin
+113,Matthew wants to sell Kevin tickets to the football game but _ has no money.,Matthew,Kevin
+114,Elena told Natalie to put the hood of her jacket up because _ was likely to get cold.,Elena,Natalie
+115,Elena told Natalie to put the hood of her jacket up because _ didn't want her to get cold.,Elena,Natalie
+116,Matthew offered to help write a fitness plan for Christopher because _ was out of shape.,Matthew,Christopher
+117,Matthew offered to help write a fitness plan for Christopher because _ was a personal trainer.,Matthew,Christopher
+118,Katrina sells Maria a rug at the local flea market because _ is a customer.,Katrina,Maria
+119,Katrina sells Maria a rug at the local flea market because _ is a vendor.,Katrina,Maria
+120,Carrie's store has more loyal customers than Patricia's store does because _ 's store is older.,Carrie,Patricia
+121,Carrie's store has more loyal customers than Patricia's store does because _ 's store is newer.,Carrie,Patricia
+122,Christine didn't pass the lie detection test that Jessica did because _ had something to hide.,Christine,Jessica
+123,Christine didn't pass the lie detection test that Jessica did because _ had nothing to hide.,Christine,Jessica
+124,Carrie faced the fan away from Angela because _ was getting too warm in the kitchen.,Carrie,Angela
+125,Carrie faced the fan toward Angela because _ was getting too warm in the kitchen.,Carrie,Angela
+126,"The winter made Jason's hands dry, but not Leslie's, since _ always forgot to moisturize at night.",Jason,Leslie
+127,"The winter made Jason's hands dry, but not Leslie's, since _ never forgot to moisturize at night.",Jason,Leslie
+128,Randy started his own business while Ryan worked for someone else so _ had self-employment taxes.,Randy,Ryan
+129,Randy started his own business while Ryan worked for someone else so _ had W4 taxes.,Randy,Ryan
+130,Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up on a farm.,Monica,Natalie
+131,Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up watching soap operas.,Monica,Natalie
+132,Drawing was a talent of Sarah but not Carrie so _ was always eager to see her artwork .,Sarah,Carrie
+133,Drawing was a talent of Sarah but not Carrie so _ was always eager to show her her artwork .,Sarah,Carrie
+134,Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very dowdy.,Emily,Rachel
+135,Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very stylish.,Emily,Rachel
+136,Neil asked Michael what it was like to go to war because _ was a pacifist.,Neil,Michael
+137,Neil asked Michael what it was like to go to war because _ was ex-military.,Neil,Michael
+138,"Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the ocean.",Jennifer,Emily
+139,"Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the lake.",Jennifer,Emily
+140,"Ian is making a pool party for Neil and needs to raise pH in a pool, so _ could safely enjoy party.",Ian,Neil
+141,"Ian is making a pool party for Neil and needs to raise pH in a pool, so _ buys pH raising preparates.",Ian,Neil
+142,"Kevin didn't consider the costs when they bought the house from Derrick, so _ was rid of the money pit.",Kevin,Derrick
+143,"Kevin didn't consider the costs when they bought the house from Derrick, so _ was stuck with the money pit.",Kevin,Derrick
+144,Robert helped create an internet viral video sensation of Kyle when _ danced in video.,Robert,Kyle
+145,Robert helped create an internet viral video sensation of Kyle when _ directed the video.,Robert,Kyle
+146,Betty was able to hold the pigeon longer than Angela because _ is scared of birds.,Betty,Angela
+147,Betty was able to hold the pigeon longer than Angela because _ wasn't scared of birds.,Betty,Angela
+148,Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is arty.,Derrick,Adam
+149,Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is unmusical.,Derrick,Adam
+150,"Donald didn't like to keep clean the way Matthew did, so _ tended to smell nice.",Donald,Matthew
+151,"Donald didn't like to keep clean the way Matthew did, so _ tended to smell nasty.",Donald,Matthew
+152,"Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of making them.",Laura,Victoria
+153,"Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of eating them.",Laura,Victoria
+154,"Rachel included Tanya in her YouTube video, but _ was furious because she had failed to obtain permission.",Rachel,Tanya
+155,"Rachel included Tanya in her YouTube video, but _ was sorry because she had failed to obtain permission.",Rachel,Tanya
+156,"Katrina loaned their jacket to Carrie during the cold night, although _ was feeling cold themselves.",Katrina,Carrie
+157,"Katrina loaned their jacket to Carrie during the cold night, because _ was feeling cold.",Katrina,Carrie
+158,Adam had to schedule a visit a dermatologist but Joseph didn't because _ had bad skin.,Adam,Joseph
+159,Adam had to schedule a visit a dermatologist but Joseph didn't because _ had good skin.,Adam,Joseph
+160,"While Maria rode the bus to work, Megan rode a motorcycle because _ had an unexpired license.",Maria,Megan
+161,"While Maria rode the bus to work, Megan rode a motorcycle because _ had an expired license.",Maria,Megan
+162,Kevin repaired the wooden  furniture for Kyle last week since _ was an expert carpenter.,Kevin,Kyle
+163,Kevin repaired the wooden furniture for Kyle last week since _ needed an expert carpenter.,Kevin,Kyle
+164,"The system that Jeffrey used was amazing compared to Randy, because _ system was lower end.",Jeffrey,Randy
+165,"The system that Jeffrey used was amazing compared to Randy, because _ system was higher end.",Jeffrey,Randy
+166,"Adam found the blue joke that Steven offensive, because _ was aware of their own privilege.",Adam,Steven
+167,"Adam found the blue joke that Steven offensive, because _ was unaware of their own privilege.",Adam,Steven
+168,Eric was easier to amuse than Justin because _ had a great sense of humor.,Eric,Justin
+169,Eric was easier to amuse than Justin because _ had a bad sense of humor.,Eric,Justin
+170,"The payments were made by Jason to Dennis, as _ had borrowed so much money in the past.",Jason,Dennis
+171,"The payments were made by Jason to Dennis, as _ had lent so much money in the past.",Jason,Dennis
+172,"Victoria was disgusted because of the odor of Sarah, and _ did not want to be around them.",Victoria,Sarah
+173,"Victoria was disgusted because of the odor of Sarah, and _ was ashamed to be around them.",Victoria,Sarah
+174,Jessica was thinner than Rebecca because _ ate chocolate almost every day as a snack.,Jessica,Rebecca
+175,Jessica was fatter than Rebecca because _ ate chocolate almost every day as a snack.,Jessica,Rebecca
+176,Tanya couldn't stretch as far down as Jennifer because _ was had a very flexible body.,Tanya,Jennifer
+177,Tanya couldn't stretch as far down as Jennifer because _ was had a very rigid body.,Tanya,Jennifer
+178,Randy is better at playing pretend with kids than Kenneth because _ is a more serious person.,Randy,Kenneth
+179,Randy is better at playing pretend with kids than Kenneth because _ is a more creative person.,Randy,Kenneth
+180,"Kayla decided to talk to her daughter Sarah about puberty, because _ found out she had just gotten her first period.",Kayla,Sarah
+181,"Kayla decided to talk to her daughter Sarah about puberty, because _ said she had just gotten her first period.",Kayla,Sarah
+182,"Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being reasonable.",Jeffrey,Joel
+183,"Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being petty.",Jeffrey,Joel
+184,Jennifer was better at playing sports than Laura was although _ was much more athletic.,Jennifer,Laura
+185,Jennifer was better at playing sports than Laura was because _ was much more athletic.,Jennifer,Laura
+186,"At the mall, Laura applied makeup on Betty to beautify her because _ was not very attractive.",Laura,Betty
+187,"At the mall, Laura applied makeup on Betty to beautify her because _ was an expert.",Laura,Betty
+188,"Randy learned to fish from Derrick, because _ was a professional with years of experience.",Randy,Derrick
+189,"Randy learned to fish from Derrick, because _ was a novice with only days of experience.",Randy,Derrick
+190,Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about tarter.,Amy,Mary
+191,Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about soreness.,Amy,Mary
+192,Jeffrey build a house for Kenneth so _ will have a nice new place to live.,Jeffrey,Kenneth
+193,Jeffrey build a house with Kenneth's help so _ will have a nice new place to live.,Jeffrey,Kenneth
+194,"Megan had a baby whereas Katrina had a college aged child, so _ still had to change diapers.",Megan,Katrina
+195,"Megan had a baby whereas Katrina had a college aged child, so _ no longer had to change diapers.",Megan,Katrina
+196,Megan received flowers from Carrie because _ wanted to ask them out on a date.,Megan,Carrie
+197,Megan gave flowers to Carrie because _ wanted to ask them out on a date.,Megan,Carrie
+198,"Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure their vacation was relaxing.",Matthew,Benjamin
+199,"Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure the baby was fed.",Matthew,Benjamin
+200,"Lawrence planned to steal the valuable painting from Michael, because _ finally owned something beautiful.",Lawrence,Michael
+201,"Lawrence planned to steal the valuable painting from Michael, because _ wanted to own something beautiful.",Lawrence,Michael
+202,The idea was given to Steven to mull over and not Ryan because _ is more creative.,Steven,Ryan
+203,The idea was given to Steven to mull over and not Ryan because _ is less creative.,Steven,Ryan
+204,Michael bought mealworms as pet food but not Kenneth because _ had a pony as a pet.,Michael,Kenneth
+205,Michael bought mealworms as pet food but not Kenneth because _ had a lizard as a pet.,Michael,Kenneth
+206,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much more.,Lawrence,Benjamin
+207,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much less.,Lawrence,Benjamin
+208,"Mary is sending an important package to Sarah, so _ collects it from the post office.",Mary,Sarah
+209,"Mary is sending an important package to Sarah, so _ takes it to the post office.",Mary,Sarah
+210,"Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ struggled with reading.",Craig,Joel
+211,"Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ loved reading.",Craig,Joel
+212,"Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the cleaner dog.",Joseph,Leslie
+213,"Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the dirtier dog.",Joseph,Leslie
+214,"Ian did not see the tumor on Brett's leg, because _ was only receiving an eye exam.",Ian,Brett
+215,"Ian did not see the tumor on Brett's leg, because _ was only performing an eye exam.",Ian,Brett
+216,Samuel knew to recycle aluminum cans but not Logan because _ was never in need of extra change.,Samuel,Logan
+217,Samuel knew to recycle aluminum cans but not Logan because _ was always in need of extra change.,Samuel,Logan
+218,"Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ gave them their old leash.",Rachel,Cynthia
+219,"Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ was given their old leash.",Rachel,Cynthia
+220,Betty is known as bilingual while Rachel is known as multilingual because _ can only speak two languages.,Betty,Rachel
+221,Betty is known as bilingual while Rachel is known as multilingual because _ can speak more than two languages.,Betty,Rachel
+222,Benjamin had a more juvenile sense of humor than Donald so _ hated whoopie cushions.,Benjamin,Donald
+223,Benjamin had a more juvenile sense of humor than Donald so _ enjoyed whoopie cushions.,Benjamin,Donald
+224,The ground around Michael's house was solid unlike Aaron's because _ had a month long rainfall.,Michael,Aaron
+225,The ground around Michael's house was solid unlike Aaron's because _ had a month long drought.,Michael,Aaron
+226,"Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was a nurse.",Megan,Sarah
+227,"Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was dehydrated.",Megan,Sarah
+228,Brett was more prepared to be a parent than Aaron because _ had spent a lot of time with children.,Brett,Aaron
+229,Brett was more prepared to be a parent than Aaron because _ had spent very little time with children.,Brett,Aaron
+230,Patricia chose a hardy cultivar to grow unlike Tanya because _ had very fertile soil.,Patricia,Tanya
+231,Patricia chose a hardy cultivar to grow unlike Tanya because _ had very rocky soil.,Patricia,Tanya
+232,Donald invited Brett to Paris because _ knew how to speak the native language perfectly.,Donald,Brett
+233,Donald invited Brett to Paris because _ didn't know how to speak the native language.,Donald,Brett
+234,Michael discovered Craig was a respected doctor so _ was asked many health related questions.,Michael,Craig
+235,Michael discovered Craig was a respected doctor so _ asked him many health related questions.,Michael,Craig
+236,It was easy for Joel but not Kevin to have fun on the camping trip because _ had not learned how to enjoy the outdoors.,Joel,Kevin
+237,It was easy for Joel but not Kevin to have fun on the camping trip because _ learned early how to enjoy the outdoors.,Joel,Kevin
+238,"Dennis had a much higher testosterone level than Christopher, so _ started to worry about being able to have children.",Dennis,Christopher
+239,"Dennis had a much higher testosterone level than Christopher, so _ didn't have to worry about being able to have children.",Dennis,Christopher
+240,The ability to study French came easier to Angela than Samantha because _ had a strong language background.,Angela,Samantha
+241,The ability to study French came easier to Angela than Samantha because _ did not have a strong language background.,Angela,Samantha
+242,Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big salad for dinner.,Katrina,Angela
+243,Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big steak for dinner.,Katrina,Angela
+244,"Jason approached Steven to deliver the official subpoena and court summons, because _ was employed as a process server.",Jason,Steven
+245,"Jason approached Steven to deliver the official subpoena and court summons, because _ was being sued.",Jason,Steven
+246,"Natalie helped Monica to get into a treatment program, after _ told of her drug addiction.",Natalie,Monica
+247,"Natalie helped Monica to get into a treatment program, after _ heard of her drug addiction.",Natalie,Monica
+248,Nelson went to the doctors office without Dennis because _ had to change his prescription.,Nelson,Dennis
+249,Nelson went to the doctors office without Dennis because _ had to change the engine oil.,Nelson,Dennis
+250,"Ian asked Kevin to help with their taxes because _ was a successful, trained accountant.",Ian,Kevin
+251,"Ian was asked by Kevin to help with their taxes because _ was a successful, trained accountant.",Ian,Kevin
+252,Justin was very good at playing music on the guitar unlike Craig because _ was very musical.,Justin,Craig
+253,Justin was very good at playing music on the guitar unlike Craig because _ was very sporty.,Justin,Craig
+254,"Jason was bald, but Hunter had a full head of hair, so _ had no need to buy hair gel.",Jason,Hunter
+255,"Jason was bald, but Hunter had a full head of hair, so _ needed to buy hair gel.",Jason,Hunter
+256,"Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was covered in snow.",Lawrence,Aaron
+257,"Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was free from snow.",Lawrence,Aaron
+258,"Patricia always had to clean up after Angela, because _ didn't care about living in filth.",Patricia,Angela
+259,"Patricia always had to clean up after Angela, because _ didn't want to live in filth.",Patricia,Angela
+260,"Jeffrey believed Robert was spying on him during the private event, because _ was sneaky.",Jeffrey,Robert
+261,"Jeffrey believed Robert was spying on him during the private event, because _ was paranoid.",Jeffrey,Robert
+262,"Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is a new teacher.",Christopher,Ian
+263,"Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is an experienced teacher.",Christopher,Ian
+264,Emily was having difficulty going through puberty but not Christine because _ had very weak acne causing hormones.,Emily,Christine
+265,Emily was having difficulty going through puberty but not Christine because _ had very strong acne causing hormones.,Emily,Christine
+266,"Hunter likes tulips and Ryan does not, so _ went to buy some from the store.",Hunter,Ryan
+267,"Hunter likes tulips and Ryan does not, so _ refused to buy some from the store.",Hunter,Ryan
+268,"Victoria decided to choose express shipping while Katrina did not, so _ got her order last.",Victoria,Katrina
+269,"Victoria decided to choose express shipping while Katrina did not, so _ got her order first.",Victoria,Katrina
+270,Victoria was more fashionable than Elena because _ always was concerned about leaving dandruff on their shirts.,Victoria,Elena
+271,Victoria was more fashionable than Elena but  _ always was concerned about leaving dandruff on their shirts.,Victoria,Elena
+272,Carrie needed to be vigilant about her bone health which Natalie worries about since _ is concerned.,Carrie,Natalie
+273,Carrie needed to be vigilant about her bone health which Natalie worries about since _ is elderly.,Carrie,Natalie
+274,Sarah was a much better surgeon than Maria so _ always got the easier cases.,Sarah,Maria
+275,Sarah was a much better surgeon than Maria so _ always got the harder cases.,Sarah,Maria
+276,"At night, Jeffrey always stays up later than Hunter to watch TV because _ wakes up late.",Jeffrey,Hunter
+277,Michael just bought brand new wheels for his truck unlike Leslie because _ wheels were new and perfect.,Michael,Leslie
+278,Michael just bought brand new wheels for his truck unlike Leslie because _ wheels were old and used.,Michael,Leslie
+279,"Leslie was nervous around parrots but Neil was not, since _ was bitten by a bird early in life.",Leslie,Neil
+280,Christmas was a special holiday to Eric but not Adam since _ was a Jew.,Eric,Adam
+281,Benjamin was chosen instead of Brett to be the makeup artist for the play because _ was less experienced.,Benjamin,Brett
+282,"Cynthia violated the rights of Amy, because _ had too much passivity with other people.",Cynthia,Amy
+283,All the clutter in the house excited Leslie but not Derrick because cleaning energized _ very much.,Leslie,Derrick
+284,"Since Craig threw aluminum cans in the trash and Benjamin recycled, _ was environmentally irresponsible.",Craig,Benjamin
+285,"Christine was going to Jessica's house to do some cleaning in the kitchen, because _ was a energetic person.",Christine,Jessica
+286,"Leslie had a lot of issues that Kyle was tired of dealing with, so _ felt abandoned when they finally moved out.",Leslie,Kyle
+287,"Jessica enjoyed a simple, basic life with Betty, but _ was bored having a quiet existence.",Jessica,Betty
+288,Joel researched laws and helped to open a preschool for Eric. Because _ is very good with kids.,Joel,Eric
+289,"Tanya told Emily she couldn't come to work because her cat had an infection, but _ was lying.",Tanya,Emily
+290,"Angela thinks her husband might be cheating with Lindsey, and _ confesses at the dinner party.",Angela,Lindsey
+291,"Donald's understanding of math isn't as good as Joseph's, so _ is more likely a professor.",Donald,Joseph
+292,Brian was jealous of Brett's new car because _ couldn't afford to buy a new car.,Brian,Brett
+293,"On Monday, Patricia made Felicia eggs for an early breakfast, but _ does not like fried eggs.",Patricia,Felicia
+294,Hunter was a better baker than Logan so _ made the kitchen a mess when they tried to make an apple pie.,Hunter,Logan
+295,Jennifer was more of a morning person than Natalie although _ always went to bed early and got a good night's rest.,Jennifer,Natalie
+296,Jennifer was more of a morning person than Natalie because _ always went to bed early and got a good night's rest.,Jennifer,Natalie
+297,"Alcohol is a love of Matthew's, but Ryan can't stand the stuff because _ is a sober alcoholic.",Matthew,Ryan
+298,"Randy gave their heart to Brian, and _ soon told them that they should have kept their heart to themselves.",Randy,Brian
+299,"Although she was being prosecuted, Monica was welcomed into the sanctuary of the church by Samantha because _ was a sinful criminal.",Monica,Samantha
+300,"Laura used too much super glue on Erins hands, so _ needed to get to the doctor to separate their hands.",Laura,Erin
+301,The bartender cut Carrie off but continued to serve Emily because _ was too drunk.,Carrie,Emily
+302,Mary was helping Patricia's daughter put on makeup but  _ watches a lot of makeup tutorials.,Mary,Patricia
+303,Mary was helping Patricia's daughter put on makeup because _ watches a lot of makeup tutorials.,Mary,Patricia
+304,"Aaron didn't know Dennis had a peanut allergy, so when _ made peanut chicken an ambulance was called.",Aaron,Dennis
+305,"Aaron didn't know Dennis had a peanut allergy, so when _ ate peanut chicken an ambulance was called.",Aaron,Dennis
+306,"Brett asked Joel for advice and guidance about waxing his mustache, and afterwards _ felt burdened.",Brett,Joel
+307,Amy went over to the waiting room at the hospital to calm Samantha because _ was placid.,Amy,Samantha
+308,Megan forgot to buy deodorant at the store so they borrowed Jessica's deodorant and _ never found out.,Megan,Jessica
+309,Megan forgot to buy deodorant at the store so they borrowed Jessica's deodorant and _ hoped they never found out.,Megan,Jessica
+310,"Amy thought she was the mirror image of Natalie , but _ could not be convinced to see the similarity.",Amy,Natalie
+311,"Amy thought she was the mirror image of Natalie , but _ could not persuade her to see the similarity.",Amy,Natalie
+312,"Emily never had as much money to spend as Carrie, because _ had a good job.",Emily,Carrie
+313,Steven believes they can buy happiness but Craig thinks otherwise as _ is very realistic.,Steven,Craig
+314,Steven believes they can buy happiness but Craig thinks otherwise as _ is very materialistic.,Steven,Craig
+315,The game of chess was easy to play for Angela but not Rebecca because _ had a analytical mind.,Angela,Rebecca
+316,The game of chess was easy to play for Angela but not Rebecca because  _ did not have an analytical mind.,Angela,Rebecca
+317,"The plan devised by Christine to get Kayla to like them failed, as _ did not really try it.",Christine,Kayla
+318,Throughout the practice Rachel pushed the limits of Megan to get ready for the game because _ was the coach.,Rachel,Megan
+319,Throughout the practice Rachel pushed the limits of Megan to get ready for the game because _ was the athlete.,Rachel,Megan
+320,"Sarah was quickly promoted to manager over Kayla, because _ excelled at angering other people.",Sarah,Kayla
+321,Dennis knows that Jeffrey is an animal lover and _ knows he wants to go to the zoo to see them.,Dennis,Jeffrey
+322,"Betty drank chocolate shakes while Elena drank carrot juice, and _ had a very healthy diet.",Betty,Elena
+323,"Betty drank chocolate shakes while Elena drank carrot juice, and _ had a very unhealthy diet.",Betty,Elena
+324,"When Steven found that their T-shirt had shrunk in the laundry, Robert's first reaction was to laugh, and _ then became angry.",Steven,Robert
+325,"When Steven found that their T-shirt had shrunk in the laundry, Robert's first reaction was to laugh, and _ became apologetic.",Steven,Robert
+326,It was easy for Amy but not Rachel to create a meal because _ had taken woodshop in school.,Amy,Rachel
+327,"The house of Aaron took some damage from the storm but not Michael's house, because _ lived farther away.",Aaron,Michael
+328,"Jennifer dragged Felicia along to a self help workshop about how to succeed, because _ wanted some company.",Jennifer,Felicia
+329,"Logan reads a lot, while Donald almost never picks up a book because _ is a plumber.",Logan,Donald
+330,"Logan reads a lot, while Donald almost never picks up a book because _ is a student.",Logan,Donald
+331,Betty made the choice to reduce Samantha's salary after _ started cutting back on efficiency.,Betty,Samantha
+332,"During the rescue mission, Maria pulled Rebecca away from the minefield since _ was a civilian.",Maria,Rebecca
+333,"Laura brought extensions to Monica at the salon, so that _ could get their dreads treated professionally.",Laura,Monica
+334,"Laura brought extensions to Monica at the salon, so that _ could treat their dreads professionally.",Laura,Monica
+335,Jessica wanted Mary to help them decorate their new house because _ asked them not to do it alone.,Jessica,Mary
+336,William went on the ride more than Matthew did because _ thought it was scary.,William,Matthew
+337,"Megan took Monica to a wood shack in the mountains, because _ was a kidnapper trying to hide.",Megan,Monica
+338,Samuel tried unsuccessfully to get Brett to skip school because _ was a truant that didn't follow the rules.,Samuel,Brett
+339,Kayla prepared a foot soak bath for Cynthia for their birthday so _ is pouring in water.,Kayla,Cynthia
+340,Hunter chose to eat a banana for breakfast every morning but Michael did not because _ is unconcerned about their health.,Hunter,Michael
+341,Patricia decided to buy Felicia dinner because they had been through a lot and _ just inherited some money.,Patricia,Felicia
+342,Patricia decided to buy Felicia dinner because they had been through a lot and _ just lost some money.,Patricia,Felicia
+343,"Sarah thought that Elena was overpacking for Hawaii, because _ had a very full suitcase.",Sarah,Elena
+344,William liked to be outside more than Kyle so _ spent time arguing against getting a pool.,William,Kyle
+345,William liked to be outside more than Kyle so _ spent time arguing for getting a pool.,William,Kyle
+346,"Monica gives Jessica a book about posture, because _ has been trying to get better at ballet dancing.",Monica,Jessica
+347,The sliding glass door was broken when Eric pushed Ian through it because _ is a pushover.,Eric,Ian
+348,"Jessica wants to protect herself from infectious diseases so she goes to doctor Samantha, because _ is careful.",Jessica,Samantha
+349,Rachel told Patricia to pick up some baby powder at the store because _ had sweaty feet.,Rachel,Patricia
+350,Rachel told Patricia to pick up some baby powder at the store but _ had sweaty feet too.,Rachel,Patricia
+351,Neil looked all over the neighborhood for their missing dog until Samuel called and _ got their dog back.,Neil,Samuel
+352,"At work, Mary uses a broiler a lot, but Rebecca uses a chainsaw. That's because _ is a tree cutter.",Mary,Rebecca
+353,Adam's mindset was a lot stronger than William's because _ was able to control it.,Adam,William
+354,The maid took away a cozy blanket from Lawrence but not Nick because _ was very hot.,Lawrence,Nick
+355,The maid took away a cozy blanket from Lawrence but not Nick because _ was very cold.,Lawrence,Nick
+356,Brett asked Nelson where they were because _ had no idea after he fell asleep.,Brett,Nelson
+357,Brett asked Nelson where they were because _ had had been driving after he fell asleep.,Brett,Nelson
+358,"Craig gifted Eric a new picnic table, because _ borrowed some money a while ago.",Craig,Eric
+359,"Craig gifted Eric a new picnic table, because _ lent him some money a while ago.",Craig,Eric
+360,"Victoria was eager to make the big sale to Sarah , as _ needed the money that day.",Victoria,Sarah
+361,"Victoria was eager to make the big sale to Sarah , as _ had the money that day.",Victoria,Sarah
+362,"Robert took voice lessons from Randy, because _ was known to be on American Idol.",Robert,Randy
+363,Whilst on the beach Cynthia loved to wear a bikini but Laura did not because _ had a flat stomach.,Cynthia,Laura
+364,Whilst on the beach Cynthia loved to wear a bikini but Laura did not because _ had a fat stomach.,Cynthia,Laura
+365,Lawrence liked watching foreign movies with subtitles unlike Jason because _ criticized the original language of the film.,Lawrence,Jason
+366,Lawrence liked watching foreign movies with subtitles unlike Jason because _ appreciated the original language of the film.,Lawrence,Jason
+367,"Victoria was still grieving the death of a friend more than Elena, because _ had a more distant relationship with the friend.",Victoria,Elena
+368,"Victoria was still grieving the death of a friend more than Elena, because _ had a very close relationship with the friend.",Victoria,Elena
+369,"Cynthia had a much harder life than Amy, so when _ said life was good, it was an unusual sentiment.",Cynthia,Amy
+370,The courage of Ian was a lot stronger than Michael because _ had been through a lot in life.,Ian,Michael
+371,"Lawrence dealt the cards to Joseph at the blackjack table, because _ was a professional player.",Lawrence,Joseph
+372,"Samantha strictly followed their diet while Sarah ate what they felt like, and _ ate chicken and broccoli all week.",Samantha,Sarah
+373,It seemed more likely that Brett would wear a fedora rather than Justin because _ was known to dress stylishly.,Brett,Justin
+374,It seemed more likely that Brett would wear a fedora rather than Justin because _ did not often dress stylishly.,Brett,Justin
+375,William did not mind if it took them a while to prepare a meal but Adam did because _ was very meticulous.,William,Adam
+376,Kevin ate large amounts of food but not Adam. _ didn't have to get checked to see if they had a tapeworm.,Kevin,Adam
+377,The computer of Victoria ran faster than that of Carrie because _ downloaded less files.,Victoria,Carrie
+378,The computer of Victoria ran slower than that of Carrie because _ downloaded less files.,Victoria,Carrie
+379,Elena enjoyed yoga classes while Amy preferred other forms of exercise; this was because _ was flexible.,Elena,Amy
+380,Elena enjoyed yoga classes while Amy preferred other forms of exercise; this was because _ was inflexible.,Elena,Amy
+381,"The cake that Lawrence tried to bake for Ryan didn't rise, and _ felt forgiving abut it.",Lawrence,Ryan
+382,Natalie took a longer time to take a bath than Jennifer because _ liked relaxing in the tub.,Natalie,Jennifer
+383,Emily said that Victoria's hijab was silly and old fashioned. _ heard some very offensive things.,Emily,Victoria
+384,Emily said that Victoria's hijab was silly and old fashioned. _ said some very offensive things.,Emily,Victoria
+385,It is likely that Donald but not Jason would get the job promotion because _ never stayed late and never did extra work.,Donald,Jason
+386,"There are lots of pills in the home of Neil, but none in the house of Logan, so _ must be healthy.",Neil,Logan
+387,Carrie asked Betty where the children were on the playground because _ could not see them.,Carrie,Betty
+388,Samantha had to get car insurance and Jessica did not because _ just got a new car.,Samantha,Jessica
+389,The stain was lighter on Jason's shirt than Donald's because _ spilled red wine and not white wine.,Jason,Donald
+390,The stain was darker on Jason's shirt than Donald's because _ spilled red wine and not white wine.,Jason,Donald
+391,Ian needed to adjust the mirror and Craig did not because _ was shorter than the owner of the car.,Ian,Craig
+392,Ian needed to adjust the mirror and Craig did not because _ was the same height as the owner of the car.,Ian,Craig
+393,"William lived in a rougher part of town than Eric, so _ trained their dog as a guard dog.",William,Eric
+394,Jennifer returned the pan to Sarah because _ had borrowed it from her for the potluck party.,Jennifer,Sarah
+395,Jennifer returned the pan to Sarah because _ had loaned it to her for the potluck party.,Jennifer,Sarah
+396,The doctor told Kevin to exercise more often but not Neil. _ had always been lazy and unmotivated.,Kevin,Neil
+397,The doctor told Kevin to exercise more often but not Neil. _ had always been active and self-motivated.,Kevin,Neil
+398,Ryan had to use a calculator on the test but Michael didn't because _ was very bad at math.,Ryan,Michael
+399,"Christine accepted the over night challenge from Laura, because _ had a better chance of winning.",Christine,Laura
+400,"Victoria taught Elena how to count in Malay for their trip, because _ was a visitor of the island.",Victoria,Elena
+401,Betty assisted Kayla with the daily analysis task they were assigned and then _ ask for help herself.,Betty,Kayla
+402,The store sold Michael a fake phone but not Eric so _ could still make a call.,Michael,Eric
+403,"The dog that Laura found was dirtier than Amy's dog, since _ dog lived in the street.",Laura,Amy
+404,The ambulance went to the hospital without Nelson inside but with Ryan because _ drove there in a car.,Nelson,Ryan
+405,It took a less time for Katrina to read the book than Cynthia since _ was a better reader.,Katrina,Cynthia
+406,It was easy for Matthew but not Logan to practice yoga because _ wanted to improve their mind and body.,Matthew,Logan
+407,"Patricia was called back for a second interview but not Victoria, as _ had passed the background check.",Patricia,Victoria
+408,"Patricia was called back for a second interview but not Victoria, as _ had failed the background check.",Patricia,Victoria
+409,"Michael was a very calm person with yoga but Jeffrey was hyper so, _ decided to take a yoga class.",Michael,Jeffrey
+410,Going to a restaurant is something that Patricia does very often but Carrie rarely goes to one because _ is a very bad cook.,Patricia,Carrie
+411,Going to a restaurant is something that Patricia does very often but Carrie rarely goes to one because _ is a very good cook.,Patricia,Carrie
+412,Jessica spends a lot more money on frivolous things than Rachel because _ has more disposable income.,Jessica,Rachel
+413,Erin showed Maria to use the fork and knife in a proper manner as _ attended etiquette school.,Erin,Maria
+414,Ian won a fish from Kenneth at the carnival so _ bagged it up and sent it home.,Ian,Kenneth
+415,The hotline was staffed by Christine when Tanya called in because _ was a volunteer.,Christine,Tanya
+416,Steven helped Derrick do research on the paper because _ did not have access to the internet.,Steven,Derrick
+417,Steven helped Derrick do research on the paper because _ had access to the internet.,Steven,Derrick
+418,Rebecca asked Kayla to turn the lights out but _ did not want to go to sleep.,Rebecca,Kayla
+419,"Dennis is changing the sand in a pool filter for Joseph, because _ is a bit lazy.",Dennis,Joseph
+420,Hunter gave Justin two weeks to respond after sending him a demand letter. .After that _ will sue him in the court.,Hunter,Justin
+421,Jason considers he and Benjamin to be friends so _ puts a lot of effort into their relationship.,Jason,Benjamin
+422,Jason considers he and Benjamin to be friends even though _ puts little effort into their relationship.,Jason,Benjamin
+423,"Randy only ever added a little bit of hot sauce to his food, especially compared to Adam, as _ was much more sensitive to spice.",Randy,Adam
+424,The snow came down so much that Michael had to go plow Kevins driveway because _ agreed to take care of his neighbors.,Michael,Kevin
+425,The snow came down so much that Michael had to go plow Kevins driveway because _ needed the help of his neighbors.,Michael,Kevin
+426,Police arrested Maria but let Cynthia go as _ had some paint on their hand from the spray paint used for graffiti.,Maria,Cynthia
+427,Police arrested Maria but let Cynthia go as _ had no paint on their hand from the spray paint used for graffiti.,Maria,Cynthia
+428,Hunter bought a vehicle to commute in but not Dennis because _ had a driving distance to work.,Hunter,Dennis
+429,Jeffrey went to the doctor to treat their ailments but not Robert so _ became sicker.,Jeffrey,Robert
+430,"Maria asked Cynthia if she could borrow some fuel for her car, as _ had a shortage of it.",Maria,Cynthia
+431,"In the accident the vehicle of Nelson received more damage than that of Justin, since _ vehicle was smaller.",Nelson,Justin
+432,"In the accident the vehicle of Nelson received more damage than that of Justin, since _ vehicle was bigger.",Nelson,Justin
+433,"Monica is looking to buy some new furniture and Carrie just bought some, so _ is starting to anticipate their purchase arrival.",Monica,Carrie
+434,Aaron showed Donald how to use google play on an android because _ owned an apple phone.,Aaron,Donald
+435,Katrina turned out to be much more spoiled than Felicia because _ did not have wealthy or generous parents.,Katrina,Felicia
+436,Katrina turned out to be much more spoiled than Felicia because _ had wealthy and generous parents.,Katrina,Felicia
+437,Sarah rolls her eyes as Monica extolls the virtues of vinegar as a cleaning solution for everything since _ is bored.,Sarah,Monica
+438,Nelson always had the best friendships except with Neil since _ was always so polite.,Nelson,Neil
+439,"Derrick really liked working in Human Resources and William wanted to work at the same company, and _ subsequently offered a position.",Derrick,William
+440,"Derrick really liked working in Human Resources and William wanted to work at the same company, and _ subsequently accepted a position.",Derrick,William
+441,Jennifer wanted to get romance in a relationship while Elena did not because _ liked to watch romantic comedies.,Jennifer,Elena
+442,"Adam loved dogs but Jason was afraid of them, so only _ petted the poodle.",Adam,Jason
+443,"Elena brought the horse to the stables owned by Cynthia, so _ could buy the animal.",Elena,Cynthia
+444,"Elena brought the horse to the stables owned by Cynthia, so _ could sell the animal.",Elena,Cynthia
+445,Brett wanted to get a massage but Kenneth did not. This is because _ was feeling relaxed.,Brett,Kenneth
+446,Kevin was worried about Eric's infections so _ decided to go to an emergency clinic.,Kevin,Eric
+447,The bird squawked at Mary's rushed approached and quieted when Jennifer came in since _ was threatening.,Mary,Jennifer
+448,Ryan was always behind Donald in high school because _ had a diagnosed learning disability.,Ryan,Donald
+449,Craig had problems with dry skin but not Hunter since _ used a soothing skin lotion.,Craig,Hunter
+450,Craig had problems with dry skin but not Hunter because _ used an irritating skin lotion.,Craig,Hunter
+451,Carrie loves putting sugar in coffee as opposed to Laura because _ thinks the coffee tastes better.,Carrie,Laura
+452,"Brett was actively engaged in weight loss whereas Benjamin was trying to gain weight, so _ maximized their caloric intake.",Brett,Benjamin
+453,Monica had trouble paying off their loan unlike Sarah because _ was an infrequent gambler.,Monica,Sarah
+454,"Kevin drew the blood from Ian's arm, because _ was giving it to do some tests.",Kevin,Ian
+455,Betty learned to play the cello well but Erin did not because _ was very impatient.,Betty,Erin
+456,Erin was eating more than Betty was eating for dinner because _ had a big lunch.,Erin,Betty
+457,Erin was eating more than Betty was eating for dinner because _ had skipped lunch.,Erin,Betty
+458,Christine was watching makeup tutorials while Amy was not because _ wanted to forget how to put blush on correctly.,Christine,Amy
+459,Erin has a teenager whereas Patricia has toddler-age children because _ became a mother later.,Erin,Patricia
+460,Erin has a teenager whereas Patricia has toddler-age children because _ became a mother first.,Erin,Patricia
+461,Kayla was very civil when dealing with Emily so that _ would be accepted by her.,Kayla,Emily
+462,"Erin ordered a martini when Tanya only ordered a tonic water with lemon, because _ was pregnant.",Erin,Tanya
+463,Donald has a problem with hearing in his ears unlike Benjamin because _ worked in a quiet area.,Donald,Benjamin
+464,"Neil was a very popular kid in school unlike Jeffrey, because _ was very extroverted.",Neil,Jeffrey
+465,Betty used glue to fix Megan's toy because _ was too young to use superglue.,Betty,Megan
+466,Jason but not Craig asked the company if they were currently hiring because _ has a job.,Jason,Craig
+467,The game on television was very important for Ian but not Dennis because _ was into music instead.,Ian,Dennis
+468,"At their high school's homecoming dance, Natalie stayed on the floor for the slow dance while Maria got food during it, because _ had broken up with her significant other.",Natalie,Maria
+469,"At their high school's homecoming dance, Natalie stayed on the floor for the slow dance while Maria got food during it, because _ currently had a significant other.",Natalie,Maria
+470,Samantha had to use the potty while Felicia used the restroom because _ is a grownup.,Samantha,Felicia
+471,Erin read a book to Monica because _ was old enough to be able to read.,Erin,Monica
+472,Tanya read the contract carefully before signing it but Patricia didn't. _ didn't get ripped off by the shady merchant.,Tanya,Patricia
+473,"Refraining from drinking was easy for Kyle but not Eric, as _ never enjoyed the taste of alcohol.",Kyle,Eric
+474,Cynthia ate all of the dessert while Sarah did not have any since _ was not trying to lose any weight.,Cynthia,Sarah
+475,Adam was cold and Michael was hot so _ removed a heavy jacket to withstand the freezing weather.,Adam,Michael
+476,"Erin was sick of the pests like Amy always cutting out their internet, so _ decided to lay low.",Erin,Amy
+477,"William wanted to go biking but Aaron wanted to stay home, so _ went out by themselves.",William,Aaron
+478,Angela loved to wear sun glasses but Jessica didn't. _ bought a fancy new pair of shoes.,Angela,Jessica
+479,Monica was caught napping in class more often than Katrina because _ stayed up all night.,Monica,Katrina
+480,Christine had really good grammar but Cynthia didn't have good grammar because _ studied math in college.,Christine,Cynthia
+481,Jessica was given a sapphire ring by Christine for her birthday because _ really likes sapphires.,Jessica,Christine
+482,The waist of Joel measured more inches than that of Kevin because _ ate much less.,Joel,Kevin
+483,The lips on Cynthia were much bigger than Monica because _ got hit with a softball in the mouth.,Cynthia,Monica
+484,The lips on Cynthia were much smaller than Monica because _ got hit with a softball in the mouth.,Cynthia,Monica
+485,Mary goes around telling everyone that Christine is too clingy because _ likes  to be touched..,Mary,Christine
+486,The parakeet flew to Hunter but flew past Samuel because _ had some bird seed in their hand.,Hunter,Samuel
+487,"Christopher tried to empty all the water from the tank in the yard because Michael had asked him to, but _ wasn't able to get it all out.",Christopher,Michael
+488,"A very active Randy injured their elbow playing basketball against Lawrence, so _ said sorry.",Randy,Lawrence
+489,"The apartment that Samantha lived in was a lot smaller than Megan, because _ had a little salary.",Samantha,Megan
+490,Kevin was not able to run fast compared to William because _ had no broken bones in his body.,Kevin,William
+491,"Angela thought that Elena talked too slowly, and _ had a hard time being understood when they spoke.",Angela,Elena
+492,"When other people were smoking, Kayla was more disgusted than Erin because _ had always avoided smoke.",Kayla,Erin
+493,"Benjamin has a spouse and Kyle is single after being divorced, so _ is celebrating their independence this year.",Benjamin,Kyle
+494,Christopher taught Hunter to play go fish so that _ had someone to play with.,Christopher,Hunter
+495,Carrie was helping Patricia diet and exercise at the gym to lose weight because _ used to be overweight.,Carrie,Patricia
+496,"Michael made pickled eggs for Kenneth, but _ really loved his own and wanted to share them.",Michael,Kenneth
+497,"Maria gave Samantha the blue floral pants, because _ didn't  fit into them very well.",Maria,Samantha
+498,Lindsey was considered more masculine than Amy because every year _ went into the woods to French kiss deer.,Lindsey,Amy
+499,Cynthia had to pee after one large coffee but Betty did not as _ had a very big bladder.,Cynthia,Betty
+500,Cynthia had to pee after one large coffee but Betty did not as _ had a very small bladder.,Cynthia,Betty
+501,"Robert was simply not as stoic as Joel , as _ tended to handle things gracefully.",Robert,Joel
+502,"Aaron drank plenty of water before the hike, but Christopher forgot to, so _ ended up staying hydrated.",Aaron,Christopher
+503,"Aaron drank plenty of water before the hike, but Christopher forgot to, so _ ended up getting dehydrated.",Aaron,Christopher
+504,"The TV that Samantha bought costs more than that of Carrie, because _ was poor.",Samantha,Carrie
+505,"The TV that Samantha bought costs more than that of Carrie, because _ was rich.",Samantha,Carrie
+506,Carrie had an easier time crawling through the narrow tunnel than Patricia because _ was larger.,Carrie,Patricia
+507,Cynthia gave a rabbit as a companion to Carrie because _ thought they were lonely.,Cynthia,Carrie
+508,Cynthia gave a rabbit as a companion to Carrie because _ explained they were lonely.,Cynthia,Carrie
+509,"Katrina drove Emily to the prison, so that _ could say goodbye to them before they went to jail.",Katrina,Emily
+510,"Ian was tired of trying new diets while Steven had luck with one, so _ decided to do their own thing.",Ian,Steven
+511,"Ian was tired of trying new diets while Steven had luck with one, so _ stuck to their routine.",Ian,Steven
+512,Katrina wanted to build a new picture frame for Samantha's portrait because _ was an inexperienced woodworker.,Katrina,Samantha
+513,"Nick struggled with unresolved trauma that Ian couldn't understand, since _ had frequently experienced childhood abuse.",Nick,Ian
+514,"Nick struggled with unresolved trauma that Ian couldn't understand, since _ had never experienced childhood abuse.",Nick,Ian
+515,"Victoria decided to adopt a Yorkie, but Elena wouldn't even consider it, because _ loved small dogs.",Victoria,Elena
+516,Carrie kept written records of their expenses but not Laura because _ had a faulty memory.,Carrie,Laura
+517,Carrie kept written records of their expenses but not Laura because _ had a sharp memory.,Carrie,Laura
+518,"Samantha was not interested in hearing about Tanya awesome marriage, because _ was happy all the time.",Samantha,Tanya
+519,Craig had a slower running phone than Logan because _ had more apps running on theirs.,Craig,Logan
+520,Craig had a faster running phone than Logan because _ had more apps running on theirs.,Craig,Logan
+521,Betty had more burns on their hands than Amy because _ worked as a welder.,Betty,Amy
+522,"Mary wanted to surprise Cynthia with a puppy for Christmas, so _ asked about allergies to dogs.",Mary,Cynthia
+523,"Samuel had a shorter expected lifespan than Kenneth, so _ procrastinated in following all their dreams.",Samuel,Kenneth
+524,The personal trainer gave Laura but not Victoria the more difficult exercise because _ was in shape.,Laura,Victoria
+525,The personal trainer gave Laura but not Victoria the more difficult exercise because _ was out of shape.,Laura,Victoria
+526,"At the dance, Adam asked the girl to dance before Donald, so _ is angry with himself.",Adam,Donald
+527,Natalie had a pig while Jennifer had a cow so _ thought mines smaller so its better.,Natalie,Jennifer
+528,Rebecca slept in the hammock in the backyard while Tanya gardened because _ was tired.,Rebecca,Tanya
+529,The bagel shop was closer to Michael than Joel because _ lived in a different area of town.,Michael,Joel
+530,Rachel but not Christine was tracked down by police because _ made it to the hideout.,Rachel,Christine
+531,Rachel but not Christine was tracked down by police because _ did not make it to the hideout.,Rachel,Christine
+532,"Rachel wanted children, but Megan had no interest, so _ looked for someone else to have babies with.",Rachel,Megan
+533,"Rachel wanted children, but Megan had no interest, so _ looked for someone else to have freedom with.",Rachel,Megan
+534,Adam cried when Donald had a stubbed toe since _ had a look of pain on his face.,Adam,Donald
+535,"The bank permitted Michael to open a checking account, but not Matthew, because _ was employed.",Michael,Matthew
+536,"The bank permitted Michael to open a checking account, but not Matthew, because _ was unemployed.",Michael,Matthew
+537,"The children were not vaccinated, which was fine with Betty but annoyed Mary. _ knew they didn't make kids autistic.",Betty,Mary
+538,"The children were not vaccinated, which was fine with Betty but annoyed Mary. _ believed they made kids autistic.",Betty,Mary
+539,Firing a shotgun came more naturally for Megan than Tanya because _ grew up around them.,Megan,Tanya
+540,"Natalie tended to wear their hair in a ponytail, while Maria wasn't able to, because _ had long hair.",Natalie,Maria
+541,Fiction books were interesting and easy to read for  Logan but not Brett because _ enjoyed real tales.,Logan,Brett
+542,"Joel had many extra possesions while Neil didn't, so _ had to rent a storage shed.",Joel,Neil
+543,"Joel had many extra possesions while Neil didn't, so _ didn't have to rent a storage shed.",Joel,Neil
+544,"Jeffrey thought Craig probably had gum and asked for a piece, because _ had fresh breath.",Jeffrey,Craig
+545,"Jeffrey thought Craig probably had gum and asked for a piece, because _ had bad breath.",Jeffrey,Craig
+546,Benjamin was able to use their device for longer than Steven because _ remembered to bring their charger.,Benjamin,Steven
+547,Brian informed Aaron that their coach had scheduled an extra event on Saturday morning since _ was present at yesterday's practice.,Brian,Aaron
+548,"Of the two owners, Jessica was far worse than Jennifer, because _ like to treat the dogs.",Jessica,Jennifer
+549,"Of the two owners, Jessica was far worse than Jennifer, because _ like to beat the dogs.",Jessica,Jennifer
+550,Research came easy to Monica as compared to Erin because _ 's father was a landscaper.,Monica,Erin
+551,"Donald stuck his nose up and scoffed at William's ragged outfit, because _ looked like the working class.",Donald,William
+552,Brett threw away all the soda and junk food to reduce Leslie's dependence on unhealthy foods because _ cares for his health.,Brett,Leslie
+553,"Elena was an excellent flight attendant when Sarah boarded the plane with a fear of flying because, _ was able to overcome their fears.",Elena,Sarah
+554,Dennis invited Joseph on a trip to the hatchery tomorrow morning because _ was also interested in fish.,Dennis,Joseph
+555,"Megan wrote on the paper with a pencil unlike Jennifer who wrote with a pen, because _ wanted to erase it later.",Megan,Jennifer
+556,"Megan wrote on the paper with a pencil unlike Jennifer who wrote with a pen, because _ wanted to keep it for later.",Megan,Jennifer
+557,Laura asked Rachel if she could borrow some clothes because _ loved her fashion sense.,Laura,Rachel
+558,"Erin knew the perfect gift for the wedding  shower, but Samantha had to do some research, because _  was slightly acquainted with the bride.",Erin,Samantha
+559,The gothic lolita style suited Victoria better than Sarah because _ looked the worst in frilly dresses.,Victoria,Sarah
+560,"Samantha couldn't see any alternatives, but Emily could, because _ wasn't nearly as open minded.",Samantha,Emily
+561,"After a boring meeting, Monica closed her eyes and dozed while Carrie took a walk, as _ had gone to bed late the night before.",Monica,Carrie
+562,"After a boring meeting, Monica closed her eyes and dozed while Carrie took a walk, as _ had gone to bed early the night before.",Monica,Carrie
+563,"Erin frequently suffered from hair loss while Samantha had healthy hair, as _ was never stressed out.",Erin,Samantha
+564,"The creatures attacked Derrick while ignoring Ryan, because _ remembered to put on the repellent.",Derrick,Ryan
+565,Megan liked to read a book good more than Samantha because _ liked the peace and quiet.,Megan,Samantha
+566,Megan liked to read a book good more than Samantha because _ hated the peace and quiet.,Megan,Samantha
+567,"Late at night, Rebecca was more tired than Jessica so _ was unable to go right to sleep.",Rebecca,Jessica
+568,"Late at night, Rebecca was more tired than Jessica so _ was able to go right to sleep.",Rebecca,Jessica
+569,"Neil used a chainsaw to cut down the tree instead of a regular saw like William, because _ believed in modern equipment.",Neil,William
+570,"Maria was able to keep their weight off long term, unlike Felicia, because _ followed a healthy diet.",Maria,Felicia
+571,"Maria was able to keep their weight off long term, unlike Felicia, because _ followed a crash diet.",Maria,Felicia
+572,Dennis did not enjoy their afternoon but Hunter did because _ left work after the sunset.,Dennis,Hunter
+573,Dennis did not enjoy their afternoon but Hunter did because _ left work after the sunrise.,Dennis,Hunter
+574,"Natalie committed a bunch of good deeds in Samantha's name, because _ wanted all the credit.",Natalie,Samantha
+575,"Natalie committed a bunch of good deeds in Samantha's name, because _ didn't want the credit.",Natalie,Samantha
+576,Neil put the finishing touches on the android as he sold it off to Brian because _ was an engineer.,Neil,Brian
+577,"Laura didn't buy anything at all for Betty's birthday, because _ forgot to mention it.",Laura,Betty
+578,"Beautiful to Angela means something physical, while it's mental to Emily, so _ is deeper.",Angela,Emily
+579,"Beautiful to Angela means something physical, while it's mental to Emily, so _ is shallower.",Angela,Emily
+580,The hair stylist gave Laura hair extensions and not Katrina because _ had very short hair.,Laura,Katrina
+581,Monica did not need a recipe in order to mix a cake but Angela did because _ was an instinctive baker.,Monica,Angela
+582,"Craig had cereal for breakfast while Dennis had a shake, so _ finished drinking their breakfast.",Craig,Dennis
+583,"Craig had cereal for breakfast while Dennis had a shake, so _ finished eating their breakfast.",Craig,Dennis
+584,Logan ended up calling the police over an incident involving Jason because _ was scratched by them.,Logan,Jason
+585,"Benjamin shaved his beard, but Nick had just grown one, so _ gave them all his old oils.",Benjamin,Nick
+586,Monica can speak English and German but Samantha can only speak English because _ is trilingual.,Monica,Samantha
+587,Pine trees were a big part of Erin s Christmas tree farm while Megan was jewish but helped _ celebrate anyhow.,Erin,Megan
+588,Eating spicy foods better suited Robert and not Adam because _ never got acid reflux from salsa.,Robert,Adam
+589,Kenneth had worse skin than Craig so _ had to use more of the moisturizer.,Kenneth,Craig
+590,Kenneth had better skin than Craig so _ had to use more of the moisturizer.,Kenneth,Craig
+591,The cat Natalie owned would snuggle up on Jessica's lap because _ was nice to it all the time.,Natalie,Jessica
+592,"Brian always tried to find ways to be productive at work unlike Kenneth, because _ was a hard worker.",Brian,Kenneth
+593,"Justin bought a new RV but Lawrence liked his old one, so _ decided to buy it.",Justin,Lawrence
+594,"Justin bought a new RV but Lawrence liked his old one, so _ decided to sell it.",Justin,Lawrence
+595,"Tanya was unrecognizable after Sarah was done beating them, so _ ended up going to jail.",Tanya,Sarah
+596,"Derrick showed Jason how to cut the tiles for their kitchen, and _ was shown appreciation for their help.",Derrick,Jason
+597,Sarah but not Erin would get a retirement pension because _ had a 30 year work career.,Sarah,Erin
+598,"Brian agreed to buy soap for Kenneth while at the store, and _ paid them back the following day for the errand.",Brian,Kenneth
+599,Hunter prepared the documents and data tables for Matthew's scientific research because _ is his assistant.,Hunter,Matthew
+600,"Samuel was blown away to find out from Lawrence that goldfish are a type of carp, so _ decided to fact check his friend.",Samuel,Lawrence
+601,Michael had a cat as a pet but Nelson didn't have any pets because _ had little allergies in their system.,Michael,Nelson
+602,Maria mimicked everything that Christine did at work because _ was like a fan to her.,Maria,Christine
+603,"Kyle paid Craig to board the family dog at the kennel for a week, because _ was going on vacation.",Kyle,Craig
+604,Jessica found the heavy load at work overwhelming but not Katrina because _ did a poor job at planning their work.,Jessica,Katrina
+605,The brutal boxing match was suitable for Christopher but not Samuel because _ did damage to his opponent.,Christopher,Samuel
+606,The brutal boxing match was suitable for Christopher but not Samuel because _ did not damage his opponent.,Christopher,Samuel
+607,Going on a diet was easier for Benjamin but not Donald because _ did not know about any different programs.,Benjamin,Donald
+608,Jennifer got about with a seeing-eye dog but Mary did not because _ was blind.,Jennifer,Mary
+609,Jennifer got about with a seeing-eye dog but Mary did not because _ was sighted.,Jennifer,Mary
+610,"The dog loved Kevin but hated Derrick, so _ started bringing the dog treats to change its mind.",Kevin,Derrick
+611,"The dog hated Kevin but loved Derrick, so _ started bringing the dog treats to change its mind.",Kevin,Derrick
+612,"Patricia has a trouble with training her horse and wants Tanya's help, because _ wants her horse to behave.",Patricia,Tanya
+613,Samuel had to recently recover from a stroke unlike William because _ was living an unhealthy lifestyle.,Samuel,William
+614,"Tanya was the most powerful person in the world, and Sarah admired them, because _ was something to aspire to.",Tanya,Sarah
+615,Ian was supposed to be babysitting for Dennis but didn’t show up because _ was forgotten.,Ian,Dennis
+616,Donald had to wax a lot more frequently than Ian because _ had blonde colored hair.,Donald,Ian
+617,Joseph asked Robert to clean the floor with a mop nearby because _ needs to work.,Joseph,Robert
+618,"Craig grew frustrated trying to coach Nick in soccer, as _ lacked the aptitude needed for the task.",Craig,Nick
+619,"Craig grew frustrated trying to coach Nick in soccer, as _ lacked the patience needed for the task.",Craig,Nick
+620,Getting a divorce as soon as possible suited Victoria but not Lindsey because _ was no longer in love.,Victoria,Lindsey
+621,"Betty's blanket was much thicker than Jessica's blanket, so _ felt cold all night in bed.",Betty,Jessica
+622,Christopher declined when asked by Ian to play a game of chess because _ liked to play intellectual games.,Christopher,Ian
+623,Natalie had a phobia about crossing over high bridges but Tanya didn't. _ had to re-route their trip to avoid bridges.,Natalie,Tanya
+624,More people attended the funeral of Joel than of Derrick because _ was a mean person.,Joel,Derrick
+625,"Adam decided to shave Denniss beard before the reuinion, because _ thought it was too long.",Adam,Dennis
+626,"Adam decided to shave Denniss beard before the reuinion, but _ thought it was too short.",Adam,Dennis
+627,"Emily had always loved kids and Jessica felt the opposite, so _ was surprised to become a pediatrician.",Emily,Jessica
+628,Nelson wanted to be an actor so Neil got them an audition because _ had poor connections in the movie industry.,Nelson,Neil
+629,Robert usually didn't like fish as much as Kyle however _ had a disliking for sardines on pizza.,Robert,Kyle
+630,"Dennis made their weight loss goal before Eric, because _ only ate a healthy diet.",Dennis,Eric
+631,Tanya looked for an escape route while Elena did not because _ liked to live in the moment.,Tanya,Elena
+632,Tanya looked for an escape route while Elena did not because _ liked to be aware of all the surroundings.,Tanya,Elena
+633,"Elena waited patiently for Angela, as _ arrived early to meet at their prearranged spot.",Elena,Angela
+634,"Donald took medication for their anxiety, but Craig went to therapy because _ was open with their feelings.",Donald,Craig
+635,"Donald took medication for their anxiety, and Craig went to therapy because _ was private with their feelings.",Donald,Craig
+636,Michael had less money than Samuel did because _ liked to shop and spend money too much.,Michael,Samuel
+637,Michael had more money than Samuel did because _ like to shop and spend money too much.,Michael,Samuel
+638,"After a nasty breakup, Kayla needed a restraining order from Samantha because _ was scary to them.",Kayla,Samantha
+639,"At dinner time, Tanya ate Erin's serving of peas even though _ really likes green vegetables.",Tanya,Erin
+640,"Monica was worried that Mary might be caught in a scam when they started their new job, but _ decided to trust their friend's judgement.",Monica,Mary
+641,Brian taught Michael how to feed a rabbit greens because _ had rabbits as a kid.,Brian,Michael
+642,"Joseph has an allergy to mangoes, but Nelson does not, so _ has to be very careful.",Joseph,Nelson
+643,Justin went with Donald to the game because _ wanted to be the designated driver.,Justin,Donald
+644,Steven was worried about the height requirements for the rollercoaster more than Dennis was since _ was short.,Steven,Dennis
+645,Steven was worried about the height requirements for the rollercoaster more than Dennis was since _ was tall.,Steven,Dennis
+646,Joel has experience driving large vehicles and Lawrence doesn't. _ drives their RV with accuracy.,Joel,Lawrence
+647,"The teacher asked for the homework. Elena played games the night before and Tanya did not, so _ got an F.",Elena,Tanya
+648,"The teacher asked for the homework. Elena played games the night before and Tanya did not, so _ got an A.",Elena,Tanya
+649,"William had a fear about nothing unlike Benjamin, because _ had a horrible childhood growing up.",William,Benjamin
+650,"Ryan grew the houseplant from seed, but Matthew bought a plastic plant instead, because _ tended to neglect plants.",Ryan,Matthew
+651,"Neil introduced William, who is very shy, to his friends, but _ was being very embarrassing.",Neil,William
+652,"Neil introduced William, who is very shy, to his friends, but _ was being very quiet.",Neil,William
+653,"Laura had a much better body than Katrina, because _ spent all of their time at the ice cream shop.",Laura,Katrina
+654,"Samantha believed in life after death while Christine did not, so _ never tried to talk to spirits.",Samantha,Christine
+655,"While at the store, Logan grabbed a head of lettuce for Eric to use for dinner, but _ already had some at home.",Logan,Eric
+656,"While at the store, Logan grabbed a head of lettuce for Eric to use for dinner because _ knew there was none at home.",Logan,Eric
+657,Jeffrey asked Hunter when was the date set for the wedding because _ was getting married.,Jeffrey,Hunter
+658,Jeffrey asked Hunter when was the date set for the wedding because _ was his best man.,Jeffrey,Hunter
+659,"Craig had never learned handwriting in school but Michael had learned beautiful script so, _ always typed all their correspondence.",Craig,Michael
+660,"Patricia did laundry by hand, but Lindsey used the electric washer, because _ wore clothes made of delicate fabrics.",Patricia,Lindsey
+661,"Derrick needed Kenneth to go to the store and get a baby bib, but _ said the one they had was still ok.",Derrick,Kenneth
+662,"Christine told Samantha at court their reasons for their expired license, since _ had the responsibility to attend.",Christine,Samantha
+663,"Christine told Samantha at court their reasons for their expired license, since _ had the responsibility to judge.",Christine,Samantha
+664,"While waiting for the movie to begin, Natalie bought popcorn and drinks for Lindsey, since _ had little money.",Natalie,Lindsey
+665,"Christopher was able to travel abroad, while William only travelled domestically, as _ had never applied for a passport.",Christopher,William
+666,The patient put in a special request for Brett instead of Kyle because _ was always stern.,Brett,Kyle
+667,Rachel decided on adopting a young puppy but Megan didn't because _ didn't want to train a pupply.,Rachel,Megan
+668,Applying to dance in music videos was great for Erin but not Lindsey because _ was a beginner dancer.,Erin,Lindsey
+669,"Benjamin asked Samuel to buy them a puppy, because _ could not have a pet.",Benjamin,Samuel
+670,Nelson teased Christopher about needing to find a homecoming date because _ could not find one.,Nelson,Christopher
+671,Nelson teased Christopher about needing to find a homecoming date because _ already had one.,Nelson,Christopher
+672,Betty gave the full pitcher to Rachel so _ could fill her glass with water.,Betty,Rachel
+673,Brett looks as if they are aging at half the rate of Craig because _ has lived a rough lifestyle.,Brett,Craig
+674,Sarah had to call in an expert unlike Erin because _ had no knowledge on the subject.,Sarah,Erin
+675,Sarah had to call in an expert unlike Erin because _ had vast knowledge on the subject.,Sarah,Erin
+676,"Monica really enjoys a vodka drink, but Felicia prefers whiskey because _ likes dark liquors.",Monica,Felicia
+677,"Monica really enjoys a vodka drink, but Felicia prefers whiskey because _ likes clear liquors.",Monica,Felicia
+678,Samantha failed on the test but Mary got very good marks because _ had been very lazy.,Samantha,Mary
+679,"Kyle wanted to write to Aaron every day, because _ enjoyed sending letters to friends.",Kyle,Aaron
+680,"Kyle wanted to write to Aaron every day, because _ enjoyed receiving letters from friends.",Kyle,Aaron
+681,"Much to the dismay of Christopher, Jeffrey learned of their evil plan, and _ was stopped before it succeeded.",Christopher,Jeffrey
+682,"Samantha's main artistic medium was paint, while Patricia preferred to work with clay, since _ was trained as a sculptor.",Samantha,Patricia
+683,"Neil asked Brian to hand him the measuring tape, but _ already measured the wall to center the picture.",Neil,Brian
+684,Michael loved eating many different vegetables but not Brett because _ was on a vegetarian diet.,Michael,Brett
+685,"It was painful for Justin to break up with Jason, but _ wasn't ready to move on.",Justin,Jason
+686,"As a marine, Emily looks down on civilians like Maria, so _ is a bit saddened.",Emily,Maria
+687,"Kyle makes a lot more money than Nelson can make at his job, as _ is a cashier.",Kyle,Nelson
+688,The food that Hunter ate was spoiled but not that of Brett because _ left his food outside.,Hunter,Brett
+689,The food that Hunter ate was spoiled but not that of Brett because _ left his food in the fridge.,Hunter,Brett
+690,"Laura held the steel for their project while Carrie used the blowtorch, because _ was more skilled.",Laura,Carrie
+691,"Amy recognized the man in the waiting room before Monica did, because _ had met the man only once.",Amy,Monica
+692,Nick smelled much worse than Kenneth after the baseball game although _ was wearing deodorant.,Nick,Kenneth
+693,The man with the fever came over and talked to Carrie and not Lindsey because _ was a patient.,Carrie,Lindsey
+694,Writing came easily to Carrie but was difficult for Natalie because _ had taken engineering in college.,Carrie,Natalie
+695,Katrina asked Rachel to change the diapers for the babies this morning because _ is handling the stove.,Katrina,Rachel
+696,Katrina asked Rachel to change the diapers for the babies this morning because _ isn't doing anything.,Katrina,Rachel
+697,Brett took more medicines than Aaron did although _ was suffering from many more diseases.,Brett,Aaron
+698,Benjamin lied to Logan because _ was so upset about the money that was missing.,Benjamin,Logan
+699,Derrick greeted Craig at the event but he did not respond to him because _ is humble.,Derrick,Craig
+700,Derrick greeted Craig at the event but he did not respond to him because _ is arrogant.,Derrick,Craig
+701,Monica chose Kayla as the winning contestant on the reality show because _ was a contestant on the show.,Monica,Kayla
+702,Michael swam in the pond for longer than Derrick because _ thought the algae was okay.,Michael,Derrick
+703,Kenneth worked hard at training martial arts but not Samuel. _ couldn't made their dream come true of fighting in the UFC octagon.,Kenneth,Samuel
+704,"Adam's blushed a deep red when Jeffrey saw him fall off his horse, but _ tried to pretend it didn't hurt.",Adam,Jeffrey
+705,"The doctor treated Natalie, but refused to see Tanya, because _ has an incredible insurance plan.",Natalie,Tanya
+706,Jessica asked Rebecca to go see a new horror movie even though _ knew she would likely to decline the invitation.,Jessica,Rebecca
+707,"Amy's being taught how to pay it forward by Kayla, so _ is likely the younger person.",Amy,Kayla
+708,Steven asked Joseph to have their stomach examined after _ had a night full of really bad gas issues.,Steven,Joseph
+709,"Felicia was given a leather belt from Betty to clean it, because _ knows how to do it.",Felicia,Betty
+710,"Felicia was given a leather belt from Betty to clean it, because _ doesn't know how to clean it.",Felicia,Betty
+711,Carrie tried to convince Cynthia that the cat needed a microchip because _ was concerned about the cat getting lost.,Carrie,Cynthia
+712,The doctor felt more sympathy for Aaron than Ryan because _ had a curable illness and great insurance.,Aaron,Ryan
+713,"Emily delivered the daily newspaper to Samantha promptly, so _ gave a nice Christmas bonus.",Emily,Samantha
+714,"Emily delivered the daily newspaper to Samantha promptly, so _ expected a nice Christmas bonus.",Emily,Samantha
+715,"Laura was climbing down from the roof and Katrina was below so, _ was holding the ladder.",Laura,Katrina
+716,"Katrina demanded that Jessica get off of their property, because _ was in the neighborhood for visiting.",Katrina,Jessica
+717,"Katrina demanded that Jessica get off of their property, because _ wasn't in the mood for visiting.",Katrina,Jessica
+718,"At the hospital, Kenneth tended to Randy 's wounds as _ was learning to contain an infection.",Kenneth,Randy
+719,"Justin admired the art hung on the wall by Nick, so _ asked if he would like to take something home.",Justin,Nick
+720,Mary felt a great deal of guilt for stealing various items from Rachel so _ forgave her.,Mary,Rachel
+721,Patricia bought Christine a watch for their birthday because _ was tired of asking about the time.,Patricia,Christine
+722,"After visiting their tenth college, Kevin asked Donald to just make up his mind, because _ just didn't have time for more.",Kevin,Donald
+723,Christine was tired of Maria being a pain in the neck after _ laid down the prank trap.,Christine,Maria
+724,Beautiful roses were bought by Jason for Dennis because _ is a receiver in general.,Jason,Dennis
+725,"Felicia ran out of shirts and borrowed one from Patricia, but _ didn't ask permission ahead of time.",Felicia,Patricia
+726,Megan picked up some olive oil for Felicia because _ hated to cook but loved to eat.,Megan,Felicia
+727,Megan picked up some olive oil for Felicia because _ loved to cook but hated to eat.,Megan,Felicia
+728,Kayla always wears sunscreen outdoors but Natalie doesn't because _ isn't concerned about getting neck wrinkles.,Kayla,Natalie
+729,"Felicia wanted to be pampered by Emily, so _ went to the jewelry store and bought an expensive ring.",Felicia,Emily
+730,Mastering the game of chess was easier for Brian than William because _ had an analytical mind.,Brian,William
+731,The gerbil came over to Laura but not Monica because _ was holding a hockey stick.,Laura,Monica
+732,The gerbil came over to Laura but not Monica because _ was holding a carrot stick.,Laura,Monica
+733,Samantha wanted to use a valet to park the car but Carrie did not because _ was generous with money.,Samantha,Carrie
+734,"Emily has never struggled with blood clots like Victoria has, because _ lives a sedentary, gluttonous lifestyle.",Emily,Victoria
+735,"On the playground at school during recess, Monica called Emily a chicken because _ was capable of climbing the ladder.",Monica,Emily
+736,"On the playground at school during recess, Monica called Emily a chicken because _ was scared of climbing the ladder.",Monica,Emily
+737,Learning a new form of karate was difficult for Logan but not William because _ was not athletic.,Logan,William
+738,Brian wanted a horse but not Nick because _ raised cattle in their spare time.,Brian,Nick
+739,"Elena liked lizards more than Rachel did, so _ was appalled to receive a pet gecko for her birthday.",Elena,Rachel
+740,Logan preferred to snowboard while Kyle wanted to do biathlon so _ went up the hill.,Logan,Kyle
+741,"Nick did not like sauces made from tomato, only creamy sauces. Ryan knew this so he only made white sauce when _ came over.",Nick,Ryan
+742,Rachel knew exactly how to treat the injured person's wound but not Emily because _ took a woodworking class in high school.,Rachel,Emily
+743,Kayla was always thinner than Rachel because _ enjoyed eating brioche and butter every morning.,Kayla,Rachel
+744,Robert has no regret for punching Justin in the nose even though _ was the victim of injustice.,Robert,Justin
+745,Robert has no regret for punching Justin in the nose because _ was the victim of injustice.,Robert,Justin
+746,"Laura put fruit in their pie for Lindsey to eat, and _ ate half the pie after that one was done baking.",Laura,Lindsey
+747,"William was very comfortable entering Kenneth 's personal domain any time, as _ was very self-assured.",William,Kenneth
+748,Tanya recently finished filling out a job application but not Megan because _ is currently unemployed.,Tanya,Megan
+749,Tanya recently finished filling out a job application but not Megan because _ is currently working.,Tanya,Megan
+750,Lawrence had lost a lot of weight on their diet but Hunter wasn't nearly as succesful. _ was now heavy.,Lawrence,Hunter
+751,"Tanya wanted to audition for the show that Sarah was casting, so _ watched her routine very carefully.",Tanya,Sarah
+752,"When it came to taking care of elderly people, Adam was suited for the job more than Brian because _ lived with younger people longer.",Adam,Brian
+753,Felicia experienced a tummy ache while Tanya did not because _ had not eaten any food.,Felicia,Tanya
+754,"Erin was self-conscious of her legs and Katrina didn't help by making fun of them, but _ went to the gym to try and help her.",Erin,Katrina
+755,"While shopping at the mall, Kevin asked Benjamin to help find a red shirt to wear because _ was great at clothing budgeting.",Kevin,Benjamin
+756,Mary didn't know what the currency of Mexico was but Lindsey knew _ had never been to Mexico before.,Mary,Lindsey
+757,"Mary thinks Sarah has beautiful skin, even though _ actually has the better complexion of the two.",Mary,Sarah
+758,Donald had to drive Matthew to the doctor immediately because _ was feeling lightheaded and dizzy.,Donald,Matthew
+759,"The apartment Brett rented was owned by Jason, so _ sent the rent for the apartment each month.",Brett,Jason
+760,"The apartment Brett rented was owned by Jason, so _ received the rent for the apartment each month.",Brett,Jason
+761,"Kyle was in a lot of pain after running the marathon in place of Brian, but _ appreciated the support of his cause.",Kyle,Brian
+762,Amy asked Maria how to make homemade candles to give as gifts. _ knew she had a lot of experience making them.,Amy,Maria
+763,Patricia liked to lie around in a hammock all day but Megan did not because _ was very sedentary.,Patricia,Megan
+764,Justin brought a a saw and hammer to prepare making a cupboard for Benjamin because _ is his employer.,Justin,Benjamin
+765,"Kenneth's back is being tended to by Derrick at the office, so _ is the client in this situation.",Kenneth,Derrick
+766,"The mirror didn't lie when it showed how overweight Patricia was and how emaciated Felicia was, so _ needed to go on diet.",Patricia,Felicia
+767,"Logan could eat gluten while Adam could not, and _ always had a smaller variety of foods to choose from.",Logan,Adam
+768,"Maria wasn't aware that Erin was coming up behind them, because _ was generally sneaky.",Maria,Erin
+769,Michael was a better employer than Joel so _ had to worry about retaining employees.,Michael,Joel
+770,Michael was a better employer than Joel so _ did not have to worry about retaining employees.,Michael,Joel
+771,Two friends wanted a tan look but Joel was impatient while Robert wasn't. _ used bronzer to get a tan look.,Joel,Robert
+772,Playing basketball came easier for Cynthia than Jennifer but _ had more control of their body movements.,Cynthia,Jennifer
+773,Playing basketball came easier for Cynthia than Jennifer but _ had less control of their body movements.,Cynthia,Jennifer
+774,The lady was blushing when she walked passed Amy but not Carrie because _ was intrigued by her.,Amy,Carrie
+775,"Dennis's home just burned down, but luckily Donald's was spared. So, now _ is grateful.",Dennis,Donald
+776,Megan focused more on proper posture than Lindsey because _ wanted to become a model.,Megan,Lindsey
+777,Megan focused less on proper posture than Lindsey because _ wanted to become a model.,Megan,Lindsey
+778,Victoria had no issues with Achilles Tendinitis unlike Betty because _ never wore sneakers with cushion.,Victoria,Betty
+779,Katrina did not value the antique pictures as much as Lindsey because _ was a history buff.,Katrina,Lindsey
+780,"Angela wanted to find a partner, but Victoria wanted to stay single, because _ was lonely.",Angela,Victoria
+781,"Michael had to learn how to speak Chinese for his job unlike Matthew, because _ worked in China.",Michael,Matthew
+782,"Michael had to learn how to speak Chinese for his job unlike Matthew, because _ worked in England.",Michael,Matthew
+783,"Betty avoided getting attacked in the dark alley where Elena was mugged, because _ ignored their intuition.",Betty,Elena
+784,"Victoria was interested in babies, but Katrina thought they were annoying, so _ preferred visiting the nursery.",Victoria,Katrina
+785,"When gambling in Las Vegas, Christine usually bets less playing poker than Elena because _ is more cautious.",Christine,Elena
+786,Logan kept a store of ammo in their house but Brian did not as _ approved of hunting.,Logan,Brian
+787,"Craig made sure to stretch before working out but Christopher never did, so _ frequently got injuries.",Craig,Christopher
+788,"Elena is concerned that Megan might have a Twitter addiction, but _ is probably worrying about nothing.",Elena,Megan
+789,"Donald was chosen to be a model while Dennis was passed over, because _ was exceptionally tall.",Donald,Dennis
+790,"Patricia bought a plant for Natalie to put in her garden, so _ sent a thank you card.",Patricia,Natalie
+791,Logan checked Samuel's garage to see if the car was there. It was missing so _ was gone.,Logan,Samuel
+792,Jessica was arrested for growing hemp by the police but not Sarah because _ fled during the field raid.,Jessica,Sarah
+793,Jessica was arrested for growing hemp by the police but not Sarah because _ stayed during the field raid.,Jessica,Sarah
+794,Jennifer thought it was important to neuter a dog and Rachel did not because _ knew lots of animals become homeless.,Jennifer,Rachel
+795,Joseph loved to smoke cigarettes while Derrick did not although _ hated to use a hookah.,Joseph,Derrick
+796,"Ryan ordered the salad with added avocado, but Randy passed, because _ wasn't ok with the $3 upcharge.",Ryan,Randy
+797,"Ryan ordered the salad with added avocado, but Randy passed, because _ was ok with the $3 upcharge.",Ryan,Randy
+798,"Tanya was an adult while Samantha was young and still had room to grow , so _ gave her her old clothes.",Tanya,Samantha
+799,"Tanya was an adult while Samantha was young and still had room to grow , so _ took her old clothes.",Tanya,Samantha
+800,"Lawrence volunteered to donate blood to help others, but Steven was unable to, since _ was healthy.",Lawrence,Steven
+801,"Reading poetry and rhymes was very entertaining for Derrick but boring for Logan, since _ was a mathematician.",Derrick,Logan
+802,Laura never feared anything like Erin because _ didn't have a very strong and very powerful mind.,Laura,Erin
+803,Laura never feared anything like Erin because _ had a very strong and very powerful mind.,Laura,Erin
+804,Adam asked Dennis to always remember to flush the toilet because _ doesn't flush it.,Adam,Dennis
+805,"Christine knew how to make wings with better flavor than Maria, so _ waited for supper.",Christine,Maria
+806,Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.,Adam,Christopher
+807,"Cynthia was happy to give Patricia the politics section of the newspaper, because _ had little interest in the election results.",Cynthia,Patricia
+808,"Carrie always arrived to work after Cynthia, as _ had a shorter driving commute in the mornings.",Carrie,Cynthia
+809,"Amy left smears all over the surface after cleaning Kayla's sink, because _ didn't supervise very much.",Amy,Kayla
+810,"Brian could learn to swim with the right instruction, but it was hard to tell whether lifeguard Matthew was qualified to provide it, since _ had never swum before.",Brian,Matthew
+811,"Jennifer has more money than Amy, so _ became a homeowner at a young age.",Jennifer,Amy
+812,Patricia had to pay less tax than Cynthia because _ made more money in the year.,Patricia,Cynthia
+813,Patricia had to pay less tax than Cynthia because _ made less money in the year.,Patricia,Cynthia
+814,"Brian's plants are showing a lot more growth than Logan's, because _ used better fertilizer.",Brian,Logan
+815,The girl broke Leslie's heart but not Kenneth's because _ was never in love with her.,Leslie,Kenneth
+816,The girl broke Leslie's heart but not Kenneth's because _ used to be in love with her.,Leslie,Kenneth
+817,"Monica suspected that Rebecca had become an alcoholic, but _ predicted an intervention to address the problem.",Monica,Rebecca
+818,Lawrence was always gaining weight while Dennis was losing it as _ liked to eat too little.,Lawrence,Dennis
+819,Remodeling the kitchen came naturally to Michael but not William because _ had experience being a carpenter's apprentice.,Michael,William
+820,Neil cut trees down into lumber every year unlike Logan because _ lives in the city.,Neil,Logan
+821,Neil cut trees down into lumber every year unlike Logan because _ lives out in the countryside.,Neil,Logan
+822,Kyle asked Brett for some tips on healthy eating because _ has recently lost weight.,Kyle,Brett
+823,William was a huge animal rights activist but Randy couldn't care less so _ hated leather.,William,Randy
+824,William was a huge animal rights activist but Randy couldn't care less so _ loved leather.,William,Randy
+825,Maria wanted to play poker with Jennifer because _ was a better player and she won a lot of money.,Maria,Jennifer
+826,"Joel went to Michael 's house and consumed a lot of alcohol, so _ had to ride back home as a passenger.",Joel,Michael
